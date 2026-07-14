@@ -186,8 +186,74 @@ export default function HeroIllustration({ game }: { game?: string }) {
     case "subnautica-2": return <SubnauticaIllustration />;
     case "palworld": return <PalworldIllustration />;
     case "gta-6": return <GTAIllustration />;
+    case "ac-black-flag": return <BlackFlagIllustration />;
     default: return <QuestLogMark />;
   }
+}
+
+export function BlackFlagIllustration() {
+  return (
+    <svg viewBox="0 0 300 240" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-full h-auto max-w-[280px] opacity-90"
+      style={{ animation: "ship-sail 8s ease-in-out infinite" }}>
+      <style>{`
+        @keyframes ship-sail {
+          0%, 100% { transform: translate(10px, 5px) rotate(-2deg); }
+          25% { transform: translate(-10px, 15px) rotate(1deg); }
+          50% { transform: translate(-5px, 0px) rotate(3deg); }
+          75% { transform: translate(15px, 10px) rotate(-1deg); }
+        }
+        @keyframes wave-move {
+          0% { transform: translateX(0); }
+          100% { transform: translateX(-60px); }
+        }
+        @keyframes flag-wave {
+          0%, 100% { transform: skewX(-5deg); }
+          50% { transform: skewX(5deg); }
+        }
+        @keyframes cannon-smoke {
+          0%, 100% { opacity: 0; transform: scale(0.5) translateY(0); }
+          50% { opacity: 0.4; transform: scale(1.5) translateY(-10px); }
+        }
+      `}</style>
+      {/* Sky gradient */}
+      <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor="#F59E0B" stopOpacity="0.1"/><stop offset="100%" stopColor="#0A0E11" stopOpacity="0"/></linearGradient></defs>
+      <rect x="0" y="0" width="300" height="140" fill="url(#sky)" />
+      {/* Waves */}
+      <g style={{ animation: "wave-move 4s linear infinite" }}>
+        <path d="M0 160 Q30 145 60 160 T120 160 T180 160 T240 160 T300 160 L300 180 L0 180 Z" fill="#0A2A3A" opacity="0.4" />
+        <path d="M0 170 Q30 158 60 170 T120 170 T180 170 T240 170 T300 170 L300 190 L0 190 Z" fill="#0D3B4F" opacity="0.3" />
+      </g>
+      {/* Pirate ship hull */}
+      <path d="M90 150 L110 130 L190 130 L210 150 L195 160 L105 160 Z" fill="#1C2329" stroke="#F59E0B" strokeWidth="1.5" opacity="0.8" />
+      {/* Deck line */}
+      <line x1="110" y1="130" x2="190" y2="130" stroke="#F59E0B" strokeWidth="1" opacity="0.5" />
+      {/* Cannons */}
+      <rect x="120" y="152" width="8" height="4" rx="1" fill="#F59E0B" opacity="0.4" />
+      <rect x="155" y="152" width="8" height="4" rx="1" fill="#F59E0B" opacity="0.4" />
+      {/* Cannon smoke */}
+      <circle cx="124" cy="148" r="4" fill="#F59E0B" opacity="0.3" style={{ animation: "cannon-smoke 3s ease-out infinite" }} />
+      {/* Main mast */}
+      <line x1="150" y1="130" x2="150" y2="50" stroke="#F59E0B" strokeWidth="2" opacity="0.6" />
+      {/* Front mast */}
+      <line x1="120" y1="130" x2="120" y2="65" stroke="#F59E0B" strokeWidth="1.5" opacity="0.4" />
+      {/* Sails */}
+      <g style={{ animation: "flag-wave 3s ease-in-out infinite", transformOrigin: "150px 80px" }}>
+        <path d="M150 55 Q180 70 170 95 L150 95 Z" fill="#1C2329" stroke="#F59E0B" strokeWidth="1" opacity="0.6" />
+        <path d="M120 70 Q145 85 138 105 L120 105 Z" fill="#1C2329" stroke="#F59E0B" strokeWidth="0.8" opacity="0.4" />
+      </g>
+      {/* Pirate flag */}
+      <g style={{ animation: "flag-wave 2s ease-in-out infinite", transformOrigin: "150px 50px" }}>
+        <path d="M150 50 L175 48 L170 62 L150 60 Z" fill="#0A0E11" stroke="#F59E0B" strokeWidth="1" opacity="0.7" />
+        {/* Skull dot */}
+        <circle cx="160" cy="54" r="2" fill="#F59E0B" opacity="0.5" />
+      </g>
+      {/* Bowsprit */}
+      <line x1="110" y1="130" x2="85" y2="118" stroke="#F59E0B" strokeWidth="1.5" opacity="0.5" />
+      {/* Seagulls */}
+      <path d="M230 50 Q235 45 240 50" stroke="#FFF" strokeWidth="0.8" fill="none" opacity="0.2" />
+      <path d="M250 40 Q255 35 260 40" stroke="#FFF" strokeWidth="0.8" fill="none" opacity="0.15" />
+    </svg>
+  );
 }
 
 /** QuestLog brand mark — animated open book with turning pages */
