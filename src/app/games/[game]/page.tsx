@@ -65,6 +65,19 @@ const GAME_INFO: Record<string, {
     heroColor: "from-amber-900/20 via-bg-primary to-orange-900/20",
     heroEmoji: "🦊",
   },
+  "ac-black-flag": {
+    name: "Assassin's Creed Black Flag Resynced",
+    desc: "The legendary pirate adventure returns, rebuilt from the ground up. Sail the Caribbean as Edward Kenway, command the Jackdaw, and hunt legendary ships in this complete remake of the 2013 classic.",
+    stats: [
+      { value: "2M+", label: "Launch Week Sales", icon: "📦" },
+      { value: "99K", label: "Peak Players", icon: "👥" },
+      { value: "$70", label: "Price", icon: "💵" },
+      { value: "50+", label: "Hours of Content", icon: "⏱️" },
+    ],
+    tags: ["Open World", "Action", "Pirates", "Naval Combat", "Stealth", "Remake"],
+    heroColor: "from-amber-900/20 via-bg-primary to-yellow-900/20",
+    heroEmoji: "🏴‍☠️",
+  },
 };
 
 export async function generateMetadata({ params }: { params: Promise<{ game: string }> }) {

@@ -48,6 +48,14 @@ export default function Footer() {
               </li>
               <li>
                 <Link
+                  href="/games/ac-black-flag"
+                  className="text-sm text-text-secondary hover:text-accent transition-colors"
+                >
+                  AC Black Flag
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/games/gta-6"
                   className="text-sm text-text-secondary hover:text-accent transition-colors"
                 >

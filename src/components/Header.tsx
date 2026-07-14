@@ -7,6 +7,7 @@ const GAMES = [
   { name: "Meccha Chameleon", slug: "meccha-chameleon" },
   { name: "Subnautica 2", slug: "subnautica-2" },
   { name: "Palworld", slug: "palworld" },
+  { name: "AC Black Flag", slug: "ac-black-flag" },
   { name: "GTA 6", slug: "gta-6" },
 ];
 
