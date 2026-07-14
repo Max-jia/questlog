@@ -2,49 +2,8 @@ import Link from "next/link";
 import Image from "next/image";
 import { getLatestGuides } from "@/lib/content";
 import Newsletter from "@/components/Newsletter";
-
-/** Simple SVG chameleon for the hero section */
-function ChameleonIllustration() {
-  return (
-    <svg
-      viewBox="0 0 400 320"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-      className="w-full h-auto max-w-[340px] opacity-90"
-    >
-      {/* Body */}
-      <ellipse cx="140" cy="200" rx="90" ry="55" fill="#1C2329" stroke="#A1FF4F" strokeWidth="1.5" />
-      <ellipse cx="160" cy="195" rx="70" ry="42" fill="#161B20" />
-      {/* Camo pattern on body */}
-      <circle cx="120" cy="190" r="12" fill="#A1FF4F" opacity="0.2" />
-      <circle cx="185" cy="210" r="9" fill="#A1FF4F" opacity="0.15" />
-      <circle cx="150" cy="175" r="7" fill="#C74FFF" opacity="0.15" />
-      <circle cx="105" cy="215" r="6" fill="#A1FF4F" opacity="0.12" />
-      {/* Tail curl */}
-      <path d="M50 200 Q20 200 15 170 Q10 140 25 125 Q40 110 55 125" stroke="#A1FF4F" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-      {/* Head */}
-      <ellipse cx="238" cy="188" rx="30" ry="28" fill="#1C2329" stroke="#A1FF4F" strokeWidth="1.5" />
-      {/* Eye */}
-      <circle cx="248" cy="180" r="11" fill="#0A0E11" stroke="#A1FF4F" strokeWidth="1" />
-      <circle cx="251" cy="179" r="5" fill="#A1FF4F" />
-      <circle cx="253" cy="177" r="2" fill="#FFF" />
-      {/* Mouth line */}
-      <path d="M263 192 Q268 190 266 196" stroke="#A1FF4F" strokeWidth="1.2" fill="none" strokeLinecap="round" />
-      {/* Legs */}
-      <line x1="110" y1="250" x2="100" y2="275" stroke="#A1FF4F" strokeWidth="2.5" strokeLinecap="round" opacity="0.6" />
-      <line x1="160" y1="252" x2="160" y2="278" stroke="#A1FF4F" strokeWidth="2.5" strokeLinecap="round" opacity="0.6" />
-      <line x1="195" y1="245" x2="205" y2="270" stroke="#A1FF4F" strokeWidth="2.5" strokeLinecap="round" opacity="0.6" />
-      {/* Tongue */}
-      <path d="M270 198 Q290 205 295 215" stroke="#C74FFF" strokeWidth="2" fill="none" strokeLinecap="round" opacity="0.7" />
-      {/* Floating particles */}
-      <circle cx="300" cy="140" r="3" fill="#A1FF4F" opacity="0.3" />
-      <circle cx="80" cy="100" r="2" fill="#C74FFF" opacity="0.25" />
-      <circle cx="330" cy="180" r="2" fill="#A1FF4F" opacity="0.2" />
-      <circle cx="60" cy="150" r="3" fill="#C74FFF" opacity="0.2" />
-      <circle cx="280" cy="110" r="2.5" fill="#A1FF4F" opacity="0.25" />
-    </svg>
-  );
-}
+import GameBackground from "@/components/GameBackground";
+import { QuestLogMark } from "@/components/HeroIllustration";
 
 /** SVG icons for stats */
 function StatIcon({ type }: { type: string }) {
@@ -73,10 +32,10 @@ export default function Home() {
     <>
       {/* ===== HERO ===== */}
       <section className="relative overflow-hidden border-b border-border">
-        <div className="absolute inset-0">
-          <div className="absolute top-0 -right-20 w-[700px] h-[500px] opacity-[0.06]" style={{ background: "radial-gradient(circle at 60% 40%, #A1FF4F 0%, transparent 65%)" }} />
-          <div className="absolute bottom-0 -left-32 w-[500px] h-[400px] opacity-[0.05]" style={{ background: "radial-gradient(circle at 30% 60%, #C74FFF 0%, transparent 65%)" }} />
-          {/* Subtle dot pattern */}
+        <div className="absolute inset-0 z-0">
+          <GameBackground />
+          <div className="absolute inset-0 top-0 -right-20 w-[700px] h-[500px] opacity-[0.06]" style={{ background: "radial-gradient(circle at 60% 40%, #A1FF4F 0%, transparent 65%)" }} />
+          <div className="absolute inset-0 bottom-0 -left-32 w-[500px] h-[400px] opacity-[0.05]" style={{ background: "radial-gradient(circle at 30% 60%, #C74FFF 0%, transparent 65%)" }} />
           <div className="absolute inset-0 opacity-[0.03]" style={{ backgroundImage: "radial-gradient(circle, #A1FF4F 1px, transparent 1px)", backgroundSize: "32px 32px" }} />
         </div>
 
@@ -133,7 +92,7 @@ export default function Home() {
             <div className="hidden lg:flex items-center justify-center flex-shrink-0">
               <div className="relative">
                 <div className="absolute inset-0 rounded-full bg-accent/5 blur-3xl" style={{ transform: "scale(1.3)" }} />
-                <ChameleonIllustration />
+                <QuestLogMark />
               </div>
             </div>
           </div>

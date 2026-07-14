@@ -3,6 +3,8 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getGuidesByGame } from "@/lib/content";
 import { ChameleonIcon } from "@/components/Visuals";
+import GameBackground from "@/components/GameBackground";
+import HeroIllustration from "@/components/HeroIllustration";
 
 const GAME_INFO: Record<string, {
   name: string; desc: string;
@@ -92,41 +94,35 @@ export default async function GamePage({ params }: { params: Promise<{ game: str
     <div>
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-border">
-        <div className={`absolute inset-0 bg-gradient-to-br ${info.heroColor}`} />
-        <div className="absolute inset-0 opacity-[0.03]" style={{ backgroundImage: "radial-gradient(circle, #A1FF4F 1px, transparent 1px)", backgroundSize: "24px 24px" }} />
-        {/* Hero image */}
-        <div className="absolute right-0 top-0 w-1/2 h-full hidden lg:block">
-          <Image src="/images/meccha-chameleon/cover.jpg" alt={info.name} fill className="object-cover opacity-30" />
-          <div className="absolute inset-0 bg-gradient-to-r from-bg-primary via-bg-primary/80 to-transparent" />
+        <div className="absolute inset-0 z-0">
+          <GameBackground game={game} />
+          <div className={`absolute inset-0 bg-gradient-to-br ${info.heroColor}`} />
         </div>
+        <div className="absolute inset-0 opacity-[0.03]" style={{ backgroundImage: "radial-gradient(circle, #A1FF4F 1px, transparent 1px)", backgroundSize: "24px 24px" }} />
         <div className="mx-auto max-w-7xl px-4 sm:px-6 py-12 lg:py-16 relative">
           <Link href="/" className="inline-flex items-center gap-1 text-sm text-text-muted hover:text-accent transition-colors mb-6">
             <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" /></svg>
             All Games
           </Link>
 
-          <div className="flex flex-col sm:flex-row items-start sm:items-center gap-5 mb-4">
-            <div className="flex-shrink-0">
-              <ChameleonIcon size={72} />
-            </div>
-            <div>
+          <div className="flex flex-col lg:flex-row items-center gap-8 lg:gap-16">
+            {/* Left: Info */}
+            <div className="flex-1 max-w-2xl">
               <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl tracking-wider text-text-primary leading-[0.9]">{info.name}</h1>
-            </div>
-          </div>
-          <p className="mt-4 text-lg text-text-secondary max-w-2xl leading-relaxed">{info.desc}</p>
+              <p className="mt-4 text-lg text-text-secondary leading-relaxed">{info.desc}</p>
 
-          {/* Tags */}
-          <div className="mt-4 flex flex-wrap gap-2">
-            {info.tags.map((tag) => (
-              <span key={tag} className="px-2.5 py-1 text-[11px] font-medium rounded-md bg-bg-elevated text-text-secondary border border-border">{tag}</span>
-            ))}
-          </div>
+              {/* Tags */}
+              <div className="mt-4 flex flex-wrap gap-2">
+                {info.tags.map((tag) => (
+                  <span key={tag} className="px-2.5 py-1 text-[11px] font-medium rounded-md bg-bg-elevated text-text-secondary border border-border">{tag}</span>
+                ))}
+              </div>
 
-          {/* Stats */}
-          <div className="mt-8 grid grid-cols-2 sm:grid-cols-4 gap-4">
-            {info.stats.map((stat) => (
-              <div key={stat.label} className="p-4 rounded-xl bg-bg-card border border-border flex items-center gap-3">
-                <div className="flex items-center justify-center w-10 h-10 rounded-lg bg-bg-elevated text-lg">{stat.icon}</div>
+              {/* Stats */}
+              <div className="mt-8 grid grid-cols-2 sm:grid-cols-4 gap-4">
+                {info.stats.map((stat) => (
+                  <div key={stat.label} className="p-4 rounded-xl bg-bg-card border border-border flex items-center gap-3">
+                    <div className="flex items-center justify-center w-10 h-10 rounded-lg bg-bg-elevated text-lg">{stat.icon}</div>
                 <div>
                   <div className="font-display text-xl tracking-wider text-accent">{stat.value}</div>
                   <div className="text-[11px] text-text-muted">{stat.label}</div>
@@ -138,6 +134,16 @@ export default async function GamePage({ params }: { params: Promise<{ game: str
           <div className="mt-6 flex flex-wrap gap-3">
             <a href="https://store.steampowered.com" target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-5 py-2.5 text-sm font-semibold bg-accent text-black rounded-lg hover:bg-accent-dim transition-colors">Buy on Steam</a>
             <a href="#guides" className="inline-flex items-center px-5 py-2.5 text-sm font-semibold text-text-primary border border-border rounded-lg hover:bg-bg-card transition-colors">Browse {guides.length} Guides</a>
+          </div>
+            </div>
+
+            {/* Right: Animated Illustration */}
+            <div className="hidden lg:flex items-center justify-center flex-shrink-0">
+              <div className="relative">
+                <div className="absolute inset-0 rounded-full bg-accent/5 blur-3xl" style={{ transform: "scale(1.3)" }} />
+                <HeroIllustration game={game} />
+              </div>
+            </div>
           </div>
         </div>
       </section>
