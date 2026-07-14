@@ -1,6 +1,6 @@
 ---
-title: "Subnautica 2 Adaptive Measures Update — All New Biomods, Biolabs & Creature AI Changes"
-excerpt: "Subnautica 2's first major Early Access update is here. 6 Biomods, 2 new Biolabs, overhauled creature AI, sprinting, FOV slider, and a roadmap for what's next."
+title: "Subnautica 2 Update 1.1 Patch Notes — All Changes, New Biomods, Biolabs & Creature AI"
+excerpt: "Subnautica 2 patch notes for update 1.1 (Adaptive Measures). 6 Biomods, 2 new Biolabs, creature AI overhaul, sprinting, FOV slider, and 1.2 roadmap."
 game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-07-09"

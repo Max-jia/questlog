@@ -1,6 +1,6 @@
 ---
-title: "GTA 6 Release Time by Timezone — Exactly When You Can Play on November 19"
-excerpt: "GTA 6 unlocks at midnight local time worldwide. Here's exactly when you can play in every major timezone: EST, PST, GMT, CET, IST, JST, AEST, and more."
+title: "GTA 6 Countdown — Release Date, Time by Timezone & When You Can Play (Nov 19)"
+excerpt: "GTA 6 countdown to November 19, 2026. Release date confirmed. Unlock times for every timezone: EST, PST, GMT, CET, IST, JST, AEST. Pre-load starts November 12."
 game: gta-6
 gameName: "Grand Theft Auto VI"
 date: "2026-06-17"

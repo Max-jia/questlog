@@ -1,6 +1,6 @@
 ---
-title: "Is Meccha Chameleon Worth $6? — Honest 2026 Review (15 Million Players Can't Be Wrong)"
-excerpt: "Is Meccha Chameleon worth $6? Honest 2026 review covering gameplay, pros and cons, comparisons to Among Us and Prop Hunt, and who should buy it."
+title: "Is Meccha Chameleon Free to Play? No, It Costs $6 — 2026 Review (Worth It?)"
+excerpt: "Meccha Chameleon is not free to play. It costs $6 on Steam with no microtransactions. Here is why 15 million players bought it, plus answers about mobile, free versions, and platforms."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-27"
@@ -8,9 +8,9 @@ category: Review
 verified: verified
 gameVersion: "1.0"
 tldr:
-  - "Best $6 you'll spend on Steam — 15 million players can't be wrong"
-  - "Zero microtransactions, no battle pass, no DLC. You buy the game, you get everything"
-  - "Best with friends on voice chat. Solo public lobbies have trolls and occasional cheaters"
+  - "Meccha Chameleon is NOT free to play. It costs $6 on Steam. No microtransactions, no DLC."
+  - "NOT on mobile, NOT on console. PC only (Steam). No Android, iOS, or Switch versions exist."
+  - "Best $6 you will spend on Steam this year. Best with friends on voice chat."
 tags:
   - Review
   - Worth It
