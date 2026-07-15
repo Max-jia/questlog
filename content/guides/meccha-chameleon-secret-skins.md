@@ -5,6 +5,7 @@ game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-29"
 category: Cosmetics
+section: Reference
 verified: community
 gameVersion: "1.0"
 tldr:

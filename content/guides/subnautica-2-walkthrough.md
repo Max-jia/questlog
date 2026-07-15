@@ -5,6 +5,7 @@ game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-06-22"
 category: Walkthrough
+section: Maps
 verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:

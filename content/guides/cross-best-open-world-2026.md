@@ -5,6 +5,7 @@ game: gta-6
 gameName: "Grand Theft Auto VI"
 date: "2026-07-02"
 category: Listicle
+section: Reference
 verified: verified
 gameVersion: "N/A"
 tldr:

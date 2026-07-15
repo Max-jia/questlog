@@ -5,6 +5,7 @@ game: palworld
 gameName: "Palworld"
 date: "2026-07-10"
 category: Beginner
+section: Beginner
 featured: true
 verified: verified
 gameVersion: "1.0"

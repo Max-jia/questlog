@@ -5,6 +5,7 @@ game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
 date: "2026-07-15"
 category: Guides
+section: Reference
 verified: verified
 gameVersion: "1.0"
 tldr:

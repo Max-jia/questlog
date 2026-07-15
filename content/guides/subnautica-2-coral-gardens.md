@@ -5,6 +5,7 @@ game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-07-15"
 category: Guides
+section: Beginner
 verified: verified
 gameVersion: "1.1 (Adaptive Measures)"
 tldr:

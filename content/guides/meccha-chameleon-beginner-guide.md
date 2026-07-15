@@ -5,6 +5,7 @@ game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-05"
 category: Beginner
+section: Beginner
 featured: true
 verified: verified
 gameVersion: "1.0"

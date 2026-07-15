@@ -5,6 +5,7 @@ game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-05-30"
 category: FAQ
+section: Beginner
 verified: community
 gameVersion: "Early Access (May 2026)"
 tldr:

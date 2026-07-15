@@ -5,6 +5,7 @@ game: gta-6
 gameName: "Grand Theft Auto VI"
 date: "2026-05-30"
 category: FAQ
+section: Reference
 verified: verified
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:

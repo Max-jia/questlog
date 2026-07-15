@@ -5,6 +5,7 @@ game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-07-05"
 category: Listicle
+section: Reference
 verified: verified
 gameVersion: "N/A"
 tldr:

@@ -5,6 +5,7 @@ game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
 date: "2026-07-14"
 category: Beginner
+section: Beginner
 featured: true
 verified: verified
 gameVersion: "1.0"

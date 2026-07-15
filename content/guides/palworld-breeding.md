@@ -5,6 +5,7 @@ game: palworld
 gameName: "Palworld"
 date: "2026-07-14"
 category: Guides
+section: Progression
 verified: verified
 gameVersion: "1.0"
 tldr:

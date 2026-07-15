@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { getGuidesByGame } from "@/lib/content";
+import { getGuidesByGame, getSections } from "@/lib/content";
 import { ChameleonIcon } from "@/components/Visuals";
 import GameBackground from "@/components/GameBackground";
 import HeroIllustration from "@/components/HeroIllustration";
@@ -95,6 +95,7 @@ export default async function GamePage({ params }: { params: Promise<{ game: str
   const info = GAME_INFO[game];
   if (!info) notFound();
   const guides = getGuidesByGame(game);
+  const sections = getSections(game);
 
   const catColors: Record<string, string> = {
     Beginner: "text-green-400 bg-green-400/10",
@@ -164,7 +165,27 @@ export default async function GamePage({ params }: { params: Promise<{ game: str
       {/* Guides */}
       <section id="guides">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 py-12 lg:py-16">
-          <h2 className="font-display text-2xl sm:text-3xl tracking-wider text-text-primary mb-8">All {info.name} Guides</h2>
+          <h2 className="font-display text-2xl sm:text-3xl tracking-wider text-text-primary mb-4">All {info.name} Guides</h2>
+
+          {/* Category navigation */}
+          {sections.length > 0 && (
+            <div className="flex flex-wrap gap-2 mb-8">
+              <span className="px-3 py-1.5 rounded-lg text-xs font-medium bg-accent/15 text-accent border border-accent/30">
+                All ({guides.length})
+              </span>
+              {sections.map((sec) => {
+                const count = getGuidesByGame(game, sec).length;
+                return (
+                  <span
+                    key={sec}
+                    className="px-3 py-1.5 rounded-lg text-xs font-medium bg-bg-card text-text-secondary border border-border"
+                  >
+                    {sec} ({count})
+                  </span>
+                );
+              })}
+            </div>
+          )}
 
           {guides.length > 0 ? (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">

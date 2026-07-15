@@ -5,6 +5,7 @@ game: palworld
 gameName: "Palworld"
 date: "2026-07-16"
 category: Guides
+section: Combat
 verified: verified
 gameVersion: "1.0"
 tldr:

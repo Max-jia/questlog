@@ -5,6 +5,7 @@ game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-26"
 category: Advanced
+section: Combat
 verified: community
 gameVersion: "1.0"
 tldr:

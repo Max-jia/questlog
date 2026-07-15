@@ -5,6 +5,7 @@ game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-07-09"
 category: News
+section: Progression
 verified: verified
 gameVersion: "1.1 (Adaptive Measures)"
 tldr:

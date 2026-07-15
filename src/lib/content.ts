@@ -18,6 +18,23 @@ export interface GuideMeta {
   sources?: { name: string; url: string }[];
   verified?: "verified" | "community" | "unverified";
   tldr?: string[];
+  section?: string;
+}
+
+/** Get distinct sections for a game */
+export function getSections(gameSlug: string): string[] {
+  const guides = getGuidesByGame(gameSlug);
+  const sections = new Set(guides.map((g) => g.section || "Other"));
+  return Array.from(sections).sort();
+}
+
+/** Get guides for a specific game, optionally filtered by section */
+export function getGuidesByGame(gameSlug: string, section?: string): GuideMeta[] {
+  const all = getAllGuides().filter((g) => g.game === gameSlug);
+  if (section && section !== "All") {
+    return all.filter((g) => (g.section || "Other") === section);
+  }
+  return all;
 }
 
 export interface Guide {
@@ -47,11 +64,6 @@ export function getAllGuides(): GuideMeta[] {
 /** Get latest N guides */
 export function getLatestGuides(limit = 6): GuideMeta[] {
   return getAllGuides().slice(0, limit);
-}
-
-/** Get guides for a specific game */
-export function getGuidesByGame(gameSlug: string): GuideMeta[] {
-  return getAllGuides().filter((g) => g.game === gameSlug);
 }
 
 /** Get a single guide by game slug and guide slug */

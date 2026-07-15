@@ -5,6 +5,7 @@ game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-07-09"
 category: News
+section: Combat
 verified: verified
 gameVersion: "2.3.2"
 tldr:

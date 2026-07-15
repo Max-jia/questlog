@@ -5,6 +5,7 @@ game: gta-6
 gameName: "Grand Theft Auto VI"
 date: "2026-07-13"
 category: News
+section: News
 verified: community
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:

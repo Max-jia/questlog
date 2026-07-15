@@ -5,6 +5,7 @@ game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-06-08"
 category: Guides
+section: Multiplayer
 verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
