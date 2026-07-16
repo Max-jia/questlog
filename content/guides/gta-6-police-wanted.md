@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Police & Wanted System — How It's Expected to Change From GTA V"
+title: "GTA 6 Police & Wanted System : How It's Expected to Change From GTA V"
 excerpt: "Everything we know about GTA 6's police AI and wanted system. RDR2-style witness mechanics, improved cop behavior, and how the wanted level system might evolve."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,8 +9,8 @@ section: Combat
 verified: community
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Leaked footage suggests RDR2-style witness system — NPCs can report crimes, and you can silence witnesses"
-  - "Cop AI is expected to be dramatically improved — more realistic pursuit, less 'teleporting police'"
+  - "Leaked footage suggests RDR2-style witness system : NPCs can report crimes, and you can silence witnesses"
+  - "Cop AI is expected to be dramatically improved : more realistic pursuit, less 'teleporting police'"
   - "Modern Vice City setting means helicopters, drones, and surveillance cameras may play a role"
 tags:
   - Police
@@ -18,9 +18,9 @@ tags:
   - Gameplay
   - AI
 sources:
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
-  - name: "Rockstar Games — Official Trailers"
+  - name: "Rockstar Games : Official Trailers"
     url: "https://www.rockstargames.com/VI"
 ---
 

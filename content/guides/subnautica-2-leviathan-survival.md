@@ -1,6 +1,6 @@
 ---
-title: "How to Survive Every Leviathan in Subnautica 2 — Predator Escape & Defense Guide"
-excerpt: "How to survive every Leviathan and predator in Subnautica 2. Detailed strategies for Collector, Great Jaw, Deepwing, and Epicurean — evasion, stunning, escape."
+title: "How to Survive Every Leviathan in Subnautica 2 : Predator Escape & Defense Guide"
+excerpt: "How to survive every Leviathan and predator in Subnautica 2. Detailed strategies for Collector, Great Jaw, Deepwing, and Epicurean : evasion, stunning, escape."
 game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-06-06"
@@ -9,8 +9,8 @@ section: Combat
 verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
-  - "You cannot kill predators — your tools are for evasion, stunning, and escape"
-  - "The Collector Leviathan patrols on a fixed ~45-second loop — cross immediately after it passes"
+  - "You cannot kill predators : your tools are for evasion, stunning, and escape"
+  - "The Collector Leviathan patrols on a fixed ~45-second loop : cross immediately after it passes"
   - "Feedback Resonator > Sonic Resonator for stunning. Impact Armor reduces bite damage"
 tags:
   - Predators
@@ -18,11 +18,11 @@ tags:
   - Survival
   - Combat
 sources:
-  - name: "IGN Wiki — Subnautica 2"
+  - name: "IGN Wiki : Subnautica 2"
     url: "https://www.ign.com/wikis/subnautica-2/"
-  - name: "Game8 — Walkthrough"
+  - name: "Game8 : Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "GameRant — Beginner Tips"
+  - name: "GameRant : Beginner Tips"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
 ---
 

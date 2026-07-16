@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Download Size, Pre-Load Date & Storage Guide — How to Prepare Your Console"
+title: "GTA 6 Download Size, Pre-Load Date & Storage Guide : How to Prepare Your Console"
 excerpt: "GTA 6 is going to be massive. Here's the expected download size (150-200 GB), pre-load date (Nov 12), how to free up space, and tips for downloading faster on launch day."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,8 +9,8 @@ section: Reference
 verified: community
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Expect 150-200 GB download — GTA V is 100+ GB, RDR2 is 150 GB"
-  - "Pre-load starts November 12 — one week to download before launch"
+  - "Expect 150-200 GB download : GTA V is 100+ GB, RDR2 is 150 GB"
+  - "Pre-load starts November 12 : one week to download before launch"
   - "Clear 200 GB now. Buy an SSD expansion if you're running low"
 tags:
   - Download Size
@@ -18,9 +18,9 @@ tags:
   - Pre-Load
   - Preparation
 sources:
-  - name: "Rockstar Games — GTA V & RDR2 File Sizes"
+  - name: "Rockstar Games : GTA V & RDR2 File Sizes"
     url: "https://www.rockstargames.com/"
-  - name: "IGN — GTA 6 Details"
+  - name: "IGN : GTA 6 Details"
     url: "https://in.ign.com/grand-theft-auto-vi/"
 ---
 

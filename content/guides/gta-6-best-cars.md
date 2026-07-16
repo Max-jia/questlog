@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Best Vehicles — Every Confirmed Car, Boat & Aircraft"
+title: "GTA 6 Best Vehicles : Every Confirmed Car, Boat & Aircraft"
 excerpt: "Every vehicle Rockstar has confirmed for GTA 6. Sports cars, off-road buggies, watercraft, and the air vehicles we know about so far."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -18,9 +18,9 @@ tags:
   - Boats
   - Aircraft
 sources:
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
-  - name: "Rockstar Games — Official Trailers"
+  - name: "Rockstar Games : Official Trailers"
     url: "https://www.rockstargames.com/VI"
 ---
 
@@ -49,5 +49,5 @@ Vehicle interior customization is new to the series. You can modify seats, dashb
 
 ## Related Guides
 - [GTA 6 vehicles and weapons](/games/gta-6/gta-6-vehicles-weapons)
-- [GTA 6 — Everything we know](/games/gta-6/gta-6-everything-we-know)
+- [GTA 6 : Everything we know](/games/gta-6/gta-6-everything-we-know)
 - [Pre-order guide](/games/gta-6/gta-6-preorder-guide)

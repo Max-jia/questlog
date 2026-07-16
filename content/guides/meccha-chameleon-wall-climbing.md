@@ -1,5 +1,5 @@
 ---
-title: "How to Master Wall Climbing in Meccha Chameleon — Reach Spots Nobody Checks"
+title: "How to Master Wall Climbing in Meccha Chameleon : Reach Spots Nobody Checks"
 excerpt: "Master wall climbing to reach ceiling spots 90% of seekers never check. Complete climbing controls, per-map routes, and advanced vertical hiding strategies."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -9,7 +9,7 @@ section: Combat
 verified: verified
 gameVersion: "1.0"
 tldr:
-  - "Hold Space to climb walls — you can stay attached indefinitely with no stamina limit"
+  - "Hold Space to climb walls : you can stay attached indefinitely with no stamina limit"
   - "90% of seekers never look above eye level. Ceilings, rafters, and high corners are safe zones"
   - "Use E/Q to fine-tune position, Shift to detach, Space to reattach"
 tags:
@@ -18,11 +18,11 @@ tags:
   - Hider Guide
   - Movement
 sources:
-  - name: "NeonLightsMedia — Advanced Hiding Guide"
+  - name: "NeonLightsMedia : Advanced Hiding Guide"
     url: "https://www.neonlightsmedia.com/blog/meccha-chameleon-advanced-hider-guide"
-  - name: "NineWiki — MECCHA CHAMELEON Tech Guide"
+  - name: "NineWiki : MECCHA CHAMELEON Tech Guide"
     url: "https://ninewiki.com/guide/meccha-chameleon-tech-guide/"
-  - name: "IGN Wiki — Meccha Chameleon Tips and Tricks"
+  - name: "IGN Wiki : Meccha Chameleon Tips and Tricks"
     url: "https://www.ign.com/wikis/meccha-chameleon/"
 ---
 

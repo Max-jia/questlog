@@ -1,5 +1,5 @@
 ---
-title: "Best Settings for Meccha Chameleon — Mouse, Graphics & Keybinds for Winning"
+title: "Best Settings for Meccha Chameleon : Mouse, Graphics & Keybinds for Winning"
 excerpt: "Optimize your Meccha Chameleon setup for competitive play. Best mouse sensitivity, graphics settings, keybind recommendations, and pro-level configuration tips."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -9,7 +9,7 @@ section: Reference
 verified: community
 gameVersion: "1.0"
 tldr:
-  - "Lower mouse sensitivity for precise eyedropper sampling — high DPI but low in-game sens"
+  - "Lower mouse sensitivity for precise eyedropper sampling : high DPI but low in-game sens"
   - "Turn off anti-aliasing and set shadows to Low for higher FPS and better hider visibility"
   - "Rebind the pose wheel (R) and paint menu (F) to mouse side buttons for faster access"
 tags:
@@ -18,9 +18,9 @@ tags:
   - Mouse
   - Keybinds
 sources:
-  - name: "NeonLightsMedia — PC Controls & Keybinds"
+  - name: "NeonLightsMedia : PC Controls & Keybinds"
     url: "https://www.neonlightsmedia.com/blog/meccha-chameleon-pc-controls-keybinds"
-  - name: "ProdigyGamers — FPS Drop Fix"
+  - name: "ProdigyGamers : FPS Drop Fix"
     url: "https://prodigygamers.com/2026/06/17/meccha-chameleon-fps-drop-fix-best-settings-for-low-end-pcs/"
 ---
 

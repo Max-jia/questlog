@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Deep Sea Survival — 10 Tips for Exploring Below 200 Meters"
+title: "Subnautica 2 Deep Sea Survival : 10 Tips for Exploring Below 200 Meters"
 excerpt: "Below 200 meters, everything changes. Light fades. Oxygen drains faster. Predators get bigger. Here is how to survive the deep ocean without dying every five minutes."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Beginner
   - Oxygen
 sources:
-  - name: "Game8 — Subnautica 2 Walkthrough"
+  - name: "Game8 : Subnautica 2 Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "GameRant — Beginner Tips"
+  - name: "GameRant : Beginner Tips"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
 ---
 
@@ -91,6 +91,6 @@ Leviathans hunt by sound. The Cavitation Muffler helps. If you hear a roar, stop
 ---
 
 ## Related Guides
-- [Oxygen guide — every tank and upgrade](/games/subnautica-2/subnautica-2-oxygen-guide)
+- [Oxygen guide : every tank and upgrade](/games/subnautica-2/subnautica-2-oxygen-guide)
 - [Leviathan survival guide](/games/subnautica-2/subnautica-2-leviathan-survival)
 - [Tadpole upgrade guide](/games/subnautica-2/subnautica-2-vehicle-upgrades)

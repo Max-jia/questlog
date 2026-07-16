@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Side Activities — Every Confirmed Hobby, Sport & Minigame"
+title: "GTA 6 Side Activities : Every Confirmed Hobby, Sport & Minigame"
 excerpt: "Beyond the main story. Fishing, golf, tennis, street racing, hunting, scuba diving, and every confirmed side activity in GTA 6."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -18,9 +18,9 @@ tags:
   - Minigames
   - Gameplay
 sources:
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
-  - name: "Rockstar Games — Official Trailers"
+  - name: "Rockstar Games : Official Trailers"
     url: "https://www.rockstargames.com/VI"
 ---
 
@@ -76,4 +76,4 @@ Collector Wyman gives you a "Special Commission" to find abandoned classic cars 
 ## Related Guides
 - [GTA 6 gameplay features](/games/gta-6/gta-6-gameplay-activities)
 - [GTA 6 vehicles and weapons](/games/gta-6/gta-6-vehicles-weapons)
-- [GTA 6 — Everything we know](/games/gta-6/gta-6-everything-we-know)
+- [GTA 6 : Everything we know](/games/gta-6/gta-6-everything-we-know)

@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 — 12 Things You Should Stop Doing Immediately"
+title: "Subnautica 2 : 12 Things You Should Stop Doing Immediately"
 excerpt: "Some habits in Subnautica 2 are actively making your life harder. Stop doing these 12 things and you'll save hours of frustration."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Beginner
   - Survival
 sources:
-  - name: "GameRant — Beginner Tips"
+  - name: "GameRant : Beginner Tips"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
-  - name: "Game8 — Tips and Tricks"
+  - name: "Game8 : Tips and Tricks"
     url: "https://game8.co/games/Subnautica-2/archives/598742"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Collectibles Guide — What to Expect From 700+ Enterable Interiors"
+title: "GTA 6 Collectibles Guide : What to Expect From 700+ Enterable Interiors"
 excerpt: "700+ enterable interiors means hundreds of collectibles. Here is what types of collectibles to expect based on GTA history and what has been confirmed."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -18,9 +18,9 @@ tags:
   - Secrets
   - Map
 sources:
-  - name: "Rockstar Games — Official Trailers"
+  - name: "Rockstar Games : Official Trailers"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
 ---
 
@@ -34,7 +34,7 @@ GTA V had over 200 collectibles. GTA 6 has 700+ enterable interiors. That means 
 
 | Type | Source |
 |------|--------|
-| Classic cars (barn finds) | Ultimate Edition — Classic Car Collection commission |
+| Classic cars (barn finds) | Ultimate Edition: Classic Car Collection commission |
 | Classic car parts | Wyman side missions |
 | Gang compound loot | Raid missions |
 | Underwater treasure | Scuba diving confirmation |
@@ -53,4 +53,4 @@ GTA V had over 200 collectibles. GTA 6 has 700+ enterable interiors. That means 
 
 ## Related Guides
 - [GTA 6 map guide](/games/gta-6/gta-6-map-guide)
-- [GTA 6 — Everything we know](/games/gta-6/gta-6-everything-we-know)
+- [GTA 6: Everything we know](/games/gta-6/gta-6-everything-we-know)

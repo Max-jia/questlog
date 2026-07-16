@@ -1,5 +1,5 @@
 ---
-title: "AC Black Flag Resynced Money Guide — How to Get Rich Fast"
+title: "AC Black Flag Resynced Money Guide : How to Get Rich Fast"
 excerpt: "You need money for ship upgrades, weapons, and outfits. Here are the fastest ways to make money and what to never waste your Reales on."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
@@ -18,9 +18,9 @@ tags:
   - Tips
   - Economy
 sources:
-  - name: "VGC — AC Black Flag Resynced Guide"
+  - name: "VGC : AC Black Flag Resynced Guide"
     url: "https://www.videogameschronicle.com/guide/ac-black-flag-resynced-hms-ipswich-maynard-boss-world-without-gold-guide/"
-  - name: "IGN Wiki — Black Flag Resynced"
+  - name: "IGN Wiki : Black Flag Resynced"
     url: "https://www.ign.com/wikis/assassins-creed-black-flag-resynced/"
 ---
 

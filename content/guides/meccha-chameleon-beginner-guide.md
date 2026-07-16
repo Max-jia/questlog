@@ -1,5 +1,5 @@
 ---
-title: "How to Play Meccha Chameleon — Complete Beginner's Guide with Tips & Controls"
+title: "How to Play Meccha Chameleon : Complete Beginner's Guide with Tips & Controls"
 excerpt: "Learn how to play Meccha Chameleon with this complete beginner's guide. Covers controls, painting, hiding spots, game modes, and essential tips to stop getting caught immediately."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -11,7 +11,7 @@ verified: verified
 gameVersion: "1.0"
 tldr:
   - "Press F for paint menu, Space to sample colors, V to turn off shadows"
-  - "Pose before painting — your silhouette gives you away faster than bad color"
+  - "Pose before painting : your silhouette gives you away faster than bad color"
   - "Start with Basic mode, rotate hiding spots every round, and never skip the Scanner in Subnautica 2"
 tags:
   - Beginner Guide
@@ -19,15 +19,15 @@ tags:
   - Controls
   - Tips
 sources:
-  - name: "IGN Wiki — Meccha Chameleon Tips and Tricks"
+  - name: "IGN Wiki : Meccha Chameleon Tips and Tricks"
     url: "https://www.ign.com/wikis/meccha-chameleon/"
-  - name: "Destructoid — Meccha Chameleon Beginner's Tips"
+  - name: "Destructoid : Meccha Chameleon Beginner's Tips"
     url: "https://www.destructoid.com/meccha-chameleon-beginners-tips-and-tricks-for-painters-and-hunters/"
-  - name: "TheGamer — Clone Mechanics Guide"
+  - name: "TheGamer : Clone Mechanics Guide"
     url: "https://www.thegamer.com/meccha-chameleon-clone-mechanics-guide/"
-  - name: "GameRant — Hunter Tips"
+  - name: "GameRant : Hunter Tips"
     url: "https://gamerant.com/meccha-chameleon-hunter-tips/"
-  - name: "Lagofast — Beginner Guide"
+  - name: "Lagofast : Beginner Guide"
     url: "https://www.lagofast.com/en/blog/meccha-chameleon-beginner-guide/"
 ---
 

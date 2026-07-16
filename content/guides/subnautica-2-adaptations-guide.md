@@ -1,6 +1,6 @@
 ---
-title: "All Angel Comb Locations in Subnautica 2 — Every Adaptation Unlock Guide"
-excerpt: "Every Angel Comb location and Adaptation unlock in Subnautica 2. Complete progression guide — Digestion, Endurance, Dexterity, Heat Tolerance, and Axum Vision."
+title: "All Angel Comb Locations in Subnautica 2 : Every Adaptation Unlock Guide"
+excerpt: "Every Angel Comb location and Adaptation unlock in Subnautica 2. Complete progression guide : Digestion, Endurance, Dexterity, Heat Tolerance, and Axum Vision."
 game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-05-14"
@@ -9,8 +9,8 @@ section: Maps
 verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
-  - "Digestion (NE, 160m) is mandatory — you cannot progress without it"
-  - "Heat Tolerance is required for Hydrothermal Vents — you need the Sonic Resonator first"
+  - "Digestion (NE, 160m) is mandatory : you cannot progress without it"
+  - "Heat Tolerance is required for Hydrothermal Vents : you need the Sonic Resonator first"
   - "Axum Vision is the last adaptation, found at the Karakorum Power Plant (200m+)"
 tags:
   - Adaptations
@@ -18,11 +18,11 @@ tags:
   - Progression
   - Survival
 sources:
-  - name: "Rock Paper Shotgun — What to Do First"
+  - name: "Rock Paper Shotgun : What to Do First"
     url: "https://www.rockpapershotgun.com/subnautica-2-what-to-do-first"
-  - name: "Game8 — Complete Walkthrough"
+  - name: "Game8 : Complete Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "GameWith — Early Game Progression"
+  - name: "GameWith : Early Game Progression"
     url: "https://gamewith.net/subnautica-2/75772"
 ---
 

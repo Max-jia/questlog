@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Story Walkthrough — All Black Boxes & Main Objectives in Order"
+title: "Subnautica 2 Story Walkthrough : All Black Boxes & Main Objectives in Order"
 excerpt: "Complete Subnautica 2 story walkthrough. All Black Box locations, main objectives, chapter progression, and how to cross the Collector Leviathan trench into Karakorum."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -9,8 +9,8 @@ section: Maps
 verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
-  - "Follow NOA's Black Box missions in order — Anita, Chap, Wander, Quaker"
-  - "The Collector Leviathan patrols the Karakorum trench on a ~45-second loop — wait for it to pass"
+  - "Follow NOA's Black Box missions in order : Anita, Chap, Wander, Quaker"
+  - "The Collector Leviathan patrols the Karakorum trench on a ~45-second loop : wait for it to pass"
   - "Current Early Access story ends at Power Plant repair and Metal Farms exploration"
 tags:
   - Walkthrough
@@ -18,11 +18,11 @@ tags:
   - Black Boxes
   - Progression
 sources:
-  - name: "Game8 — Walkthrough and Progression Guide"
+  - name: "Game8 : Walkthrough and Progression Guide"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "TechRaptor — Subnautica 2 Walkthrough"
+  - name: "TechRaptor : Subnautica 2 Walkthrough"
     url: "https://techraptor.net/gaming/guides/subnautica-2-walkthrough"
-  - name: "GameWith — Early Game Progression"
+  - name: "GameWith : Early Game Progression"
     url: "https://gamewith.net/subnautica-2/75772"
 ---
 

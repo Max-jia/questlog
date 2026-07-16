@@ -1,6 +1,6 @@
 ---
-title: "GTA 6 Map Guide — Every Vice City Neighborhood & Leonida Region Explained"
-excerpt: "Complete GTA 6 map guide — every confirmed neighborhood in Vice City and all six regions of Leonida. Map size comparison, landmarks, and what to expect from Rockstar's biggest world."
+title: "GTA 6 Map Guide : Every Vice City Neighborhood & Leonida Region Explained"
+excerpt: "Complete GTA 6 map guide : every confirmed neighborhood in Vice City and all six regions of Leonida. Map size comparison, landmarks, and what to expect from Rockstar's biggest world."
 game: gta-6
 gameName: "Grand Theft Auto VI"
 date: "2026-06-06"
@@ -18,11 +18,11 @@ tags:
   - Leonida
   - Locations
 sources:
-  - name: "Rockstar Games — Official GTA VI Screenshots"
+  - name: "Rockstar Games : Official GTA VI Screenshots"
     url: "https://www.rockstargames.com/VI"
-  - name: "FinalBoss — Every Confirmed Region"
+  - name: "FinalBoss : Every Confirmed Region"
     url: "https://finalboss.io/youre-underestimating-gta-6s-map-vice-city-leonida"
-  - name: "Timesaver.gg — Map Guide"
+  - name: "Timesaver.gg : Map Guide"
     url: "https://timesaver.gg/blog/gta-6-map-vice-city-leonida-confirmed-locations"
 ---
 

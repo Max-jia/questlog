@@ -1,6 +1,6 @@
 ---
-title: "How to Break Your Silhouette in Meccha Chameleon — Complete Posing Guide"
-excerpt: "How to break your silhouette with the pose wheel. Every pose explained — when to use starfish, standing, ball curl, and the hidden ESC menu trick for inhuman shapes."
+title: "How to Break Your Silhouette in Meccha Chameleon : Complete Posing Guide"
+excerpt: "How to break your silhouette with the pose wheel. Every pose explained : when to use starfish, standing, ball curl, and the hidden ESC menu trick for inhuman shapes."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-24"
@@ -11,18 +11,18 @@ gameVersion: "1.0"
 tldr:
   - "Press R for pose wheel. Lie flat (starfish) against walls, curl up for small objects"
   - "Press ESC after posing to independently move your upper body for inhuman shapes"
-  - "Always pose BEFORE painting — changing pose after painting warps your colors"
+  - "Always pose BEFORE painting : changing pose after painting warps your colors"
 tags:
   - Posing
   - Silhouette
   - Hider Guide
   - Advanced
 sources:
-  - name: "Destructoid — Beginner's Tips for Painters and Hunters"
+  - name: "Destructoid : Beginner's Tips for Painters and Hunters"
     url: "https://www.destructoid.com/meccha-chameleon-beginners-tips-and-tricks-for-painters-and-hunters/"
-  - name: "FandomWire — 15 Tips All Players Should Know"
+  - name: "FandomWire : 15 Tips All Players Should Know"
     url: "https://fandomwire.com/meccha-chameleon-tips-tricks-that-all-players-should-know/"
-  - name: "NeonLightsMedia — Advanced Hiding Guide"
+  - name: "NeonLightsMedia : Advanced Hiding Guide"
     url: "https://www.neonlightsmedia.com/blog/meccha-chameleon-advanced-hider-guide"
 ---
 

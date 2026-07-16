@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Best Base Locations — Where to Build in Sunreach, World Tree & More"
+title: "Palworld 1.0 Best Base Locations : Where to Build in Sunreach, World Tree & More"
 excerpt: "Base building changed in 1.0. Water bases, new Sunreach locations, and the Aquatic Construction Kit. Here are the best spots for your main base and mining outposts."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Building
   - Sunreach
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Mutation Guide — How to Get Mutated Pals & Best Breeding Cakes"
+title: "Palworld 1.0 Mutation Guide : How to Get Mutated Pals & Best Breeding Cakes"
 excerpt: "Mutations give Pals higher stats, rainbow passives, and Alpha status. Here is how the system works, which cakes boost your odds, and how to farm them."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Pals
   - Endgame
 sources:
-  - name: "Gamer.org — Mutation Guide"
+  - name: "Gamer.org : Mutation Guide"
     url: "https://www.gamer.org/palworld-1-0-mutation-guide/"
-  - name: "NerdsChalk — How Mutations Work"
+  - name: "NerdsChalk : How Mutations Work"
     url: "https://nerdschalk.com/palworld-mutations-how-they-work-breeding-mechanics/"
 ---
 

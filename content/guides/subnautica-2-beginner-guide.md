@@ -1,5 +1,5 @@
 ---
-title: "How to Survive Your First Hours in Subnautica 2 — Beginner's Step-by-Step Guide"
+title: "How to Survive Your First Hours in Subnautica 2 : Beginner's Step-by-Step Guide"
 excerpt: "Survive your first hours in Subnautica 2 with this step-by-step beginner's guide. What to craft first, where to find the Digestion Angel Comb, and how to build your first base."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -11,7 +11,7 @@ verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
   - "Craft Multitool first → Scanner second → find Digestion Angel Comb (NE, 160m)"
-  - "Without Digestion, you can't eat alien food — you'll get sick and die"
+  - "Without Digestion, you can't eat alien food : you'll get sick and die"
   - "Build a real base ASAP. The Lifepod Fabricator has limited recipes"
 tags:
   - Beginner Guide
@@ -19,13 +19,13 @@ tags:
   - Basics
   - Tools
 sources:
-  - name: "Rock Paper Shotgun — What to Do First"
+  - name: "Rock Paper Shotgun : What to Do First"
     url: "https://www.rockpapershotgun.com/subnautica-2-what-to-do-first"
-  - name: "Game8 — Tips and Tricks Beginner Guide"
+  - name: "Game8 : Tips and Tricks Beginner Guide"
     url: "https://game8.co/games/Subnautica-2/archives/598742"
-  - name: "GameRant — 10 Things We Wish We Knew Earlier"
+  - name: "GameRant : 10 Things We Wish We Knew Earlier"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
-  - name: "GameWith — Early Game Progression Guide"
+  - name: "GameWith : Early Game Progression Guide"
     url: "https://gamewith.net/subnautica-2/75772"
 ---
 

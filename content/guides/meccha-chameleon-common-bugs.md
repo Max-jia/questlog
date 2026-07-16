@@ -1,6 +1,6 @@
 ---
-title: "Meccha Chameleon Bugs & Errors — How to Fix Every Common Issue"
-excerpt: "Fix every common Meccha Chameleon bug — connection errors, FPS drops, Workshop crashes, color matching glitches, and audio issues. Troubleshooting guide."
+title: "Meccha Chameleon Bugs & Errors : How to Fix Every Common Issue"
+excerpt: "Fix every common Meccha Chameleon bug : connection errors, FPS drops, Workshop crashes, color matching glitches, and audio issues. Troubleshooting guide."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-12"
@@ -9,7 +9,7 @@ section: Reference
 verified: community
 gameVersion: "1.0"
 tldr:
-  - "Can't join server? Both players must be on the same game version — verify files in Steam"
+  - "Can't join server? Both players must be on the same game version : verify files in Steam"
   - "Workshop page crashing? Use the in-game Maps menu instead of the Steam browser"
   - "Eyedropper picks wrong color? Manually fine-tune with HSV sliders after sampling"
 tags:
@@ -20,9 +20,9 @@ tags:
 sources:
   - name: "Steam Community Discussions"
     url: "https://steamcommunity.com/app/4704690/discussions/"
-  - name: "ProdigyGamers — FPS Drop Fix"
+  - name: "ProdigyGamers : FPS Drop Fix"
     url: "https://prodigygamers.com/2026/06/17/meccha-chameleon-fps-drop-fix-best-settings-for-low-end-pcs/"
-  - name: "Prima Games — Workshop Page Crashing"
+  - name: "Prima Games : Workshop Page Crashing"
     url: "https://primagames.com/featured/meccha-chameleon-is-so-popular-even-its-steam-community-workshop-page-is-crashing"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Alien Facilities — How to Enter Every Ruin & Research Station"
+title: "Subnautica 2 Alien Facilities : How to Enter Every Ruin & Research Station"
 excerpt: "Alien ruins block your path with force fields and puzzles. Here is how to access every facility, what you find inside, and what tools you need to get in."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Exploration
   - Story
 sources:
-  - name: "Game8 — Subnautica 2 Walkthrough"
+  - name: "Game8 : Subnautica 2 Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "TechRaptor — Subnautica 2 Walkthrough"
+  - name: "TechRaptor : Subnautica 2 Walkthrough"
     url: "https://techraptor.net/gaming/guides/subnautica-2-walkthrough"
 ---
 

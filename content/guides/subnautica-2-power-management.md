@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Power Guide — Solar vs Thermal vs Bioreactor vs Hydroelectric"
+title: "Subnautica 2 Power Guide : Solar vs Thermal vs Bioreactor vs Hydroelectric"
 excerpt: "Complete Subnautica 2 power guide. Solar vs Thermal vs Bioreactor vs Hydroelectric compared. Optimal setups by depth, Power Storage, and troubleshooting."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -10,7 +10,7 @@ verified: community
 gameVersion: "Early Access (May 2026)"
 tldr:
   - "Solar for shallow (<50m), Thermal for hot zones, Bioreactor as universal backup"
-  - "Build at least 1 Power Storage per base — prevents blackouts when solar dies at night"
+  - "Build at least 1 Power Storage per base : prevents blackouts when solar dies at night"
   - "One Thermal Plant powers a large base. Two powers everything forever"
 tags:
   - Power
@@ -18,9 +18,9 @@ tags:
   - Energy
   - Optimization
 sources:
-  - name: "IGN Wiki — Base Building"
+  - name: "IGN Wiki : Base Building"
     url: "https://s.ign.com/wikis/subnautica-2/How_to_Build_a_Base:_Best_Locations_and_Decor_Tips"
-  - name: "Game8 — Best Base Locations"
+  - name: "Game8 : Best Base Locations"
     url: "https://game8.co/games/Subnautica-2/archives/599329"
 ---
 

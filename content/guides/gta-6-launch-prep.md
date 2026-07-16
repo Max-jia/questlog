@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Launch Preparation Guide — What to Do Before November 19"
+title: "GTA 6 Launch Preparation Guide : What to Do Before November 19"
 excerpt: "Four months until launch. Here is how to prepare: clear storage space, pre-load timing, day-one tips, and which console settings to adjust before you start."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -18,9 +18,9 @@ tags:
   - Checklist
   - Tips
 sources:
-  - name: "Rockstar Games — Official GTA VI Page"
+  - name: "Rockstar Games : Official GTA VI Page"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — GTA 6 Details"
+  - name: "IGN : GTA 6 Details"
     url: "https://in.ign.com/grand-theft-auto-vi/"
 ---
 

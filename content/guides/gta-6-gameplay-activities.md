@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Gameplay Features — Fishing, Heists, Gang Raids & Every Confirmed Activity"
+title: "GTA 6 Gameplay Features : Fishing, Heists, Gang Raids & Every Confirmed Activity"
 excerpt: "Every confirmed GTA 6 gameplay feature and activity. Fishing, heists, gang raids, classic car restoration, scuba diving, in-game social media, and street racing."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,7 +9,7 @@ section: Combat
 verified: verified
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Fishing is in GTA for the first time ever — Gambit Bay is a confirmed fishing spot"
+  - "Fishing is in GTA for the first time ever : Gambit Bay is a confirmed fishing spot"
   - "Classic Car Restoration: find abandoned cars across Leonida and restore them (like Forza Horizon barn finds)"
   - "In-game social media with viral videos and influencer characters like Real Dimez"
 tags:
@@ -18,9 +18,9 @@ tags:
   - Side Content
   - Features
 sources:
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
-  - name: "Kotaku — 10 New Details"
+  - name: "Kotaku : 10 New Details"
     url: "https://kotaku.com/10-new-details-we-learned-from-gta-6s-big-info-dump-2000710519"
 ---
 

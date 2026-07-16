@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Vehicle Upgrade Priority — Best Tadpole Modules & Chassis Order"
+title: "Subnautica 2 Vehicle Upgrade Priority : Best Tadpole Modules & Chassis Order"
 excerpt: "You have limited module slots and rare materials. Here is exactly which Tadpole upgrades to get first, which chassis to use, and what order saves the most time."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Priority
   - Modules
 sources:
-  - name: "DropReference — Upgrades Guide"
+  - name: "DropReference : Upgrades Guide"
     url: "https://dropreference.com/en/blog/guide/subnautica-2-guide-improvements-tadpole-tools-equipment-2026"
-  - name: "GameWith — Vehicle List"
+  - name: "GameWith : Vehicle List"
     url: "https://gamewith.net/subnautica-2/75826"
 ---
 

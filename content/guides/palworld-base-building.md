@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Base Building Guide — Best Locations, Layout & Automation Setup"
+title: "Palworld 1.0 Base Building Guide : Best Locations, Layout & Automation Setup"
 excerpt: "Where to build your first base, how to lay it out, which Pals to staff, and when to build your second base for automated ore and ingot production."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Automation
   - Beginner
 sources:
-  - name: "FandomWire — Best Tips for a Strong Start"
+  - name: "FandomWire : Best Tips for a Strong Start"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
-  - name: "Game8 — Prepare for Palworld 1.0"
+  - name: "Game8 : Prepare for Palworld 1.0"
     url: "https://game8.co/games/Palworld/archives/607107"
 ---
 

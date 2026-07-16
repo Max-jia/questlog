@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Scanner Station Guide — How to Find Resources, Fragments & More"
+title: "Subnautica 2 Scanner Station Guide : How to Find Resources, Fragments & More"
 excerpt: "The Scanner Station finds resources you cannot see. Here is how to build it, what to scan for, and which upgrades make it the most useful tool in your base."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Base
   - Tools
 sources:
-  - name: "Wikily — Subnautica 2 FAQ"
+  - name: "Wikily : Subnautica 2 FAQ"
     url: "https://wikily.gg/subnautica-2/faq/"
-  - name: "Game8 — Subnautica 2 Walkthrough"
+  - name: "Game8 : Subnautica 2 Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
 ---
 

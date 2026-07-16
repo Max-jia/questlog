@@ -1,6 +1,6 @@
 ---
-title: "Every Meccha Chameleon Keybind — Complete PC Controls Reference"
-excerpt: "Every single Meccha Chameleon keybind in one place. Complete PC controls reference organized by role — movement, painting, clones, seeker, and camera."
+title: "Every Meccha Chameleon Keybind : Complete PC Controls Reference"
+excerpt: "Every single Meccha Chameleon keybind in one place. Complete PC controls reference organized by role : movement, painting, clones, seeker, and camera."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-20"
@@ -18,11 +18,11 @@ tags:
   - Reference
   - PC
 sources:
-  - name: "NeonLightsMedia — PC Controls & Keybinds"
+  - name: "NeonLightsMedia : PC Controls & Keybinds"
     url: "https://www.neonlightsmedia.com/blog/meccha-chameleon-pc-controls-keybinds"
-  - name: "AllThings — Controls and Core Gameplay"
+  - name: "AllThings : Controls and Core Gameplay"
     url: "https://allthings.how/meccha-chameleon-controls-and-core-gameplay-pc-steam/"
-  - name: "Lagofast — Beginner Guide"
+  - name: "Lagofast : Beginner Guide"
     url: "https://www.lagofast.com/en/blog/meccha-chameleon-beginner-guide/"
 ---
 

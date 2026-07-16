@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Multiplayer Guide — How to Play Co-Op With Friends"
+title: "Palworld 1.0 Multiplayer Guide : How to Play Co-Op With Friends"
 excerpt: "Palworld supports up to 32 players. How to host, join, and set up a co-op world. Crossplay, dedicated servers, and tips for playing together efficiently."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Server
   - Setup
 sources:
-  - name: "PineHosting — Multiplayer Guide"
+  - name: "PineHosting : Multiplayer Guide"
     url: "https://pinehosting.com/blog/palworld-1-0-beginner-guide-tips-for-your-first-survival-world/"
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/archives/607107"
 ---
 

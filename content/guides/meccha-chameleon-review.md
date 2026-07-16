@@ -1,5 +1,5 @@
 ---
-title: "Is Meccha Chameleon Free to Play? No, It Costs $6 — 2026 Review (Worth It?)"
+title: "Is Meccha Chameleon Free to Play? No, It Costs $6 : 2026 Review (Worth It?)"
 excerpt: "Meccha Chameleon is not free to play. It costs $6 on Steam with no microtransactions. Here is why 15 million players bought it, plus answers about mobile, free versions, and platforms."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -18,11 +18,11 @@ tags:
   - Comparison
   - Beginner
 sources:
-  - name: "Polygon — Meccha Chameleon Sales"
+  - name: "Polygon : Meccha Chameleon Sales"
     url: "https://www.polygon.com/meccha-chameleon-sales-15-million/"
-  - name: "Kotaku — Viral Multiplayer Game"
+  - name: "Kotaku : Viral Multiplayer Game"
     url: "https://kotaku.com/steams-latest-viral-multiplayer-game-is-a-6-janky-indie-game-that-is-like-prop-hunt-but-good-2000709515"
-  - name: "ComicBook — Best-Selling Game of 2026"
+  - name: "ComicBook : Best-Selling Game of 2026"
     url: "https://comicbook.com/gaming/news/steam-game-pc-best-selling-2026/"
 ---
 

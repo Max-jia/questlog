@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Trailer 3 — Expected Release Date, What It Will Show & Why Rockstar Is Waiting"
+title: "GTA 6 Trailer 3 : Expected Release Date, What It Will Show & Why Rockstar Is Waiting"
 excerpt: "Trailer 3 is coming. Rockstar removed the pre-order banner. Analysts point to mid-July. Here is when to expect it, what will be in it, and why they waited."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -18,9 +18,9 @@ tags:
   - Hype
   - Speculation
 sources:
-  - name: "GFinity — Holding Back Trailer 3"
+  - name: "GFinity : Holding Back Trailer 3"
     url: "https://www.gfinityesports.com/article/why-holding-back-gta-6-trailer-3-is-rockstars-smartest-play-yet"
-  - name: "GTABoom — Trailer 3 Window"
+  - name: "GTABoom : Trailer 3 Window"
     url: "https://www.gtaboom.com/when-is-gta-6-trailer-3-coming-the-window-is-clearer-19a0"
 ---
 

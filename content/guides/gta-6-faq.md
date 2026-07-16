@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 FAQ — 25 Most Asked Questions About Release Date, PC, Multiplayer & More"
+title: "GTA 6 FAQ : 25 Most Asked Questions About Release Date, PC, Multiplayer & More"
 excerpt: "25 most asked GTA 6 questions answered. Release date, PC version, map size, multiplayer, pre-order details, price, characters, and everything else you want to know."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,7 +9,7 @@ section: Reference
 verified: verified
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "No PC version at launch — expect 2027-2028 based on Rockstar's historical release patterns"
+  - "No PC version at launch : expect 2027-2028 based on Rockstar's historical release patterns"
   - "At least 1.5× bigger than GTA V with over 700 buildings you can actually enter"
   - "Single-player at launch. GTA Online 2.0 expected post-launch like GTA V in 2013"
 tags:
@@ -17,9 +17,9 @@ tags:
   - Questions
   - Quick Answers
 sources:
-  - name: "Rockstar Games — Official GTA VI Page"
+  - name: "Rockstar Games : Official GTA VI Page"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Details"
+  - name: "IGN : 22 New GTA 6 Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
 ---
 

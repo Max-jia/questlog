@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Tower Bosses Guide — How to Beat Every Boss in Order"
+title: "Palworld 1.0 Tower Bosses Guide : How to Beat Every Boss in Order"
 excerpt: "Every tower boss in Palworld 1.0, the order you should fight them, what level and Pals you need, and the cheese strategies that actually work."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Progression
   - Boss Guide
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "GameRant — Best Pals for Combat"
+  - name: "GameRant : Best Pals for Combat"
     url: "https://gamerant.com/best-pals-for-combat-in-palworld-1-0/"
 ---
 

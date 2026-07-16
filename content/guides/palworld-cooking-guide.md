@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Best Food & Cooking Guide — What to Feed Your Pals"
+title: "Palworld 1.0 Best Food & Cooking Guide : What to Feed Your Pals"
 excerpt: "Hungry Pals work slower and eventually stop. Here is what to cook, the best recipes for every stage, and how to automate your food supply."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Base
   - Beginner
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 

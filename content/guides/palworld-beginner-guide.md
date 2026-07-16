@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Beginner's Guide — 12 Tips for Your First Hours"
+title: "Palworld 1.0 Beginner's Guide: 12 Tips for Your First Hours"
 excerpt: "Palworld 1.0 launched July 10 with 725K concurrent players. Master your first hours with the right stats, starter Pals, base setup, and the fastest leveling tricks."
 game: palworld
 gameName: "Palworld"
@@ -10,7 +10,7 @@ featured: true
 verified: verified
 gameVersion: "1.0"
 tldr:
-  - "Put every early stat point into Stamina. Then Health. Never Work Speed — your Pals handle that."
+  - "Put every early stat point into Stamina. Then Health. Never Work Speed. Your Pals handle that."
   - "Catch 12 of every Pal you see. The first 12 catches per species give massive XP bonuses."
   - "Eikthyrdeer is your first mount. Foxparks is a handheld flamethrower. Nitewing gives you flight."
 tags:
@@ -19,11 +19,11 @@ tags:
   - Starter Pals
   - Base Building
 sources:
-  - name: "GameRant — Best Start in Palworld 1.0"
+  - name: "GameRant: Best Start in Palworld 1.0"
     url: "https://gamerant.com/palworld-how-get-best-start-guide/"
-  - name: "FandomWire — 15 Best Tips for a Strong Start"
+  - name: "FandomWire: 15 Best Tips for a Strong Start"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
-  - name: "Game8 — How to Prepare for Palworld 1.0"
+  - name: "Game8: How to Prepare for Palworld 1.0"
     url: "https://game8.co/games/Palworld/archives/607107"
 ---
 
@@ -99,4 +99,6 @@ Dungeon entrances. Ore clusters. Skillfruit Trees. Boss locations. Dungeon locat
 ---
 
 ## Related Guides
+- [Best early game Pals](/games/palworld/palworld-best-pals)
+- [Base building guide](/games/palworld/palworld-base-building)
 - [12 Best Party Games on Steam Under $10](/games/meccha-chameleon/cross-best-party-games)

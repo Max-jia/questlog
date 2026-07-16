@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Pal Eggs Guide — Where to Find, Hatch & Use Every Egg Type"
+title: "Palworld 1.0 Pal Eggs Guide : Where to Find, Hatch & Use Every Egg Type"
 excerpt: "Eggs give you Pals you cannot catch in the wild. Here is where to find every egg type, how to hatch them faster, and which eggs are worth the incubator space."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Locations
   - Beginner
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 

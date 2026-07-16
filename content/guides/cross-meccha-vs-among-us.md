@@ -1,6 +1,6 @@
 ---
-title: "Meccha Chameleon vs Among Us vs Prop Hunt — Which Hide & Seek Game Is Best in 2026?"
-excerpt: "Complete comparison of the top 3 hide-and-seek multiplayer games in 2026. Meccha Chameleon vs Among Us vs Prop Hunt — gameplay, skill ceiling, price, player count, and which one is right for your group."
+title: "Meccha Chameleon vs Among Us vs Prop Hunt : Which Hide & Seek Game Is Best in 2026?"
+excerpt: "Complete comparison of the top 3 hide-and-seek multiplayer games in 2026. Meccha Chameleon vs Among Us vs Prop Hunt : gameplay, skill ceiling, price, player count, and which one is right for your group."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-07-07"
@@ -9,18 +9,18 @@ section: Reference
 verified: verified
 gameVersion: "N/A"
 tldr:
-  - "Meccha Chameleon: creative hide & seek with painting — highest skill ceiling, pure mechanical fun"
-  - "Among Us: social deduction — best for lying to friends, lowest mechanical skill required"
-  - "Prop Hunt (GMod): the original — most casual, relies on map knowledge over player skill"
+  - "Meccha Chameleon: creative hide & seek with painting : highest skill ceiling, pure mechanical fun"
+  - "Among Us: social deduction : best for lying to friends, lowest mechanical skill required"
+  - "Prop Hunt (GMod): the original : most casual, relies on map knowledge over player skill"
 tags:
   - Comparison
   - Among Us
   - Prop Hunt
   - Hide and Seek
 sources:
-  - name: "Steam Charts — Player Statistics"
+  - name: "Steam Charts : Player Statistics"
     url: "https://store.steampowered.com/stats/"
-  - name: "Polygon — Meccha Chameleon Sales"
+  - name: "Polygon : Meccha Chameleon Sales"
     url: "https://www.polygon.com/meccha-chameleon-sales-15-million/"
 ---
 

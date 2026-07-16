@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Fast Leveling Guide — How to Level Up Quickly in the Early Game"
+title: "Palworld 1.0 Fast Leveling Guide : How to Level Up Quickly in the Early Game"
 excerpt: "Hit level 20 fast. Chain catch bonuses, target the right Pals, and know which activities give the most XP per minute of your time."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Guide
   - Beginner
 sources:
-  - name: "GameRant — Best Start Guide"
+  - name: "GameRant : Best Start Guide"
     url: "https://gamerant.com/palworld-how-get-best-start-guide/"
-  - name: "Game8 — Prepare for Palworld 1.0"
+  - name: "Game8 : Prepare for Palworld 1.0"
     url: "https://game8.co/games/Palworld/archives/607107"
 ---
 

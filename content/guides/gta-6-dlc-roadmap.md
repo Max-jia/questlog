@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 DLC & Post-Launch Roadmap — What to Expect After November 19"
+title: "GTA 6 DLC & Post-Launch Roadmap : What to Expect After November 19"
 excerpt: "GTA 6 launches in November. Then what? Here is what we know about post-launch plans, GTA Online 2.0, story DLC, and Rockstar's long-term strategy."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -18,9 +18,9 @@ tags:
   - Post-Launch
   - Online
 sources:
-  - name: "Rockstar Games — Official Trailers"
+  - name: "Rockstar Games : Official Trailers"
     url: "https://www.rockstargames.com/VI"
-  - name: "GFinity — GTA 6 Online"
+  - name: "GFinity : GTA 6 Online"
     url: "https://www.gfinityesports.com/article/rockstar-job-listings-hint-at-dedicated-servers-and-creator-platform-for-gta-6-online"
 ---
 
@@ -28,7 +28,7 @@ sources:
 
 ### GTA Online 2.0
 
-Not at launch. Rockstar described the game as single-player at launch. GTA V followed the same pattern — Online launched 2 weeks after the main game.
+Not at launch. Rockstar described the game as single-player at launch. GTA V followed the same pattern. Online launched 2 weeks after the main game.
 
 Job listings hint at dedicated servers and a Creator Platform similar to FiveM. 32+ player lobbies expected. The modern Vice City map will be the online playground.
 
@@ -47,6 +47,6 @@ Unlikely. GTA V was supposed to get story DLC. It never happened. GTA Online mak
 ---
 
 ## Related Guides
-- [GTA 6 Online — everything we know](/games/gta-6/gta-6-online)
+- [GTA 6 Online: everything we know](/games/gta-6/gta-6-online)
 - [Launch preparation guide](/games/gta-6/gta-6-launch-prep)
-- [GTA 6 — Everything we know](/games/gta-6/gta-6-everything-we-know)
+- [GTA 6: Everything we know](/games/gta-6/gta-6-everything-we-know)

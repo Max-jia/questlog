@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Day Night Cycle & Dynamic Weather — Hurricanes, Storms & Time System Explained"
+title: "GTA 6 Day Night Cycle & Dynamic Weather : Hurricanes, Storms & Time System Explained"
 excerpt: "Everything confirmed about GTA 6's day/night cycle and weather system. Dynamic hurricanes, storms, heatwaves that affect gameplay, and how the time of day changes Vice City."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -18,9 +18,9 @@ tags:
   - Dynamic
   - Gameplay
 sources:
-  - name: "Rockstar Games — Official Trailers & Screenshots"
+  - name: "Rockstar Games : Official Trailers & Screenshots"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
 ---
 

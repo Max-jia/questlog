@@ -1,6 +1,6 @@
 ---
-title: "GTA 6 Release Date, Price, Map & Characters — Everything Confirmed So Far"
-excerpt: "GTA 6 release date, price, map, characters, and gameplay — everything confirmed so far. Complete overview of Grand Theft Auto VI launching November 19, 2026."
+title: "GTA 6 Release Date, Price, Map & Characters : Everything Confirmed So Far"
+excerpt: "GTA 6 release date, price, map, characters, and gameplay : everything confirmed so far. Complete overview of Grand Theft Auto VI launching November 19, 2026."
 game: gta-6
 gameName: "Grand Theft Auto VI"
 date: "2026-05-29"
@@ -10,22 +10,22 @@ featured: true
 verified: verified
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Releases November 19, 2026 on PS5 and Xbox Series X|S only — no PC at launch"
+  - "Releases November 19, 2026 on PS5 and Xbox Series X|S only : no PC at launch"
   - "Standard Edition: $79.99. Ultimate Edition: $99.99 (5 extra vehicles, 2 weapons, exclusive shops)"
-  - "Set in Leonida (modern Florida) — Vice City is the main hub, 6 regions, 700+ enterable interiors"
+  - "Set in Leonida (modern Florida) : Vice City is the main hub, 6 regions, 700+ enterable interiors"
 tags:
   - Overview
   - Release
   - Characters
   - Map
 sources:
-  - name: "Rockstar Games — Official GTA VI Page"
+  - name: "Rockstar Games : Official GTA VI Page"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
-  - name: "G2A News — Everything You Need to Know"
+  - name: "G2A News : Everything You Need to Know"
     url: "https://www.g2a.com/news/features/gta-vi-release-date-price-editions-story-platforms-and-everything-you-need-to-know/"
-  - name: "Polygon — Ultimate Edition & Pre-Order Details"
+  - name: "Polygon : Ultimate Edition & Pre-Order Details"
     url: "https://www.polygon.com/rockstar-reveals-gta-6-ultimate-edition-contents-and-pre-order-bonuses/"
 ---
 

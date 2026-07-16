@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Biomes & Creatures Guide — Every Region, Every Threat Ranked"
+title: "Subnautica 2 Biomes & Creatures Guide : Every Region, Every Threat Ranked"
 excerpt: "Every biome and creature in Subnautica 2 mapped out. Coral Gardens to Metal Farms, all predator threat levels, and survival tips for every hostile encounter."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -9,22 +9,22 @@ section: Maps
 verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
-  - "Coral Gardens (0-150m) is your starting region — safe, resource-rich"
-  - "Karakorum (100-450m) is the late-game region — requires Tadpole and Heat Tolerance"
-  - "Collector Leviathans patrol fixed routes — time your crossing, don't fight them"
+  - "Coral Gardens (0-150m) is your starting region : safe, resource-rich"
+  - "Karakorum (100-450m) is the late-game region : requires Tadpole and Heat Tolerance"
+  - "Collector Leviathans patrol fixed routes : time your crossing, don't fight them"
 tags:
   - Biomes
   - Creatures
   - Map
   - Exploration
 sources:
-  - name: "IGN Wiki — Coral Gardens"
+  - name: "IGN Wiki : Coral Gardens"
     url: "https://www.ign.com/wikis/subnautica-2/Coral_Gardens"
-  - name: "IGN Wiki — Karakorum"
+  - name: "IGN Wiki : Karakorum"
     url: "https://s.ign.com/wikis/subnautica-2/Karakorum"
-  - name: "Game8 — Best Base Locations"
+  - name: "Game8 : Best Base Locations"
     url: "https://game8.co/games/Subnautica-2/archives/599329"
-  - name: "GameWith — Mid-Game Progression"
+  - name: "GameWith : Mid-Game Progression"
     url: "https://gamewith.net/subnautica-2/75820"
 ---
 

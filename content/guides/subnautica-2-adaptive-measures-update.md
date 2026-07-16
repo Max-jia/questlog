@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Update 1.1 Patch Notes — All Changes, New Biomods, Biolabs & Creature AI"
+title: "Subnautica 2 Update 1.1 Patch Notes : All Changes, New Biomods, Biolabs & Creature AI"
 excerpt: "Subnautica 2 patch notes for update 1.1 (Adaptive Measures). 6 Biomods, 2 new Biolabs, creature AI overhaul, sprinting, FOV slider, and 1.2 roadmap."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -11,18 +11,18 @@ gameVersion: "1.1 (Adaptive Measures)"
 tldr:
   - "Update 1.1 adds 2 new Biolabs, 6 total Biomods, and the Bioscanner now unlocks extra passive slots"
   - "You can finally sprint on land, water surface, and inside bases. FOV slider added."
-  - "Creature AI overhauled — flinch animations, clearer Sonic Resonator stuns, better fleeing behavior"
+  - "Creature AI overhauled : flinch animations, clearer Sonic Resonator stuns, better fleeing behavior"
 tags:
   - Update
   - Patch Notes
   - Biomods
   - News
 sources:
-  - name: "Shacknews — Adaptive Measures Update"
+  - name: "Shacknews : Adaptive Measures Update"
     url: "https://www.shacknews.com/article/149949/subnautica-2-adaptive-measures-update-patch-notes"
-  - name: "IGN — Update 1.1 Details"
+  - name: "IGN : Update 1.1 Details"
     url: "https://sea.ign.com/subnautica-3/245205/subnautica-2-early-access-11-update-improves-creature-flinches"
-  - name: "VGtimes — 5 Million Sales + Update"
+  - name: "VGtimes : 5 Million Sales + Update"
     url: "https://vgtimes.com/gaming-news/160621-subnautica-2-tops-5-million-sales-in-early-access-as-update-1.1-goes-live.html"
 ---
 

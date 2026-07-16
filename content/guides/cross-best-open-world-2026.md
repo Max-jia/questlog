@@ -1,5 +1,5 @@
 ---
-title: "8 Best Open World Games of 2026 — GTA 6, Crimson Desert & More"
+title: "8 Best Open World Games of 2026 : GTA 6, Crimson Desert & More"
 excerpt: "The best open world games released or coming in 2026. From GTA 6 to Crimson Desert, ranked by scope, innovation, and must-play status."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,18 +9,18 @@ section: Reference
 verified: verified
 gameVersion: "N/A"
 tldr:
-  - "GTA 6 is the most anticipated — November 19 on PS5/Xbox, largest map Rockstar has ever built"
-  - "Crimson Desert is the dark horse — Black Desert Online devs making a single-player epic"
-  - "Subnautica 2 is the best survival open world — alien ocean with 4-player co-op"
+  - "GTA 6 is the most anticipated : November 19 on PS5/Xbox, largest map Rockstar has ever built"
+  - "Crimson Desert is the dark horse : Black Desert Online devs making a single-player epic"
+  - "Subnautica 2 is the best survival open world : alien ocean with 4-player co-op"
 tags:
   - Best Of
   - Open World
   - 2026
   - Recommendations
 sources:
-  - name: "IGN — Biggest Games of 2026"
+  - name: "IGN : Biggest Games of 2026"
     url: "https://www.ign.com/videos/the-biggest-games-still-to-come-in-2026-summer-update"
-  - name: "TheGamer — Most Anticipated 2026 Games"
+  - name: "TheGamer : Most Anticipated 2026 Games"
     url: "https://www.thegamer.com/most-anticipated-games-release-dates-2026/"
 ---
 

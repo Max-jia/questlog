@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 vs GTA 5 — 15 Biggest Changes, Upgrades & New Features Compared"
+title: "GTA 6 vs GTA 5 : 15 Biggest Changes, Upgrades & New Features Compared"
 excerpt: "Complete GTA 6 vs GTA 5 comparison: map size, graphics, gameplay mechanics, vehicle customization, weapon loadouts, protagonist count, and every major upgrade confirmed so far."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -18,9 +18,9 @@ tags:
   - Features
   - Upgrades
 sources:
-  - name: "Rockstar Games — Official GTA VI Details"
+  - name: "Rockstar Games : Official GTA VI Details"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
 ---
 

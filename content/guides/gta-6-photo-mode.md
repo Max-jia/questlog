@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Photo Mode — Everything Confirmed & What to Expect"
+title: "GTA 6 Photo Mode : Everything Confirmed & What to Expect"
 excerpt: "Rockstar confirmed a photo mode for GTA 6. Here is what we know, how it compares to RDR2's photo mode, and what features to expect based on Rockstar history."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -17,9 +17,9 @@ tags:
   - Features
   - Reference
 sources:
-  - name: "Rockstar Games — Official Trailers"
+  - name: "Rockstar Games : Official Trailers"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
 ---
 
@@ -31,7 +31,7 @@ RDR2's photo mode was one of the most beloved features in any Rockstar game. GTA
 
 ### Confirmed
 
-Rockstar job listings for GTA 6 included roles specifically mentioning a photo mode. The trailers show in-game photography — NPCs taking photos, social media posts with filters, and a smartphone camera interface.
+Rockstar job listings for GTA 6 included roles specifically mentioning a photo mode. The trailers show in-game photography: NPCs taking photos, social media posts with filters, and a smartphone camera interface.
 
 A photo mode in the world's most detailed open-world city is not speculation. It is happening.
 
@@ -62,4 +62,4 @@ GTA 6 will likely match or exceed all of these. The in-game social media system 
 ## Related Guides
 - [GTA 6 trailers breakdown](/games/gta-6/gta-6-trailers-breakdown)
 - [GTA 6 gameplay features](/games/gta-6/gta-6-gameplay-activities)
-- [GTA 6 — Everything we know](/games/gta-6/gta-6-everything-we-know)
+- [GTA 6: Everything we know](/games/gta-6/gta-6-everything-we-know)

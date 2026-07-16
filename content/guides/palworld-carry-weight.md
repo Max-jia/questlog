@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Carry Weight Guide — How to Carry More Without Crawling"
+title: "Palworld 1.0 Carry Weight Guide : How to Carry More Without Crawling"
 excerpt: "You are always overencumbered. Here is how to increase your carry weight, which Pals boost it, and the gear that lets you carry a base worth of ore."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Tips
   - Stats
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 

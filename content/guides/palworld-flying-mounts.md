@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Flying Mounts — How to Get Your First Flyer & Every Flying Pal Ranked"
+title: "Palworld 1.0 Flying Mounts : How to Get Your First Flyer & Every Flying Pal Ranked"
 excerpt: "Nitewing is your first flying mount. Get it at level 15 west of Small Settlement. Here is every flying Pal, their saddle levels, and which one you should actually use."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Pals
   - Beginner
 sources:
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Trailers Breakdown — Every Detail, Easter Egg & Hidden Clue"
+title: "GTA 6 Trailers Breakdown : Every Detail, Easter Egg & Hidden Clue"
 excerpt: "Frame-by-frame analysis of both GTA 6 trailers. Every confirmed detail, hidden easter egg, character cameo, and map location spotted by the community."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -18,9 +18,9 @@ tags:
   - Analysis
   - Hype
 sources:
-  - name: "Rockstar Games — Official Trailers"
+  - name: "Rockstar Games : Official Trailers"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Details"
+  - name: "IGN : 22 New GTA 6 Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
 ---
 

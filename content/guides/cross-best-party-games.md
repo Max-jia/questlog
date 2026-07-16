@@ -1,5 +1,5 @@
 ---
-title: "12 Best Party Games on Steam Under $10 in 2026 — Multiplayer Games Worth Every Penny"
+title: "12 Best Party Games on Steam Under $10 in 2026 : Multiplayer Games Worth Every Penny"
 excerpt: "The best cheap multiplayer party games on Steam in 2026. From Meccha Chameleon to Among Us, every game under $10 with active player bases and proven fun factor."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -9,7 +9,7 @@ section: Multiplayer
 verified: verified
 gameVersion: "N/A"
 tldr:
-  - "Meccha Chameleon is 2026's best $6 multiplayer game — 15 million copies sold"
+  - "Meccha Chameleon is 2026's best $6 multiplayer game : 15 million copies sold"
   - "All 12 games under $10, all with active player bases, all verified fun with friends"
   - "Sort by genre: hide & seek, social deduction, co-op chaos, and casual party"
 tags:
@@ -19,9 +19,9 @@ tags:
   - Budget
   - Multiplayer
 sources:
-  - name: "Steam Charts — Player Statistics"
+  - name: "Steam Charts : Player Statistics"
     url: "https://store.steampowered.com/stats/"
-  - name: "Polygon — Meccha Chameleon Sales"
+  - name: "Polygon : Meccha Chameleon Sales"
     url: "https://www.polygon.com/meccha-chameleon-sales-15-million/"
 ---
 

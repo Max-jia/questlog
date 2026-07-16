@@ -1,6 +1,6 @@
 ---
-title: "How to Unlock All 5 Secret Skins in Meccha Chameleon — Step-by-Step Guide"
-excerpt: "How to unlock all 5 secret skins in Meccha Chameleon — step-by-step. From the 10-minute Glitched Matrix to the legendary Prismatic Overlord boss fight."
+title: "How to Unlock All 5 Secret Skins in Meccha Chameleon : Step-by-Step Guide"
+excerpt: "How to unlock all 5 secret skins in Meccha Chameleon : step-by-step. From the 10-minute Glitched Matrix to the legendary Prismatic Overlord boss fight."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-29"
@@ -10,7 +10,7 @@ verified: community
 gameVersion: "1.0"
 tldr:
   - "Glitched Matrix takes 10 minutes (menu easter egg), Prismatic Overlord needs a team of 4+"
-  - "Retro Pixel requires 3 challenges in a single match — the hardest solo unlock"
+  - "Retro Pixel requires 3 challenges in a single match : the hardest solo unlock"
   - "All skins are cosmetic only, no gameplay advantage"
 tags:
   - Skins
@@ -18,9 +18,9 @@ tags:
   - Secrets
   - Cosmetics
 sources:
-  - name: "2UpSkill — Meccha Chameleon Secret Skins Guide"
+  - name: "2UpSkill : Meccha Chameleon Secret Skins Guide"
     url: "https://2upskill.com/meccha-chameleon-secret-skins-guide-how-to-unlock-every-hidden-character-outfit/"
-  - name: "GQ Taiwan — 超級變色龍遊戲介紹"
+  - name: "GQ Taiwan : 超級變色龍遊戲介紹"
     url: "https://www.gq.com.tw/article/超級變色龍-mecchachameleon-遊戲介紹"
   - name: "Meccha Chameleon Steam Community Hub"
     url: "https://steamcommunity.com/app/4704690"

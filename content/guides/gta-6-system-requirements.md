@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 System Requirements & Best Platform to Play — PS5 vs Xbox Series X|S"
+title: "GTA 6 System Requirements & Best Platform to Play : PS5 vs Xbox Series X|S"
 excerpt: "Which platform should you play GTA 6 on? PS5 vs Xbox Series X|S comparison, expected system requirements, DualSense features, performance differences, and upgrade recommendations."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,8 +9,8 @@ section: Reference
 verified: community
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "GTA 6 launches on PS5 and Xbox Series X|S only — no PC at launch, no last-gen consoles"
-  - "PS5 has DualSense haptic feedback and adaptive triggers — Xbox has Quick Resume and Game Pass potential"
+  - "GTA 6 launches on PS5 and Xbox Series X|S only : no PC at launch, no last-gen consoles"
+  - "PS5 has DualSense haptic feedback and adaptive triggers : Xbox has Quick Resume and Game Pass potential"
   - "Both consoles target 4K/30fps or dynamic 1440p/60fps performance modes"
 tags:
   - System Requirements
@@ -18,9 +18,9 @@ tags:
   - Xbox
   - Performance
 sources:
-  - name: "Rockstar Games — Official GTA VI Page"
+  - name: "Rockstar Games : Official GTA VI Page"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Details"
+  - name: "IGN : 22 New GTA 6 Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
 ---
 

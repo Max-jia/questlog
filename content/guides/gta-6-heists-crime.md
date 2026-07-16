@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Heists & Crime Economy — How Making Money Will Work"
+title: "GTA 6 Heists & Crime Economy : How Making Money Will Work"
 excerpt: "How heists, fencing stolen goods, gang raids, and the crime economy will work in GTA 6. Based on confirmed features from Rockstar and patterns from GTA V and RDR2."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,8 +9,8 @@ section: Combat
 verified: community
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Raul Bautista is your heist connection — multi-stage planning, crew recruitment, high-payout jobs"
-  - "Fencing stolen goods confirmed: deposit at garages, sell to fences — burglary missions may return"
+  - "Raul Bautista is your heist connection : multi-stage planning, crew recruitment, high-payout jobs"
+  - "Fencing stolen goods confirmed: deposit at garages, sell to fences : burglary missions may return"
   - "Gang compound raids are a new activity: assault hideouts, escape with contraband"
 tags:
   - Heists
@@ -18,9 +18,9 @@ tags:
   - Crime
   - Economy
 sources:
-  - name: "Rockstar Games — Ultimate Edition Details"
+  - name: "Rockstar Games : Ultimate Edition Details"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Details"
+  - name: "IGN : 22 New GTA 6 Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
 ---
 

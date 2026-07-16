@@ -1,5 +1,5 @@
 ---
-title: "How to Fix Low FPS in Meccha Chameleon — Best Settings for Any PC"
+title: "How to Fix Low FPS in Meccha Chameleon : Best Settings for Any PC"
 excerpt: "Fix low FPS and stuttering in Meccha Chameleon. Best graphics settings, Steam launch options, Windows tweaks, and Nvidia optimization for any PC."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -9,20 +9,20 @@ section: Reference
 verified: verified
 gameVersion: "1.0"
 tldr:
-  - "Add -dx11 to Steam launch options — fixes crashing and stuttering on older GPUs"
+  - "Add -dx11 to Steam launch options : fixes crashing and stuttering on older GPUs"
   - "Lower resolution scale to 80%, turn off anti-aliasing, set shadows to Low"
-  - "Disable Steam/Discord overlays — they eat 5-10 FPS on low-end PCs"
+  - "Disable Steam/Discord overlays : they eat 5-10 FPS on low-end PCs"
 tags:
   - Performance
   - Settings
   - PC
   - FPS
 sources:
-  - name: "Prodigy Gamers — FPS Drop Fix"
+  - name: "Prodigy Gamers : FPS Drop Fix"
     url: "https://prodigygamers.com/2026/06/17/meccha-chameleon-fps-drop-fix-best-settings-for-low-end-pcs/"
-  - name: "NeonLightsMedia — PC Controls & Keybinds"
+  - name: "NeonLightsMedia : PC Controls & Keybinds"
     url: "https://www.neonlightsmedia.com/blog/meccha-chameleon-pc-controls-keybinds"
-  - name: "GameRant — Hunter Tips"
+  - name: "GameRant : Hunter Tips"
     url: "https://gamerant.com/meccha-chameleon-hunter-tips/"
 ---
 

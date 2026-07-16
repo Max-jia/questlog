@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Awakening Guide — How to Awaken Pals & Get Awakening Crystals"
+title: "Palworld 1.0 Awakening Guide : How to Awaken Pals & Get Awakening Crystals"
 excerpt: "Awakening is the final power boost for your Pals. Here is how to unlock the system, farm Radiant Gems, craft Awakening Crystals, and which Pals to awaken first."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Pals
   - Crystals
 sources:
-  - name: "NeonLightsMedia — How to Awaken Pals"
+  - name: "NeonLightsMedia : How to Awaken Pals"
     url: "https://www.neonlightsmedia.com/blog/palworld-how-to-awaken-pals-guide"
-  - name: "AllThings — Awakening Crystals"
+  - name: "AllThings : Awakening Crystals"
     url: "https://allthings.how/palworld-how-to-awaken-pals-with-awakening-crystals/"
 ---
 

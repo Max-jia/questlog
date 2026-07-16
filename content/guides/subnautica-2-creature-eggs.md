@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Creature Eggs Guide — Where to Find Every Egg & How to Hatch Them"
+title: "Subnautica 2 Creature Eggs Guide : Where to Find Every Egg & How to Hatch Them"
 excerpt: "Every creature egg location in Subnautica 2. Deepwing, Needler, Hammerhead eggs, where they spawn, and what you do with them after you pick them up."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Locations
   - Farming
 sources:
-  - name: "Game8 — Subnautica 2 Walkthrough"
+  - name: "Game8 : Subnautica 2 Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "GameRant — Beginner Tips"
+  - name: "GameRant : Beginner Tips"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
 ---
 

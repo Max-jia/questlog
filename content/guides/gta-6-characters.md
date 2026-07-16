@@ -1,6 +1,6 @@
 ---
-title: "GTA 6 Characters — Jason, Lucia & Every Confirmed Cast Member"
-excerpt: "Every confirmed GTA 6 character — Jason Duval, Lucia Caminos, and the full supporting cast. Bios, roles, and how they connect to the story of Grand Theft Auto VI."
+title: "GTA 6 Characters : Jason, Lucia & Every Confirmed Cast Member"
+excerpt: "Every confirmed GTA 6 character : Jason Duval, Lucia Caminos, and the full supporting cast. Bios, roles, and how they connect to the story of Grand Theft Auto VI."
 game: gta-6
 gameName: "Grand Theft Auto VI"
 date: "2026-05-20"
@@ -10,7 +10,7 @@ verified: verified
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
   - "Jason Duval: former soldier, first military-background protagonist in the series"
-  - "Lucia Caminos: first female protagonist in a numbered GTA — served time in Leonida Penitentiary"
+  - "Lucia Caminos: first female protagonist in a numbered GTA : served time in Leonida Penitentiary"
   - "Raul Bautista is your heist connection (the Lester Crest of GTA VI)"
 tags:
   - Characters
@@ -18,11 +18,11 @@ tags:
   - Lucia
   - Story
 sources:
-  - name: "Rockstar Games — Official Character Bios"
+  - name: "Rockstar Games : Official Character Bios"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
-  - name: "Kotaku — 10 New Details From GTA 6"
+  - name: "Kotaku : 10 New Details From GTA 6"
     url: "https://kotaku.com/10-new-details-we-learned-from-gta-6s-big-info-dump-2000710519"
 ---
 

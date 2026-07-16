@@ -1,5 +1,5 @@
 ---
-title: "AC Black Flag Resynced Best Ship Upgrades — Jackdaw Guide & Priority Order"
+title: "AC Black Flag Resynced Best Ship Upgrades : Jackdaw Guide & Priority Order"
 excerpt: "Every Jackdaw upgrade ranked by priority. Cargo hold first, hull second, cannons third. How to farm resources, unlock Elite plans, and dominate naval combat."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
@@ -18,9 +18,9 @@ tags:
   - Upgrades
   - Naval
 sources:
-  - name: "VGC — HMS Ipswich Guide"
+  - name: "VGC : HMS Ipswich Guide"
     url: "https://www.videogameschronicle.com/guide/ac-black-flag-resynced-hms-ipswich-maynard-boss-world-without-gold-guide/"
-  - name: "IGN Wiki — Black Flag Resynced"
+  - name: "IGN Wiki : Black Flag Resynced"
     url: "https://www.ign.com/wikis/assassins-creed-black-flag-resynced/"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Soundtrack & Radio Stations — Every Confirmed Song & Artist"
+title: "GTA 6 Soundtrack & Radio Stations : Every Confirmed Song & Artist"
 excerpt: "Complete GTA 6 soundtrack guide: all confirmed songs from trailers, rumored artists (T-Pain, Drake, DJ Khaled), returning radio stations like V-Rock, and what to expect from Vice City's music scene."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,7 +9,7 @@ section: Reference
 verified: verified
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "6 songs confirmed from trailers — Tom Petty's 'Love Is a Long Road' saw a 37,000% Spotify spike after Trailer 1"
+  - "6 songs confirmed from trailers : Tom Petty's 'Love Is a Long Road' saw a 37,000% Spotify spike after Trailer 1"
   - "V-Rock radio station confirmed to return. Haitian Kompa, country, and Latin stations expected based on trailer tracks"
   - "T-Pain, Drake, DJ Khaled, and Ski Mask the Slump God rumored to be involved"
 tags:
@@ -18,11 +18,11 @@ tags:
   - Music
   - Songs
 sources:
-  - name: "AltChar — GTA 6 Soundtrack Details"
+  - name: "AltChar : GTA 6 Soundtrack Details"
     url: "https://www.altchar.com/game-news/gta-6-soundtrack-details-every-confirmed-song-rumoured-artist-and-radio-station-so-far-alFC20y4acD1"
-  - name: "Official Charts — Songs Confirmed"
+  - name: "Official Charts : Songs Confirmed"
     url: "https://www.officialcharts.com/chart-news/gta-6-songs-grand-theft-auto-vi-soundtrack-when/"
-  - name: "GTABoom — Complete Soundtrack Tracker"
+  - name: "GTABoom : Complete Soundtrack Tracker"
     url: "https://www.gtaboom.com/the-complete-gta-6-soundtrack-tracker-updated-live-20ed"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Online — Everything We Know About Multiplayer, GTA Online 2.0 & Launch Plans"
+title: "GTA 6 Online : Everything We Know About Multiplayer, GTA Online 2.0 & Launch Plans"
 excerpt: "What we know about GTA 6's online mode: launch timing, 32-player rumors, GTA Online 2.0 expectations, character transfer, and how Rockstar will handle the transition from GTA V Online."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,18 +9,18 @@ section: Multiplayer
 verified: community
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "GTA 6 launches as a single-player experience first — Rockstar has described it as single-player at launch"
+  - "GTA 6 launches as a single-player experience first : Rockstar has described it as single-player at launch"
   - "GTA Online 2.0 is expected post-launch, following GTA V's pattern (Online launched 2 weeks after GTA V)"
-  - "GTA V Online will likely continue running separately — your progress won't transfer to GTA 6"
+  - "GTA V Online will likely continue running separately : your progress won't transfer to GTA 6"
 tags:
   - Online
   - Multiplayer
   - GTA Online
   - Launch
 sources:
-  - name: "Rockstar Games — Official GTA VI Page"
+  - name: "Rockstar Games : Official GTA VI Page"
     url: "https://www.rockstargames.com/VI"
-  - name: "IGN — 22 New GTA 6 Details"
+  - name: "IGN : 22 New GTA 6 Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
 ---
 

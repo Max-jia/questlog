@@ -1,6 +1,6 @@
 ---
-title: "Subnautica 2 Leviathan Locations Map — Where to Find (and Avoid) Every Giant Predator"
-excerpt: "Every Leviathan spawn location in Subnautica 2 mapped out. Collector, Great Jaw, Deepwing, Epicurean — exactly where they patrol, how to avoid them, and when you can safely pass."
+title: "Subnautica 2 Leviathan Locations Map : Where to Find (and Avoid) Every Giant Predator"
+excerpt: "Every Leviathan spawn location in Subnautica 2 mapped out. Collector, Great Jaw, Deepwing, Epicurean : exactly where they patrol, how to avoid them, and when you can safely pass."
 game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-06-04"
@@ -9,18 +9,18 @@ section: Maps
 verified: community
 gameVersion: "Early Access (May 2026)"
 tldr:
-  - "Collector Leviathan patrols the Karakorum trench on a ~45-second loop — cross right after it passes"
-  - "Great Jaw Leviathan sits in The Hole (100m+ crater) — hug the walls, never swim over the center"
-  - "Deepwing Brooder guards Old Habitat center — approach from the edges and use buildings for cover"
+  - "Collector Leviathan patrols the Karakorum trench on a ~45-second loop : cross right after it passes"
+  - "Great Jaw Leviathan sits in The Hole (100m+ crater) : hug the walls, never swim over the center"
+  - "Deepwing Brooder guards Old Habitat center : approach from the edges and use buildings for cover"
 tags:
   - Leviathans
   - Locations
   - Predators
   - Map
 sources:
-  - name: "IGN Wiki — Subnautica 2"
+  - name: "IGN Wiki : Subnautica 2"
     url: "https://www.ign.com/wikis/subnautica-2/"
-  - name: "Game8 — Walkthrough"
+  - name: "Game8 : Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
 ---
 

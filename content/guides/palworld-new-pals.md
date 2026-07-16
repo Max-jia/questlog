@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 New Pals — All 72 New Species, Variants & Where to Find Them"
+title: "Palworld 1.0 New Pals : All 72 New Species, Variants & Where to Find Them"
 excerpt: "72 new Pals dropped in 1.0. Here is every new species, every variant, where they spawn, and which ones are worth catching first."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Locations
   - Reference
 sources:
-  - name: "KeenGamer — All 72 New Pals Locations"
+  - name: "KeenGamer : All 72 New Pals Locations"
     url: "https://www.keengamer.com/articles/guides/palworld-1-0-all-new-72-pals-locations/"
-  - name: "Gamer.org — 1.0 New Pals Guide"
+  - name: "Gamer.org : 1.0 New Pals Guide"
     url: "https://www.gamer.org/palworld-1-0-new-pals-breeding-overhaul-and-boss-reworks-full-guide-to-every-reveal-before-july-10/"
 ---
 

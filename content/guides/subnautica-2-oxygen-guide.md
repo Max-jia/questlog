@@ -1,5 +1,5 @@
 ---
-title: "How to Increase Oxygen in Subnautica 2 — Every Tank, Upgrade & Trick"
+title: "How to Increase Oxygen in Subnautica 2 : Every Tank, Upgrade & Trick"
 excerpt: "Never drown again. Every oxygen tank upgrade, Rebreather, Oxygen Tunic locations, Air Bladder tricks, and how to maximize your dive time at every depth."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -10,17 +10,17 @@ verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
   - "Standard Air Tank (75 O2) → High Capacity (~100) → Ultra High Capacity (~150)"
-  - "Oxygen Tunics are blue bubble plants that refill O2 without surfacing — look for them everywhere"
-  - "The Rebreather at 200m+ conserves oxygen — mandatory for deep Karakorum exploration"
+  - "Oxygen Tunics are blue bubble plants that refill O2 without surfacing : look for them everywhere"
+  - "The Rebreather at 200m+ conserves oxygen : mandatory for deep Karakorum exploration"
 tags:
   - Oxygen
   - Air Tank
   - Upgrades
   - Survival
 sources:
-  - name: "Game8 — Tips and Tricks"
+  - name: "Game8 : Tips and Tricks"
     url: "https://game8.co/games/Subnautica-2/archives/598742"
-  - name: "GameRant — How to Increase Oxygen"
+  - name: "GameRant : How to Increase Oxygen"
     url: "https://gamerant.com/subnautica-2-how-to-increase-oxygen/"
 ---
 

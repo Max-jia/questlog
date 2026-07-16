@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Pal Fluids & Rare Materials — Where to Farm Every Drop"
+title: "Palworld 1.0 Pal Fluids & Rare Materials: Where to Farm Every Drop"
 excerpt: "Pal Fluids, Oil, Polymer, Carbon Fiber, and other rare materials. Exact locations, which Pals to farm, and the fastest routes for every resource you will run out of."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Resources
   - Reference
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8: Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire: Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 
@@ -34,7 +34,7 @@ You will run out of Pal Fluids. Then you will run out of Oil. Then you will wond
 
 Used for: Cement, Polymer, some saddles.
 
-Best source: Water Pals. Pengullet, Fuack, Surfent, and anything that swims. The beach west of the starting area has dozens of Pengullets. Clear the beach, wait for respawn, clear it again. Bring a lightning weapon — water Pals take double damage from electric.
+Best source: Water Pals. Pengullet, Fuack, Surfent, and anything that swims. The beach west of the starting area has dozens of Pengullets. Clear the beach, wait for respawn, clear it again. Bring a lightning weapon. Water Pals take double damage from electric.
 
 ---
 
@@ -77,6 +77,6 @@ Start at the western beach for Pal Fluids. Head north to the desert for Oil. Min
 ---
 
 ## Related Guides
-- [Best weapons — what to craft first](/games/palworld/palworld-best-weapons)
+- [Best weapons: what to craft first](/games/palworld/palworld-best-weapons)
 - [Best armor guide](/games/palworld/palworld-best-armor)
 - [Farming routes for Subnautica 2](/games/subnautica-2/subnautica-2-farming-routes)

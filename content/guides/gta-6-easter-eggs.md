@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Easter Eggs & References — Every Nod to Past GTA Games Found So Far"
+title: "GTA 6 Easter Eggs & References : Every Nod to Past GTA Games Found So Far"
 excerpt: "Every GTA 6 easter egg and franchise callback spotted in trailers and promotional material. Vercetti Estate, Phil Cassidy, Tommy's shirt pattern, and Vice City nostalgia."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,16 +9,16 @@ section: Reference
 verified: community
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Vercetti Estate confirmed to exist — Hawk & Little Morgan revolvers are sourced from Tommy's mansion"
-  - "Phil Cassidy (from GTA: Vice City) appears on in-game TV — timeline connections between universes"
-  - "Tommy's Hawaiian shirt pattern is a pre-order weapon skin — Rockstar knows what fans want"
+  - "Vercetti Estate confirmed to exist : Hawk & Little Morgan revolvers are sourced from Tommy's mansion"
+  - "Phil Cassidy (from GTA: Vice City) appears on in-game TV : timeline connections between universes"
+  - "Tommy's Hawaiian shirt pattern is a pre-order weapon skin : Rockstar knows what fans want"
 tags:
   - Easter Eggs
   - References
   - Vice City
   - Nostalgia
 sources:
-  - name: "Rockstar Games — Ultimate Edition Details"
+  - name: "Rockstar Games : Ultimate Edition Details"
     url: "https://www.rockstargames.com/VI"
   - name: "GTA Fandom Wiki"
     url: "https://gta.fandom.com/"

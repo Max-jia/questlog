@@ -1,5 +1,5 @@
 ---
-title: "Where to Find Every Resource in Subnautica 2 — Complete Materials Map & Crafting"
+title: "Where to Find Every Resource in Subnautica 2 : Complete Materials Map & Crafting"
 excerpt: "Where to find every resource in Subnautica 2. Complete materials map by depth, all crafting recipes, and where to find rare resources like Gold, Troilite, and Celestine."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -9,20 +9,20 @@ section: Reference
 verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
-  - "Gold and Sulfur are ONLY in Hydrothermal Vents — there is no other source"
+  - "Gold and Sulfur are ONLY in Hydrothermal Vents : there is no other source"
   - "Troilite is the rarest resource, found only in Metal Farms (300m+) with limited spawns"
-  - "Use the Processor for ingots — it uses fewer materials than the Fabricator"
+  - "Use the Processor for ingots : it uses fewer materials than the Fabricator"
 tags:
   - Resources
   - Crafting
   - Reference
   - Materials
 sources:
-  - name: "Wikily — Subnautica 2 Items"
+  - name: "Wikily : Subnautica 2 Items"
     url: "https://wikily.gg/subnautica-2/items/"
-  - name: "GameWith — Mid-Game Progression"
+  - name: "GameWith : Mid-Game Progression"
     url: "https://gamewith.net/subnautica-2/75820"
-  - name: "Neoseeker — Crafting Modules"
+  - name: "Neoseeker : Crafting Modules"
     url: "https://www.neoseeker.com/subnautica-2/Crafting_Modules"
 ---
 

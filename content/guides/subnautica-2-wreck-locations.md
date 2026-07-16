@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Best Wreck Locations — Where to Find Every Fragment & Blueprint"
+title: "Subnautica 2 Best Wreck Locations : Where to Find Every Fragment & Blueprint"
 excerpt: "Wrecks hide the best blueprints. Here is every major wreck location, what you can scan there, and the depth you need to reach each one."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Locations
   - Exploration
 sources:
-  - name: "Game8 — Subnautica 2 Walkthrough"
+  - name: "Game8 : Subnautica 2 Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "GameRant — Beginner Tips"
+  - name: "GameRant : Beginner Tips"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
 ---
 

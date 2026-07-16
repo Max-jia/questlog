@@ -1,5 +1,5 @@
 ---
-title: "Best Base Locations in Subnautica 2 — Where to Build & How to Power Everything"
+title: "Best Base Locations in Subnautica 2 : Where to Build & How to Power Everything"
 excerpt: "Best base locations in Subnautica 2 ranked by depth. Complete power comparison (Solar vs Thermal vs Bioreactor), room layouts, and pro building tips."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -9,22 +9,22 @@ section: Maps
 verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
-  - "Shallows is the safest first base location — abundant Titanium, Copper, Quartz"
+  - "Shallows is the safest first base location : abundant Titanium, Copper, Quartz"
   - "Solar for shallow bases (<50m), Thermal for hot zones, Bioreactor as backup anywhere"
-  - "Build Power Storage — it prevents blackouts when solar panels go dark at night"
+  - "Build Power Storage : it prevents blackouts when solar panels go dark at night"
 tags:
   - Base Building
   - Locations
   - Power
   - Survival
 sources:
-  - name: "IGN Wiki — How to Build a Base"
+  - name: "IGN Wiki : How to Build a Base"
     url: "https://s.ign.com/wikis/subnautica-2/How_to_Build_a_Base:_Best_Locations_and_Decor_Tips"
-  - name: "Game8 — Best Base Locations"
+  - name: "Game8 : Best Base Locations"
     url: "https://game8.co/games/Subnautica-2/archives/599329"
-  - name: "GameWith — Best Base Locations"
+  - name: "GameWith : Best Base Locations"
     url: "https://gamewith.net/subnautica-2/76063"
-  - name: "Eurogamer — Best Base Locations"
+  - name: "Eurogamer : Best Base Locations"
     url: "https://www.eurogamer.net/best-subnautica-2-base-locations"
 ---
 

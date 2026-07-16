@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Inventory & Hotbar Upgrades — How to Carry More and Access Faster"
+title: "Subnautica 2 Inventory & Hotbar Upgrades : How to Carry More and Access Faster"
 excerpt: "Your starting inventory is tiny. Here is how to upgrade it, get more hotbar slots, and manage your loadout so you stop dropping things on the ocean floor."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Upgrades
   - Beginner
 sources:
-  - name: "Wikily — Subnautica 2 FAQ"
+  - name: "Wikily : Subnautica 2 FAQ"
     url: "https://wikily.gg/subnautica-2/faq/"
-  - name: "GameRant — Beginner Tips"
+  - name: "GameRant : Beginner Tips"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
 ---
 

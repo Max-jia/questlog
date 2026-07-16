@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Voice Actors & Cast — Every Confirmed and Rumored Actor"
+title: "GTA 6 Voice Actors & Cast : Every Confirmed and Rumored Actor"
 excerpt: "Who's voicing Jason and Lucia in GTA 6? Complete voice cast guide with confirmed and rumored actors, their past roles, and everything we know about the performances."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,8 +9,8 @@ section: Reference
 verified: community
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Jason is rumored to be voiced by Dylan Rourke. Lucia is rumored to be Manni L. Perez — both unconfirmed by Rockstar"
-  - "Rockstar famously keeps voice actors secret until launch — GTA V's cast wasn't confirmed until the game was out"
+  - "Jason is rumored to be voiced by Dylan Rourke. Lucia is rumored to be Manni L. Perez : both unconfirmed by Rockstar"
+  - "Rockstar famously keeps voice actors secret until launch : GTA V's cast wasn't confirmed until the game was out"
   - "Supporting characters include rapper T-Pain potentially playing a version of himself"
 tags:
   - Voice Actors
@@ -18,7 +18,7 @@ tags:
   - Jason
   - Lucia
 sources:
-  - name: "Rockstar Games — Official GTA VI Page"
+  - name: "Rockstar Games : Official GTA VI Page"
     url: "https://www.rockstargames.com/VI"
 ---
 

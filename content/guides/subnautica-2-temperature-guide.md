@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Temperature & Radiation Guide — How to Survive Extreme Biomes"
+title: "Subnautica 2 Temperature & Radiation Guide : How to Survive Extreme Biomes"
 excerpt: "Heat, cold, and radiation kill you in specific zones. Here is how to survive each one, what gear you need, and which biomes require protection."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Biomes
   - Beginner
 sources:
-  - name: "Game8 — Subnautica 2 Walkthrough"
+  - name: "Game8 : Subnautica 2 Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "GameRant — Beginner Tips"
+  - name: "GameRant : Beginner Tips"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
 ---
 

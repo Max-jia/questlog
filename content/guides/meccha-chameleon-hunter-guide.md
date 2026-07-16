@@ -1,5 +1,5 @@
 ---
-title: "How to Find Every Hider in Meccha Chameleon — Seeker Tips That Actually Work"
+title: "How to Find Every Hider in Meccha Chameleon : Seeker Tips That Actually Work"
 excerpt: "How to find every hider as a Seeker. Advanced angle-holding, pattern recognition, shotgun flashlight trick, systematic clearing, and pro tactics that actually work."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -9,8 +9,8 @@ section: Combat
 verified: verified
 gameVersion: "1.0"
 tldr:
-  - "Hunt shapes, not colors — experienced hiders match colors perfectly"
-  - "Hold angles against walls and look along the surface — hiders pop out from the edge"
+  - "Hunt shapes, not colors : experienced hiders match colors perfectly"
+  - "Hold angles against walls and look along the surface : hiders pop out from the edge"
   - "Clear one zone completely before moving on, and always check ceilings first"
 tags:
   - Seeker
@@ -18,13 +18,13 @@ tags:
   - Strategy
   - Advanced
 sources:
-  - name: "GameRant — Struggling to Win as a Hunter"
+  - name: "GameRant : Struggling to Win as a Hunter"
     url: "https://gamerant.com/meccha-chameleon-hunter-tips/"
-  - name: "IGN Wiki — Meccha Chameleon Tips and Tricks"
+  - name: "IGN Wiki : Meccha Chameleon Tips and Tricks"
     url: "https://www.ign.com/wikis/meccha-chameleon/"
-  - name: "FandomWire — 15 Tips All Players Should Know"
+  - name: "FandomWire : 15 Tips All Players Should Know"
     url: "https://fandomwire.com/meccha-chameleon-tips-tricks-that-all-players-should-know/"
-  - name: "GrindnStrat — Beginner Guide (Hunters & Hiders)"
+  - name: "GrindnStrat : Beginner Guide (Hunters & Hiders)"
     url: "https://grindnstrat.com/meccha-chameleon-beginner-guide/"
 ---
 

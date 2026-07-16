@@ -1,5 +1,5 @@
 ---
-title: "How to Install & Play Custom Maps in Meccha Chameleon — Steam Workshop Guide"
+title: "How to Install & Play Custom Maps in Meccha Chameleon : Steam Workshop Guide"
 excerpt: "How to install, play, and create custom Meccha Chameleon maps. Steam Workshop guide with top community map recommendations and troubleshooting tips."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -10,7 +10,7 @@ verified: verified
 gameVersion: "1.0"
 tldr:
   - "Subscribe on Steam Workshop → maps auto-download. Custom maps appear in pink/purple"
-  - "Creating maps requires Unreal Engine 5.6.1 — not beginner-friendly"
+  - "Creating maps requires Unreal Engine 5.6.1 : not beginner-friendly"
   - "All lobby members must have the same custom map subscribed"
 tags:
   - Custom Maps
@@ -18,13 +18,13 @@ tags:
   - Technical
   - Mods
 sources:
-  - name: "TheGamer — Creating and Playing Custom Maps"
+  - name: "TheGamer : Creating and Playing Custom Maps"
     url: "https://www.thegamer.com/meccha-chameleon-custom-map-guide/"
-  - name: "IGN Wiki — Best Custom Maps"
+  - name: "IGN Wiki : Best Custom Maps"
     url: "https://www.ign.com/wikis/meccha-chameleon/Best_Custom_Meccha_Chameleon_Maps_to_Download_From_Steam_Workshop"
-  - name: "FandomWire — Workshop Guide"
+  - name: "FandomWire : Workshop Guide"
     url: "https://fandomwire.com/meccha-chameleon-workshop-guide-custom-maps/"
-  - name: "Polygon — Best Custom Meccha Chameleon Maps"
+  - name: "Polygon : Best Custom Meccha Chameleon Maps"
     url: "https://www.polygon.com/meccha-chameleon-custom-maps-best-list/"
 ---
 

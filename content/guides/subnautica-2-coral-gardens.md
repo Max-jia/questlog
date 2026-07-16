@@ -1,5 +1,5 @@
 ---
-title: "Coral Gardens Subnautica 2 Guide — Every Biome, Resource & Creature Location"
+title: "Coral Gardens Subnautica 2 Guide : Every Biome, Resource & Creature Location"
 excerpt: "Complete Coral Gardens guide for Subnautica 2. Every sub-biome, resource, creature, and base location in the starting region. Shallows to Hydrothermal Vents."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Beginner
   - Map
 sources:
-  - name: "IGN Wiki — Coral Gardens"
+  - name: "IGN Wiki : Coral Gardens"
     url: "https://www.ign.com/wikis/subnautica-2/Coral_Gardens"
-  - name: "Game8 — Walkthrough"
+  - name: "Game8 : Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
 ---
 

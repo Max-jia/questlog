@@ -1,5 +1,5 @@
 ---
-title: "AC Black Flag Resynced All Outfits — How to Unlock Every Costume"
+title: "AC Black Flag Resynced All Outfits : How to Unlock Every Costume"
 excerpt: "Every outfit in Black Flag Resynced and how to unlock each one. Mayan Armor, Templar Armor, Hunter Outfit, and the secret outfits."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
@@ -18,17 +18,17 @@ tags:
   - Reference
   - Collectibles
 sources:
-  - name: "TheGamer — Misteriosa Collectibles"
+  - name: "TheGamer : Misteriosa Collectibles"
     url: "https://www.thegamer.com/assassins-creed-black-flag-resynced-misteriosa-collectibles-location-mayan-stele-chest-secrets-treasure-map-guide/"
-  - name: "IGN Wiki — Black Flag Resynced"
+  - name: "IGN Wiki : Black Flag Resynced"
     url: "https://www.ign.com/wikis/assassins-creed-black-flag-resynced/"
 ---
 
 ![Black Flag outfits](/images/ac-black-flag/screenshots/screenshot-11.jpg)
 
-### Mayan Armor — the only one that matters
+### Mayan Armor: the only one that matters
 
-Collect all Mayan Stelae scattered across the Caribbean. Each one requires a puzzle — align symbols with landmarks. Once you have them all, the Mayan Armor unlocks.
+Collect all Mayan Stelae scattered across the Caribbean. Each one requires a puzzle: align symbols with landmarks. Once you have them all, the Mayan Armor unlocks.
 
 Effect: deflects bullets. This is the single best outfit in the game. Get it as early as possible.
 

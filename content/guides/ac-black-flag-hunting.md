@@ -1,5 +1,5 @@
 ---
-title: "AC Black Flag Resynced Hunting Guide — Where to Find Every Animal"
+title: "AC Black Flag Resynced Hunting Guide : Where to Find Every Animal"
 excerpt: "Hunting gives you skins for upgrades. Here is where every animal spawns, what materials they drop, and which ones you need for health, ammo, and armor upgrades."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
@@ -18,9 +18,9 @@ tags:
   - Upgrades
   - Map
 sources:
-  - name: "IGN Wiki — Black Flag Resynced"
+  - name: "IGN Wiki : Black Flag Resynced"
     url: "https://www.ign.com/wikis/assassins-creed-black-flag-resynced/"
-  - name: "Red Bull — 10 porad na start"
+  - name: "Red Bull : 10 porad na start"
     url: "https://www.redbull.com/pl-pl/assassins-creed-black-flag-resynced-poradnik"
 ---
 

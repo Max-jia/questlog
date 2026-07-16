@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 FAQ — 20 Questions Every New Player Asks (Answered)"
+title: "Subnautica 2 FAQ : 20 Questions Every New Player Asks (Answered)"
 excerpt: "20 most asked Subnautica 2 questions answered. Release status, multiplayer co-op, max depth, where to find Gold, how to save, and more quick answers."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -10,7 +10,7 @@ verified: community
 gameVersion: "Early Access (May 2026)"
 tldr:
   - "Grab Water Slugs from the seabed → Fabricator (1 Slug = 1 Water)"
-  - "Game is in Early Access — story currently ends at Power Plant repair"
+  - "Game is in Early Access : story currently ends at Power Plant repair"
   - "Yes, up to 4-player co-op. Each player needs their own copy of the game"
 tags:
   - FAQ
@@ -18,11 +18,11 @@ tags:
   - Tips
   - Beginner
 sources:
-  - name: "Rock Paper Shotgun — What to Do First"
+  - name: "Rock Paper Shotgun : What to Do First"
     url: "https://www.rockpapershotgun.com/subnautica-2-what-to-do-first"
-  - name: "GameRant — 10 Things We Wish We Knew"
+  - name: "GameRant : 10 Things We Wish We Knew"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
-  - name: "Game8 — Tips and Tricks"
+  - name: "Game8 : Tips and Tricks"
     url: "https://game8.co/games/Subnautica-2/archives/598742"
 ---
 

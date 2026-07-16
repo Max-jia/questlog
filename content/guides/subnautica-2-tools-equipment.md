@@ -1,6 +1,6 @@
 ---
-title: "Best Tools & Gear in Subnautica 2 — What to Craft First & Upgrade Priority"
-excerpt: "Best tools and gear in Subnautica 2 — what to craft first and when to upgrade. Optimal loadout for early, mid, and late game. Scanner, Wakemaker, Tadpole upgrades."
+title: "Best Tools & Gear in Subnautica 2 : What to Craft First & Upgrade Priority"
+excerpt: "Best tools and gear in Subnautica 2 : what to craft first and when to upgrade. Optimal loadout for early, mid, and late game. Scanner, Wakemaker, Tadpole upgrades."
 game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-06-20"
@@ -10,7 +10,7 @@ verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
   - "Craft Multitool first → Scanner second → Fins + Air Tank + Air Bladder third"
-  - "Wakemaker replaces Flashlight — don't waste inventory space on both"
+  - "Wakemaker replaces Flashlight : don't waste inventory space on both"
   - "Upgrade to Feedback Resonator for longer creature stuns in late-game zones"
 tags:
   - Tools
@@ -18,11 +18,11 @@ tags:
   - Upgrades
   - Loadout
 sources:
-  - name: "DropReference — Complete Upgrades Guide"
+  - name: "DropReference : Complete Upgrades Guide"
     url: "https://dropreference.com/en/blog/guide/subnautica-2-guide-improvements-tadpole-tools-equipment-2026"
-  - name: "Game8 — Tips and Tricks"
+  - name: "Game8 : Tips and Tricks"
     url: "https://game8.co/games/Subnautica-2/archives/598742"
-  - name: "Wikily — Subnautica 2 Items"
+  - name: "Wikily : Subnautica 2 Items"
     url: "https://wikily.gg/subnautica-2/items/"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Exploration Guide — How to Navigate Every Biome Safely"
+title: "Subnautica 2 Exploration Guide : How to Navigate Every Biome Safely"
 excerpt: "Complete exploration guide for Subnautica 2: navigation tips, beacon strategy, depth milestones, how to find every biome entrance, and a prioritized exploration route."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -9,7 +9,7 @@ section: Maps
 verified: community
 gameVersion: "Early Access (May 2026)"
 tldr:
-  - "There's no map — use beacons to mark everything: bases, resources, danger zones, biome entrances"
+  - "There's no map : use beacons to mark everything: bases, resources, danger zones, biome entrances"
   - "Follow this priority route: Shallows → Jelly Barrens → Old Habitat → Hydrothermal Vents → Karakorum → Metal Farms"
   - "Never descend below 200m without a Rebreather and High Capacity Air Tank"
 tags:
@@ -18,9 +18,9 @@ tags:
   - Biomes
   - Depth
 sources:
-  - name: "Game8 — Complete Walkthrough"
+  - name: "Game8 : Complete Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "GameRant — Beginner Tips"
+  - name: "GameRant : Beginner Tips"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
 ---
 

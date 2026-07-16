@@ -1,5 +1,5 @@
 ---
-title: "Assassin's Creed Black Flag Resynced Beginner's Guide — 12 Tips for Your First Hours"
+title: "Assassin's Creed Black Flag Resynced Beginner's Guide : 12 Tips for Your First Hours"
 excerpt: "Master the Caribbean fast. Best ship upgrades, combat tips, stealth basics, treasure hunting, and the mistakes every new pirate makes in Black Flag Resynced."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
@@ -19,9 +19,9 @@ tags:
   - Jackdaw
   - Combat
 sources:
-  - name: "VGC — AC Black Flag Resynced Guide"
+  - name: "VGC : AC Black Flag Resynced Guide"
     url: "https://www.videogameschronicle.com/guide/ac-black-flag-resynced-hms-ipswich-maynard-boss-world-without-gold-guide/"
-  - name: "IGN Wiki — Black Flag Resynced"
+  - name: "IGN Wiki : Black Flag Resynced"
     url: "https://www.ign.com/wikis/assassins-creed-black-flag-resynced/"
 ---
 

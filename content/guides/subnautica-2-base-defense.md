@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Base Defense — How to Protect Your Base From Predators"
+title: "Subnautica 2 Base Defense : How to Protect Your Base From Predators"
 excerpt: "Creatures will attack your base. Here is how to defend it, what to build, and which predators will destroy everything if you are not prepared."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Predators
   - Safety
 sources:
-  - name: "Game8 — Subnautica 2 Walkthrough"
+  - name: "Game8 : Subnautica 2 Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "GameRant — Beginner Tips"
+  - name: "GameRant : Beginner Tips"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Best Hiding Spots on All 7 Meccha Chameleon Maps — Where to Hide & Never Get Found"
+title: "Best Hiding Spots on All 7 Meccha Chameleon Maps : Where to Hide & Never Get Found"
 excerpt: "Best hiding spots on all 7 Meccha Chameleon maps. Complete breakdown of every official map with strategies, seeker blind spots, and custom Workshop map recommendations."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -10,7 +10,7 @@ verified: community
 gameVersion: "1.0"
 tldr:
   - "Penguin Hotel is easiest for hiders, Osaka is hardest"
-  - "Hide in visual clutter — empty walls get you killed on every map"
+  - "Hide in visual clutter : empty walls get you killed on every map"
   - "Use wall climbing to reach ceiling spots that 90% of seekers never check"
 tags:
   - Maps
@@ -18,13 +18,13 @@ tags:
   - Strategy
   - Hider Guide
 sources:
-  - name: "IGN Wiki — All Maps & Best Hiding Spots"
+  - name: "IGN Wiki : All Maps & Best Hiding Spots"
     url: "https://www.ign.com/wikis/meccha-chameleon/All_Maps_in_Meccha_Chameleon:_Best_Hiding_Spots"
-  - name: "Destructoid — Best Areas to Hide"
+  - name: "Destructoid : Best Areas to Hide"
     url: "https://www.destructoid.com/best-areas-to-hide-in-meccha-chameleon/"
-  - name: "GameRant — Best Hiding Spots"
+  - name: "GameRant : Best Hiding Spots"
     url: "https://gamerant.com/meccha-chameleon-best-hiding-spots/"
-  - name: "AllThings — Best Hiding Spots on All Four Maps"
+  - name: "AllThings : Best Hiding Spots on All Four Maps"
     url: "https://allthings.how/meccha-chameleon-best-hiding-spots-on-all-four-maps/"
 ---
 

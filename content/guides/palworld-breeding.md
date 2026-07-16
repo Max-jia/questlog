@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Breeding Guide — Genetic Recombination, Best Combos & Trait Inheritance"
+title: "Palworld 1.0 Breeding Guide : Genetic Recombination, Best Combos & Trait Inheritance"
 excerpt: "The 1.0 breeding overhaul changed everything. Genetic Recombination fuses Legendaries. Old combos are wrong. Here are the new best breeding pairs and how trait inheritance works."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Pals
   - Combos
 sources:
-  - name: "DeltiasGaming — 10 Best Breeding Combos"
+  - name: "DeltiasGaming : 10 Best Breeding Combos"
     url: "https://deltiasgaming.com/10-best-palworld-1-0-breeding-combos/"
-  - name: "AllThings — Breeding & Trait Inheritance"
+  - name: "AllThings : Breeding & Trait Inheritance"
     url: "https://allthings.how/palworld-1-0-how-breeding-and-trait-inheritance-work/"
 ---
 

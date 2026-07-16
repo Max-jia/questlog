@@ -1,5 +1,5 @@
 ---
-title: "AC Black Flag Resynced Stealth Guide — How to Never Get Detected"
+title: "AC Black Flag Resynced Stealth Guide : How to Never Get Detected"
 excerpt: "Most missions let you ghost through without a fight. Here is how to use Eagle Vision, whistling, hiding spots, and the environment to never raise an alarm."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
@@ -18,9 +18,9 @@ tags:
   - Tips
   - Combat
 sources:
-  - name: "IGN Wiki — Black Flag Resynced"
+  - name: "IGN Wiki : Black Flag Resynced"
     url: "https://www.ign.com/wikis/assassins-creed-black-flag-resynced/"
-  - name: "Red Bull — 10 porad na start"
+  - name: "Red Bull : 10 porad na start"
     url: "https://www.redbull.com/pl-pl/assassins-creed-black-flag-resynced-poradnik"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Raid Guide — How to Beat Every Wave & Best Raid Team Comps"
+title: "Palworld 1.0 Raid Guide : How to Beat Every Wave & Best Raid Team Comps"
 excerpt: "The 1.0 raid system is wave-based and harder than anything in Early Access. Here is how to prepare, which Pals to bring, and how to survive every wave."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Combat
   - Team
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 

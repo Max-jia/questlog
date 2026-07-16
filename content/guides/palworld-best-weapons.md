@@ -1,5 +1,5 @@
 ---
-title: "Best Weapons in Palworld 1.0 — What to Craft First & Upgrade Priority"
+title: "Best Weapons in Palworld 1.0 : What to Craft First & Upgrade Priority"
 excerpt: "Your starter weapons are garbage. Here is exactly what to craft first, what to skip, and the upgrade order that saves the most resources in Palworld 1.0."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Beginner
   - Crafting
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 
@@ -73,6 +73,6 @@ Skip it. Unlocks at level 25. Does less damage than the Three-Shot Bow and costs
 ---
 
 ## Related Guides
-- [Beginner's Guide — first hours](/games/palworld/palworld-beginner-guide)
+- [Beginner's Guide : first hours](/games/palworld/palworld-beginner-guide)
 - [Best early game Pals](/games/palworld/palworld-best-pals)
 - [Fast leveling guide](/games/palworld/palworld-fast-leveling)

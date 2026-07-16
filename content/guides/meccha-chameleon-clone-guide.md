@@ -1,5 +1,5 @@
 ---
-title: "How Clones Really Work in Meccha Chameleon — Complete Decoy Guide & Tactics"
+title: "How Clones Really Work in Meccha Chameleon : Complete Decoy Guide & Tactics"
 excerpt: "Complete guide to Meccha Chameleon clone mechanics. How decoys work, when to use them, advanced bait tactics, and the critical rule that can get you eliminated."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -10,17 +10,17 @@ verified: verified
 gameVersion: "1.0"
 tldr:
   - "Max 2 clones, 30s cooldown. If a hunter shoots your clone, YOU die too"
-  - "Place clones far from your hiding spot — use them as decoys, not shields"
-  - "On small maps (Osaka), never use clones — the risk isn't worth it"
+  - "Place clones far from your hiding spot : use them as decoys, not shields"
+  - "On small maps (Osaka), never use clones : the risk isn't worth it"
 tags:
   - Clone
   - Decoys
   - Hider Guide
   - Mechanics
 sources:
-  - name: "TheGamer — Tips Using Clones to Hide Better"
+  - name: "TheGamer : Tips Using Clones to Hide Better"
     url: "https://www.thegamer.com/meccha-chameleon-clone-mechanics-guide/"
-  - name: "IGN Wiki — Meccha Chameleon Tips and Tricks"
+  - name: "IGN Wiki : Meccha Chameleon Tips and Tricks"
     url: "https://www.ign.com/wikis/meccha-chameleon/"
 ---
 

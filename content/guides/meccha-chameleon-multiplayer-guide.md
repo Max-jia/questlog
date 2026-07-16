@@ -1,6 +1,6 @@
 ---
-title: "How to Play Meccha Chameleon With Friends — Lobby Setup, Invites & Common Fixes"
-excerpt: "How to play Meccha Chameleon with friends — complete lobby setup guide. Covers hosting, joining, connection fixes, crossplay status, and player count recommendations."
+title: "How to Play Meccha Chameleon With Friends : Lobby Setup, Invites & Common Fixes"
+excerpt: "How to play Meccha Chameleon with friends : complete lobby setup guide. Covers hosting, joining, connection fixes, crossplay status, and player count recommendations."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-22"
@@ -10,7 +10,7 @@ verified: verified
 gameVersion: "1.0"
 tldr:
   - "Create lobby → set password → share server name with friends"
-  - "No crossplay — PC/Steam only. No console or mobile versions"
+  - "No crossplay : PC/Steam only. No console or mobile versions"
   - "4-8 players is the sweet spot for fun, balanced matches"
 tags:
   - Multiplayer
@@ -18,9 +18,9 @@ tags:
   - Friends
   - Technical
 sources:
-  - name: "GameRant — How Many Players & Playing With Friends"
+  - name: "GameRant : How Many Players & Playing With Friends"
     url: "https://gamerant.com/meccha-chameleon-how-many-players-play-with-friends/"
-  - name: "G2A News — Multiplayer Guide"
+  - name: "G2A News : Multiplayer Guide"
     url: "https://www.g2a.com/news/features/meccha-chameleon-multiplayer-guide-how-to-play-with-friends-host-rooms-and-check-crossplay/"
   - name: "Steam Community Discussions"
     url: "https://steamcommunity.com/app/4704690/discussions/"

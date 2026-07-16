@@ -1,6 +1,6 @@
 ---
-title: "Meccha Chameleon Game Modes Explained — Basic vs Infection vs Double"
-excerpt: "Meccha Chameleon game modes explained — Basic, Infection, and Double. Rules, strategies, and which mode is best for your playstyle."
+title: "Meccha Chameleon Game Modes Explained : Basic vs Infection vs Double"
+excerpt: "Meccha Chameleon game modes explained : Basic, Infection, and Double. Rules, strategies, and which mode is best for your playstyle."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-17"
@@ -19,11 +19,11 @@ tags:
   - Infection
   - Double
 sources:
-  - name: "GameRant — Every Game Mode in Meccha Chameleon"
+  - name: "GameRant : Every Game Mode in Meccha Chameleon"
     url: "https://gamerant.com/meccha-chameleon-all-modes/"
-  - name: "IGN Wiki — Meccha Chameleon"
+  - name: "IGN Wiki : Meccha Chameleon"
     url: "https://www.ign.com/wikis/meccha-chameleon/"
-  - name: "Destructoid — Beginner's Tips"
+  - name: "Destructoid : Beginner's Tips"
     url: "https://www.destructoid.com/meccha-chameleon-beginners-tips-and-tricks-for-painters-and-hunters/"
 ---
 

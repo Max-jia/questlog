@@ -1,5 +1,5 @@
 ---
-title: "AC Black Flag Resynced Legendary Ships — All 4 Boss Fights & How to Beat Them"
+title: "AC Black Flag Resynced Legendary Ships : All 4 Boss Fights & How to Beat Them"
 excerpt: "Every Legendary Ship location, weakness, and strategy. HMS Prince, La Dama Negra, El Impoluto, and the twin HMS Fearless + Royal Sovereign."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
@@ -18,9 +18,9 @@ tags:
   - Naval
   - Endgame
 sources:
-  - name: "Eurogamer — All Legendary Ships"
+  - name: "Eurogamer : All Legendary Ships"
     url: "https://www.eurogamer.net/assassins-creed-black-flag-resynced-all-legendary-ships"
-  - name: "VGC — HMS Ipswich Guide"
+  - name: "VGC : HMS Ipswich Guide"
     url: "https://www.videogameschronicle.com/guide/ac-black-flag-resynced-hms-ipswich-maynard-boss-world-without-gold-guide/"
 ---
 

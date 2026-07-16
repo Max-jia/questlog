@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Condenser Guide — How to Max Out Your Pals Fast"
+title: "Palworld 1.0 Condenser Guide : How to Max Out Your Pals Fast"
 excerpt: "The condenser is how you turn 64 junk Pals into one god-tier Pal. Here is how it works, which Pals to condense first, and the fastest way to farm dupes."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Breeding
   - Endgame
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 

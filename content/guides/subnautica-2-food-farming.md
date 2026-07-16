@@ -1,6 +1,6 @@
 ---
-title: "How to Never Run Out of Food & Water in Subnautica 2 — Complete Farming Guide"
-excerpt: "Never run out of food and water in Subnautica 2. Complete farming guide — growbeds, aquarium breeding, best recipes, and how to build a self-sustaining base."
+title: "How to Never Run Out of Food & Water in Subnautica 2 : Complete Farming Guide"
+excerpt: "Never run out of food and water in Subnautica 2. Complete farming guide : growbeds, aquarium breeding, best recipes, and how to build a self-sustaining base."
 game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-06-01"
@@ -10,17 +10,17 @@ verified: community
 gameVersion: "Early Access (May 2026)"
 tldr:
   - "Growbeds + Aquarium + Bioreactor = infinite food, water, and power"
-  - "Plant Lucifer Rotsac for endless rubber — needed for Fins, Air Tank, Air Bladder"
-  - "Cooked Halfmoon: 20-25 cal. Pavlova: 80 cal + 70 water — the best endgame recipe"
+  - "Plant Lucifer Rotsac for endless rubber : needed for Fins, Air Tank, Air Bladder"
+  - "Cooked Halfmoon: 20-25 cal. Pavlova: 80 cal + 70 water : the best endgame recipe"
 tags:
   - Food
   - Farming
   - Survival
   - Base
 sources:
-  - name: "Game8 — Tips and Tricks"
+  - name: "Game8 : Tips and Tricks"
     url: "https://game8.co/games/Subnautica-2/archives/598742"
-  - name: "GameWith — Early Game Progression"
+  - name: "GameWith : Early Game Progression"
     url: "https://gamewith.net/subnautica-2/75772"
 ---
 

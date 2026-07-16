@@ -1,5 +1,5 @@
 ---
-title: "How to Catch Legendary Pals in Palworld 1.0 — All Locations & Best Spheres"
+title: "How to Catch Legendary Pals in Palworld 1.0: All Locations & Best Spheres"
 excerpt: "Frostallion, Jetragon, Necromus, and Paladius. Where every legendary Pal spawns, what level you need, and which spheres to bring so you do not waste 50 Ultra Spheres on one catch."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Endgame
   - Locations
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8: Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "GameRant — Best Pals for Combat"
+  - name: "GameRant: Best Pals for Combat"
     url: "https://gamerant.com/best-pals-for-combat-in-palworld-1-0/"
 ---
 
@@ -39,7 +39,7 @@ You need three things before hunting legendaries:
 
 ---
 
-### Jetragon — the fastest mount in the game
+### Jetragon: the fastest mount in the game
 
 | Detail | Info |
 |--------|------|
@@ -52,7 +52,7 @@ Jetragon is the fastest flying mount and the hardest legendary to catch. Bring i
 
 ---
 
-### Frostallion — the ice tank
+### Frostallion: the ice tank
 
 | Detail | Info |
 |--------|------|
@@ -65,7 +65,7 @@ Easier than Jetragon but still a serious fight. Bring fire weapons and cold-resi
 
 ---
 
-### Necromus + Paladius — the duo fight
+### Necromus + Paladius: the duo fight
 
 | Detail | Info |
 |--------|------|
@@ -74,7 +74,7 @@ Easier than Jetragon but still a serious fight. Bring fire weapons and cold-resi
 | Type | Dark / Neutral |
 | Weakness | Dragon / Dark |
 
-These two spawn together. You have to fight both at once. Bring a strong Pal to tank one while you focus the other. Target Necromus first — it is the more dangerous of the two.
+These two spawn together. You have to fight both at once. Bring a strong Pal to tank one while you focus the other. Target Necromus first. It is the more dangerous of the two.
 
 ---
 
@@ -86,5 +86,5 @@ Do not show up at level 35 with Ultra Spheres. You will waste 50 of them and giv
 
 ## Related Guides
 - [Best early game Pals](/games/palworld/palworld-best-pals)
-- [Raid guide — best team comps](/games/palworld/palworld-raid-guide)
+- [Raid guide: best team comps](/games/palworld/palworld-raid-guide)
 - [Flying mounts guide](/games/palworld/palworld-flying-mounts)

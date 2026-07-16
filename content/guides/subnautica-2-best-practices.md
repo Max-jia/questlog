@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Best Practices — 20 Tips to Play Smarter, Not Harder"
+title: "Subnautica 2 Best Practices : 20 Tips to Play Smarter, Not Harder"
 excerpt: "20 efficiency tips every Subnautica 2 player should know. Save hours of grinding with smarter base layouts, resource farming routes, inventory management, and time-saving tricks."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -9,8 +9,8 @@ section: Combat
 verified: community
 gameVersion: "Early Access (May 2026)"
 tldr:
-  - "Use the Processor for ingots — it uses fewer resources than the Fabricator"
-  - "Build small forward bases instead of one mega-base — saves hours of travel time"
+  - "Use the Processor for ingots : it uses fewer resources than the Fabricator"
+  - "Build small forward bases instead of one mega-base : saves hours of travel time"
   - "Label your lockers. Grow Lucifer Rotsac at home. Always carry 2 beacons and a spare battery"
 tags:
   - Tips
@@ -18,9 +18,9 @@ tags:
   - Best Practices
   - Time-Saving
 sources:
-  - name: "GameRant — 10 Things We Wish We Knew Earlier"
+  - name: "GameRant : 10 Things We Wish We Knew Earlier"
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
-  - name: "Game8 — Tips and Tricks"
+  - name: "Game8 : Tips and Tricks"
     url: "https://game8.co/games/Subnautica-2/archives/598742"
 ---
 

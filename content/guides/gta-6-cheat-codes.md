@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Cheat Codes — What to Expect Based on 25 Years of GTA History"
+title: "GTA 6 Cheat Codes : What to Expect Based on 25 Years of GTA History"
 excerpt: "Every GTA has cheat codes. Here's what to expect from GTA 6 cheats based on franchise history, plus the most iconic codes from GTA V, San Andreas, and Vice City that may return."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,8 +9,8 @@ section: Building
 verified: community
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "GTA cheats are a 25-year tradition — invincibility, weapons, vehicles, and weather control have been in every game"
-  - "GTA V had phone-activated cheats — GTA 6 will likely continue this system"
+  - "GTA cheats are a 25-year tradition : invincibility, weapons, vehicles, and weather control have been in every game"
+  - "GTA V had phone-activated cheats : GTA 6 will likely continue this system"
   - "Vice City's classic cheats (Cars Fly, Big Head Mode) have a strong chance of returning as callbacks"
 tags:
   - Cheats
@@ -18,7 +18,7 @@ tags:
   - History
   - Fun
 sources:
-  - name: "Rockstar Games — GTA Series History"
+  - name: "Rockstar Games : GTA Series History"
     url: "https://www.rockstargames.com/"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Best Armor in Palworld 1.0 — What to Craft & When to Upgrade"
+title: "Best Armor in Palworld 1.0 : What to Craft & When to Upgrade"
 excerpt: "Your cloth armor is useless after level 10. Here is the armor upgrade path, what materials you need, and which sets are worth the grind."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Beginner
   - Crafting
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 

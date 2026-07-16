@@ -1,6 +1,6 @@
 ---
-title: "GTA 6 Pre-Order Guide — Standard vs Ultimate Edition (Which Should You Buy?)"
-excerpt: "GTA 6 pre-order guide — Standard vs Ultimate Edition compared. Which edition is worth your money? Full breakdown of pre-order bonuses, exclusive content, and pricing."
+title: "GTA 6 Pre-Order Guide : Standard vs Ultimate Edition (Which Should You Buy?)"
+excerpt: "GTA 6 pre-order guide : Standard vs Ultimate Edition compared. Which edition is worth your money? Full breakdown of pre-order bonuses, exclusive content, and pricing."
 game: gta-6
 gameName: "Grand Theft Auto VI"
 date: "2026-06-13"
@@ -9,20 +9,20 @@ section: Reference
 verified: verified
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Ultimate Edition ($100) is worth it — $20 gets you 5 vehicles, 2 weapons, exclusive shops, extra mission"
+  - "Ultimate Edition ($100) is worth it : $20 gets you 5 vehicles, 2 weapons, exclusive shops, extra mission"
   - "Pre-order bonus (both editions): Vintage Vice City Pack with retro car, garage, outfits, and weapon pattern"
-  - "Physical edition contains a download code only — no disc in the box"
+  - "Physical edition contains a download code only : no disc in the box"
 tags:
   - Pre-Order
   - Editions
   - Buying Guide
   - Price
 sources:
-  - name: "Rockstar Games — Official Pre-Order Page"
+  - name: "Rockstar Games : Official Pre-Order Page"
     url: "https://www.rockstargames.com/VI"
-  - name: "G2A News — Pre-Orders & Ultimate Edition"
+  - name: "G2A News : Pre-Orders & Ultimate Edition"
     url: "https://www.g2a.com/news/features/gta-6-pre-orders-ultimate-edition/"
-  - name: "Polygon — Pre-Order Bonuses"
+  - name: "Polygon : Pre-Order Bonuses"
     url: "https://www.polygon.com/rockstar-reveals-gta-6-ultimate-edition-contents-and-pre-order-bonuses/"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Best Base Pals — Who to Assign to Mining, Crafting & Farming"
+title: "Palworld 1.0 Best Base Pals : Who to Assign to Mining, Crafting & Farming"
 excerpt: "Not every Pal belongs in your combat party. The best base Pals have high Work Suitability. Here is who to hire for every job."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Automation
   - Beginner
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 

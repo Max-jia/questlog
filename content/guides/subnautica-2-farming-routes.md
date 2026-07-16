@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 Farming Routes — Best Paths for Titanium, Gold, Silver & Rare Resources"
+title: "Subnautica 2 Farming Routes : Best Paths for Titanium, Gold, Silver & Rare Resources"
 excerpt: "Stop wandering. These optimized farming routes get you the most Titanium, Copper, Silver, Gold, and Lithium per minute. Exact paths, depths, and what to bring."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -18,9 +18,9 @@ tags:
   - Routes
   - Efficiency
 sources:
-  - name: "Game8 — Walkthrough"
+  - name: "Game8 : Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
-  - name: "GameWith — Mid-Game Progression"
+  - name: "GameWith : Mid-Game Progression"
     url: "https://gamewith.net/subnautica-2/75820"
 ---
 

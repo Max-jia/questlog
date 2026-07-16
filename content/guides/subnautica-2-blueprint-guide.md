@@ -1,6 +1,6 @@
 ---
-title: "Subnautica 2 Blueprint Locations — Where to Find Every Crafting Recipe"
-excerpt: "Every blueprint in Subnautica 2 and exactly where to find them. Habitat Builder, Moonpool, Tadpole, Modification Station, and all critical recipes — no more guessing."
+title: "Subnautica 2 Blueprint Locations : Where to Find Every Crafting Recipe"
+excerpt: "Every blueprint in Subnautica 2 and exactly where to find them. Habitat Builder, Moonpool, Tadpole, Modification Station, and all critical recipes : no more guessing."
 game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-05-25"
@@ -18,9 +18,9 @@ tags:
   - Locations
   - Reference
 sources:
-  - name: "Wikily — Subnautica 2 Items"
+  - name: "Wikily : Subnautica 2 Items"
     url: "https://wikily.gg/subnautica-2/items/"
-  - name: "Game8 — Walkthrough"
+  - name: "Game8 : Walkthrough"
     url: "https://game8.co/games/Subnautica-2/archives/599150"
 ---
 

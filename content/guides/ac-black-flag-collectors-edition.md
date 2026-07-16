@@ -1,5 +1,5 @@
 ---
-title: "AC Black Flag Resynced Collector's Edition — What's Included & How to Redeem Codes"
+title: "AC Black Flag Resynced Collector's Edition : What's Included & How to Redeem Codes"
 excerpt: "Everything in the Black Flag Resynced Collector's and Deluxe Editions. What the redeem codes unlock, how to claim your bonuses, and whether the upgrade is worth it."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
@@ -18,7 +18,7 @@ tags:
   - Redeem
   - Deluxe
 sources:
-  - name: "Ubisoft — Black Flag Resynced Official Page"
+  - name: "Ubisoft : Black Flag Resynced Official Page"
     url: "https://www.ubisoft.com/en-au/game/assassins-creed/black-flag-resynced"
 ---
 

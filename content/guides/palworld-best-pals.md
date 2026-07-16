@@ -1,6 +1,6 @@
 ---
-title: "Palworld 1.0 Best Early Game Pals — 10 Pals That Carry Your First 20 Hours"
-excerpt: "Catch these 10 Pals first and the early game gets much easier. Mounts, combat, base automation, and flying — here is the priority order."
+title: "Palworld 1.0 Best Early Game Pals: 10 Pals That Carry Your First 20 Hours"
+excerpt: "Catch these 10 Pals first and the early game gets much easier. Mounts, combat, base automation, and flying: here is the priority order."
 game: palworld
 gameName: "Palworld"
 date: "2026-07-10"
@@ -18,9 +18,9 @@ tags:
   - Beginner
   - Mounts
 sources:
-  - name: "GameRant — Best Starting Pals"
+  - name: "GameRant: Best Starting Pals"
     url: "https://gamerant.com/palworld-best-starting-early-game-pals/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire: Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 
@@ -61,4 +61,5 @@ Your first real boss fight at around level 11. Defeat and capture it, and it bec
 ---
 
 ## Related Guides
+- [How to catch legendary Pals](/games/palworld/palworld-legendary-pals)
 - [Palworld 1.0 Beginner's Guide](/games/palworld/palworld-beginner-guide)

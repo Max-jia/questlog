@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Type Effectiveness Guide — Every Element Weakness & Counter"
+title: "Palworld 1.0 Type Effectiveness Guide : Every Element Weakness & Counter"
 excerpt: "Fire beats Grass. Water beats Fire. Here is the complete type chart, which Pals counter each element, and how to never bring the wrong type to a boss fight."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Reference
   - Beginner
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "GameRant — Best Pals for Combat"
+  - name: "GameRant : Best Pals for Combat"
     url: "https://gamerant.com/best-pals-for-combat-in-palworld-1-0/"
 ---
 
@@ -57,7 +57,7 @@ For every other combination, damage is neutral. Neutral is fine. Resisted is bad
 | Grass | Lifmunk | Lyleen |
 | Ground | Rushoar | Anubis |
 | Ice | Chillet | Frostallion |
-| Dragon | — | Jetragon |
+| Dragon | : | Jetragon |
 | Dark | Daedream | Shadowbeak |
 
 ---

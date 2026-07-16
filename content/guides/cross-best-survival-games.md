@@ -9,7 +9,7 @@ section: Reference
 verified: verified
 gameVersion: "N/A"
 tldr:
-  - "Start with the original Subnautica if you haven't played it — still the closest experience"
+  - "Start with the original Subnautica if you haven't played it : still the closest experience"
   - "Valheim and Grounded are the best co-op alternatives; The Forest for horror-survival"
   - "All games feature base building, exploration, and the same 'alone in a hostile world' feeling"
 tags:
@@ -18,9 +18,9 @@ tags:
   - Recommendations
   - Similar Games
 sources:
-  - name: "Steam Charts — Player Statistics"
+  - name: "Steam Charts : Player Statistics"
     url: "https://store.steampowered.com/stats/"
-  - name: "GameRant — Best Survival Games"
+  - name: "GameRant : Best Survival Games"
     url: "https://gamerant.com/"
 ---
 

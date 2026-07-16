@@ -1,5 +1,5 @@
 ---
-title: "Why You Keep Getting Caught in Meccha Chameleon — The Camouflage Settings Everyone Misses"
+title: "Why You Keep Getting Caught in Meccha Chameleon : The Camouflage Settings Everyone Misses"
 excerpt: "Why you keep getting caught even with perfect color matching. Master roughness, metallic, shadows, silhouette, and lighting to become nearly invisible."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -9,22 +9,22 @@ section: Reference
 verified: verified
 gameVersion: "1.0"
 tldr:
-  - "Color matching is only 20% of camouflage — roughness and metallic matter more"
+  - "Color matching is only 20% of camouflage : roughness and metallic matter more"
   - "Set roughness to max for matte surfaces, metallic to zero unless hiding on metal"
-  - "Press V to disable shadows on every single round — it's the easiest fix"
+  - "Press V to disable shadows on every single round : it's the easiest fix"
 tags:
   - Camouflage
   - Tips
   - Hider Guide
   - Advanced
 sources:
-  - name: "NeonLightsMedia — Advanced Hiding Guide"
+  - name: "NeonLightsMedia : Advanced Hiding Guide"
     url: "https://www.neonlightsmedia.com/blog/meccha-chameleon-advanced-hider-guide"
-  - name: "DTGRE — Why Perfect Color Matching Fails"
+  - name: "DTGRE : Why Perfect Color Matching Fails"
     url: "https://www.dtgre.com/2026/06/meccha-chameleon-color-matching-fails-camouflage-guide.html"
-  - name: "ProdigyGamers — Advanced Hiding in Plain Sight"
+  - name: "ProdigyGamers : Advanced Hiding in Plain Sight"
     url: "https://prodigygamers.com/2026/06/15/meccha-chameleon-advanced-hiding-in-plain-sight-tactics/"
-  - name: "IGN Wiki — Meccha Chameleon Tips and Tricks"
+  - name: "IGN Wiki : Meccha Chameleon Tips and Tricks"
     url: "https://www.ign.com/wikis/meccha-chameleon/"
 ---
 

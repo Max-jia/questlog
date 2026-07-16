@@ -1,6 +1,6 @@
 ---
-title: "AC Black Flag Resynced Treasure Maps — All Locations, Solutions & Rewards"
-excerpt: "Every treasure map in Black Flag Resynced with exact locations, puzzle solutions, and coordinates. From Misteriosa to Blackbeard's treasure — all 22 maps solved."
+title: "AC Black Flag Resynced Treasure Maps : All Locations, Solutions & Rewards"
+excerpt: "Every treasure map in Black Flag Resynced with exact locations, puzzle solutions, and coordinates. From Misteriosa to Blackbeard's treasure : all 22 maps solved."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
 date: "2026-07-14"
@@ -18,9 +18,9 @@ tags:
   - Locations
   - Secrets
 sources:
-  - name: "TheGamer — Misteriosa Collectibles"
+  - name: "TheGamer : Misteriosa Collectibles"
     url: "https://www.thegamer.com/assassins-creed-black-flag-resynced-misteriosa-collectibles-location-mayan-stele-chest-secrets-treasure-map-guide/"
-  - name: "TechWiser — Blackbeard's Treasure"
+  - name: "TechWiser : Blackbeard's Treasure"
     url: "https://techwiser.com/assassins-creed-black-flag-resynced-blackbeards-treasure/"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "How to Never Get Caught in Meccha Chameleon — 10 Hiding Mistakes That Get You Killed"
-excerpt: "Stop dying in the first 30 seconds. The 10 most common hiding mistakes — and exactly how to fix each one — from a dirty paintbrush to reusing the same spot."
+title: "How to Never Get Caught in Meccha Chameleon : 10 Hiding Mistakes That Get You Killed"
+excerpt: "Stop dying in the first 30 seconds. The 10 most common hiding mistakes : and exactly how to fix each one : from a dirty paintbrush to reusing the same spot."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
 date: "2026-06-03"
@@ -9,8 +9,8 @@ section: Combat
 verified: community
 gameVersion: "1.0"
 tldr:
-  - "Painting before posing warps your colors — always pose first"
-  - "Reusing spots is the #1 reason veterans die — rotate every round"
+  - "Painting before posing warps your colors : always pose first"
+  - "Reusing spots is the #1 reason veterans die : rotate every round"
   - "Dirty brush / wrong paint menu settings make you look like a sticker, not part of the wall"
 tags:
   - Hiding
@@ -18,11 +18,11 @@ tags:
   - Survival
   - Tips
 sources:
-  - name: "FandomWire — 15 Tips All Players Should Know"
+  - name: "FandomWire : 15 Tips All Players Should Know"
     url: "https://fandomwire.com/meccha-chameleon-tips-tricks-that-all-players-should-know/"
-  - name: "DTGRE — Beginner Mistakes Guide"
+  - name: "DTGRE : Beginner Mistakes Guide"
     url: "https://www.dtgre.com/2026/06/meccha-chameleon-beginner-mistakes-guide.html"
-  - name: "KosGuides — The Only Hiding Guide You Need"
+  - name: "KosGuides : The Only Hiding Guide You Need"
     url: "https://kosguides.com/19279-meccha-chameleon-the-only-hiding-guide-you-need/"
 ---
 

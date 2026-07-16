@@ -1,5 +1,5 @@
 ---
-title: "Meccha Chameleon — I Watched 50 Seekers Fail. Here's What They All Do Wrong."
+title: "Meccha Chameleon : I Watched 50 Seekers Fail. Here's What They All Do Wrong."
 excerpt: "After spectating dozens of seeker rounds, the same mistakes keep getting people killed. Stop making these 8 errors and you'll start finding hiders you used to walk right past."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -18,9 +18,9 @@ tags:
   - Mistakes
   - Hunter
 sources:
-  - name: "GameRant — Hunter Tips"
+  - name: "GameRant : Hunter Tips"
     url: "https://gamerant.com/meccha-chameleon-hunter-tips/"
-  - name: "FandomWire — 15 Tips"
+  - name: "FandomWire : 15 Tips"
     url: "https://fandomwire.com/meccha-chameleon-tips-tricks-that-all-players-should-know/"
 ---
 

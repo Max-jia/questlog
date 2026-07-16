@@ -1,5 +1,5 @@
 ---
-title: "AC Black Flag Resynced Cheats, Codes & Trainers — Everything That Works in 2026"
+title: "AC Black Flag Resynced Cheats, Codes & Trainers : Everything That Works in 2026"
 excerpt: "All working cheat codes, trainers, and unlock methods for Black Flag Resynced. What actually works on PC, what trainers exist, and what will get you banned."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"

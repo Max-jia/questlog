@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Vehicles & Weapons — All Confirmed Cars, Guns & Customization Options"
+title: "GTA 6 Vehicles & Weapons : All Confirmed Cars, Guns & Customization Options"
 excerpt: "All confirmed GTA 6 vehicles and weapons. Grotti Cheetah, Dominator Buggy, Hawk & Little Morgan revolvers, vehicle interior customization, and the RDR2-style loadout system."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,20 +9,20 @@ section: Progression
 verified: verified
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Vehicle interior customization is new to the series — seats, dashboard, steering wheel"
-  - "RDR2-style limited weapon loadout — choose guns before missions, store extras in lockers"
-  - "Hawk & Little Morgan revolvers come from the Vercetti Estate — Tommy's mansion is back"
+  - "Vehicle interior customization is new to the series : seats, dashboard, steering wheel"
+  - "RDR2-style limited weapon loadout : choose guns before missions, store extras in lockers"
+  - "Hawk & Little Morgan revolvers come from the Vercetti Estate : Tommy's mansion is back"
 tags:
   - Vehicles
   - Weapons
   - Customization
   - Gameplay
 sources:
-  - name: "IGN — 22 New GTA 6 Gameplay Details"
+  - name: "IGN : 22 New GTA 6 Gameplay Details"
     url: "https://in.ign.com/grand-theft-auto-vi/264710/22-new-gta-6-gameplay-details-revealed"
-  - name: "Polygon — Ultimate Edition Content"
+  - name: "Polygon : Ultimate Edition Content"
     url: "https://www.polygon.com/rockstar-reveals-gta-6-ultimate-edition-contents-and-pre-order-bonuses/"
-  - name: "G2A News — Pre-Order & Editions"
+  - name: "G2A News : Pre-Order & Editions"
     url: "https://www.g2a.com/news/features/gta-6-pre-orders-ultimate-edition/"
 ---
 

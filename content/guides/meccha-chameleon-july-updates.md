@@ -1,5 +1,5 @@
 ---
-title: "Meccha Chameleon July Patch Roundup — New Mode, Osaka Rework & Hunter Ammo Limits"
+title: "Meccha Chameleon July Patch Roundup : New Mode, Osaka Rework & Hunter Ammo Limits"
 excerpt: "Every Meccha Chameleon update in July 2026. Reverse Chicken Race mode, hunter bullet limits, Osaka map rework, new rotation mechanics, and the upcoming collaboration map."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -10,7 +10,7 @@ verified: verified
 gameVersion: "2.3.2"
 tldr:
   - "Patch 2.3.2 added Rotate in Place, auto-switching spectator cam, and Reverse Chicken Race mode"
-  - "Hunters now have limited ammo — misses cost bullets, hits restore them. Run out and hiders win."
+  - "Hunters now have limited ammo : misses cost bullets, hits restore them. Run out and hiders win."
   - "Osaka map rework + a collaboration map are coming in update 2.5.0 later this month"
 tags:
   - Update
@@ -18,11 +18,11 @@ tags:
   - News
   - Game Modes
 sources:
-  - name: "IGN — Patch Notes July 2"
+  - name: "IGN : Patch Notes July 2"
     url: "https://www.ign.com/wikis/meccha-chameleon/Meccha_Chameleon_Patch_Notes_July_2,_2026"
-  - name: "ConsolePCGaming — Update 2.5.0 Tease"
+  - name: "ConsolePCGaming : Update 2.5.0 Tease"
     url: "https://consolepcgaming.com/meccha-chameleon-update-2-5-0-gives-osaka-a-new-pass-and-lines-up-a-collaboration-map/"
-  - name: "ConsolePCGaming — Patch 2.3.1"
+  - name: "ConsolePCGaming : Patch 2.3.1"
     url: "https://consolepcgaming.com/meccha-chameleon-fix2-3-1-tightens-movement-and-spectating/"
 ---
 

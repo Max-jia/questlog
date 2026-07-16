@@ -1,5 +1,5 @@
 ---
-title: "25 Meccha Chameleon Pro Tips — Tricks the Best Players Use to Win Every Round"
+title: "25 Meccha Chameleon Pro Tips : Tricks the Best Players Use to Win Every Round"
 excerpt: "25 pro-level Meccha Chameleon tips that the best players use. Speed painting, seeker mind games, clone tactics, map exploits, and general survival wisdom."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -9,8 +9,8 @@ section: Combat
 verified: community
 gameVersion: "1.0"
 tldr:
-  - "Paint lighter on the side facing light, darker on the shadow side — mimics 3D lighting"
-  - "Place clones on the opposite side of the map — seekers waste time searching empty areas"
+  - "Paint lighter on the side facing light, darker on the shadow side : mimics 3D lighting"
+  - "Place clones on the opposite side of the map : seekers waste time searching empty areas"
   - "The first 15 seconds of hunt phase are when most hiders die. Don't move, don't adjust"
 tags:
   - Pro Tips
@@ -18,11 +18,11 @@ tags:
   - Strategy
   - Both Roles
 sources:
-  - name: "NeonLightsMedia — Advanced Hiding Guide"
+  - name: "NeonLightsMedia : Advanced Hiding Guide"
     url: "https://www.neonlightsmedia.com/blog/meccha-chameleon-advanced-hider-guide"
-  - name: "ProdigyGamers — Advanced Hiding in Plain Sight"
+  - name: "ProdigyGamers : Advanced Hiding in Plain Sight"
     url: "https://prodigygamers.com/2026/06/15/meccha-chameleon-advanced-hiding-in-plain-sight-tactics/"
-  - name: "FandomWire — 15 Tips All Players Should Know"
+  - name: "FandomWire : 15 Tips All Players Should Know"
     url: "https://fandomwire.com/meccha-chameleon-tips-tricks-that-all-players-should-know/"
 ---
 

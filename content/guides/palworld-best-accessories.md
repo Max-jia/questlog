@@ -1,5 +1,5 @@
 ---
-title: "Best Accessories in Palworld 1.0 — What to Equip & Upgrade Priority"
+title: "Best Accessories in Palworld 1.0 : What to Equip & Upgrade Priority"
 excerpt: "Your accessory slots are limited. Here is exactly what to wear for combat, exploration, and base building. Skip the junk. Equip what actually matters."
 game: palworld
 gameName: "Palworld"
@@ -18,9 +18,9 @@ tags:
   - Combat
   - Beginner
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 

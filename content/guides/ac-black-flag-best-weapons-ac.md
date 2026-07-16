@@ -1,5 +1,5 @@
 ---
-title: "AC Black Flag Resynced Best Weapons — What to Buy & Upgrade First"
+title: "AC Black Flag Resynced Best Weapons : What to Buy & Upgrade First"
 excerpt: "You start with garbage swords. Here is what to buy, what order to upgrade, and the weapons that actually matter in Black Flag Resynced."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
@@ -18,9 +18,9 @@ tags:
   - Beginner
   - Upgrades
 sources:
-  - name: "IGN Wiki — Black Flag Resynced"
+  - name: "IGN Wiki : Black Flag Resynced"
     url: "https://www.ign.com/wikis/assassins-creed-black-flag-resynced/"
-  - name: "VGC — AC Black Flag Resynced Guide"
+  - name: "VGC : AC Black Flag Resynced Guide"
     url: "https://www.videogameschronicle.com/guide/ac-black-flag-resynced-hms-ipswich-maynard-boss-world-without-gold-guide/"
 ---
 

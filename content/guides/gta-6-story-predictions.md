@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Story Predictions — Plot Theories, Returning Characters & Ending Speculation"
+title: "GTA 6 Story Predictions : Plot Theories, Returning Characters & Ending Speculation"
 excerpt: "What we know about GTA 6's story: Jason & Lucia's Bonnie & Clyde arc, possible returning characters from Vice City and GTA V, and fan theories about how the story might play out."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,8 +9,8 @@ section: Maps
 verified: community
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Jason and Lucia are a modern Bonnie & Clyde — a 'simple job gone wrong' pulls them into a statewide conspiracy"
-  - "Vercetti Estate exists in the game — Tommy's legacy is canon in the HD universe"
+  - "Jason and Lucia are a modern Bonnie & Clyde : a 'simple job gone wrong' pulls them into a statewide conspiracy"
+  - "Vercetti Estate exists in the game : Tommy's legacy is canon in the HD universe"
   - "Phil Cassidy appears on TV, confirming characters from the 1986 Vice City exist in modern Leonida"
 tags:
   - Story
@@ -18,9 +18,9 @@ tags:
   - Plot
   - Speculation
 sources:
-  - name: "Rockstar Games — Official Trailers"
+  - name: "Rockstar Games : Official Trailers"
     url: "https://www.rockstargames.com/VI"
-  - name: "Kotaku — 10 New Details From GTA 6"
+  - name: "Kotaku : 10 New Details From GTA 6"
     url: "https://kotaku.com/10-new-details-we-learned-from-gta-6s-big-info-dump-2000710519"
 ---
 

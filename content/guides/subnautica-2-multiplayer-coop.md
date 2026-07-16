@@ -1,5 +1,5 @@
 ---
-title: "How to Play Subnautica 2 Co-Op With Friends — Complete Multiplayer Guide"
+title: "How to Play Subnautica 2 Co-Op With Friends : Complete Multiplayer Guide"
 excerpt: "How to host, join, and master Subnautica 2 multiplayer. Covers 4-player co-op setup, crossplay, shared vs personal systems, role assignments, and 9 essential co-op tips."
 game: subnautica-2
 gameName: "Subnautica 2"
@@ -9,7 +9,7 @@ section: Multiplayer
 verified: verified
 gameVersion: "Early Access (May 2026)"
 tldr:
-  - "Up to 4 players, full crossplay between PC (Steam) and Xbox Series X|S — no split-screen"
+  - "Up to 4 players, full crossplay between PC (Steam) and Xbox Series X|S : no split-screen"
   - "Blueprints and storage are shared. Character inventory and DNA adaptations are personal"
   - "Assign roles: one scout, one builder, one resource gatherer. Use the Tadpole to travel together"
 tags:
@@ -18,11 +18,11 @@ tags:
   - Friends
   - Setup
 sources:
-  - name: "IGN — How to Play With Friends"
+  - name: "IGN : How to Play With Friends"
     url: "https://s.ign.com/wikis/subnautica-2/How_to_Play_With_Friends:_Multiplayer_Guide"
-  - name: "GameSpot — How Co-Op Works"
+  - name: "GameSpot : How Co-Op Works"
     url: "https://www.gamespot.com/articles/how-co-op-multiplayer-works-in-subnautica-2/1100-6539887/"
-  - name: "TheGamer — Complete Multiplayer Guide"
+  - name: "TheGamer : Complete Multiplayer Guide"
     url: "https://www.thegamer.com/subnautica-2-multiplayer-co-op-friends-complete-guide/"
 ---
 

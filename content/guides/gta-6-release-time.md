@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 Countdown — Release Date, Time by Timezone & When You Can Play (Nov 19)"
+title: "GTA 6 Countdown : Release Date, Time by Timezone & When You Can Play (Nov 19)"
 excerpt: "GTA 6 countdown to November 19, 2026. Release date confirmed. Unlock times for every timezone: EST, PST, GMT, CET, IST, JST, AEST. Pre-load starts November 12."
 game: gta-6
 gameName: "Grand Theft Auto VI"
@@ -9,8 +9,8 @@ section: News
 verified: verified
 gameVersion: "Pre-Launch (Nov 19, 2026)"
 tldr:
-  - "Unlocks at midnight local time per region — New Zealand plays first, Hawaii plays last"
-  - "Digital pre-load begins November 12 — one week before launch"
+  - "Unlocks at midnight local time per region : New Zealand plays first, Hawaii plays last"
+  - "Digital pre-load begins November 12 : one week before launch"
   - "Xbox players can use the New Zealand trick to play up to 18 hours early"
 tags:
   - Release
@@ -18,9 +18,9 @@ tags:
   - Countdown
   - Pre-Load
 sources:
-  - name: "Rockstar Games — Official GTA VI Page"
+  - name: "Rockstar Games : Official GTA VI Page"
     url: "https://www.rockstargames.com/VI"
-  - name: "The National — Release Details"
+  - name: "The National : Release Details"
     url: "https://www.thenationalnews.com/arts-culture/2026/06/25/grand-theft-auto-gta6-date-price-preorder/"
 ---
 

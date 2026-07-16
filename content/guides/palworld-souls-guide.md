@@ -1,5 +1,5 @@
 ---
-title: "Palworld 1.0 Soul Enhancement Guide — How to Boost Pal Stats Permanently"
+title: "Palworld 1.0 Soul Enhancement Guide : How to Boost Pal Stats Permanently"
 excerpt: "Souls give your Pals permanent stat boosts. Here is where to farm every type of Pal Soul, which Pals to invest in first, and why you should not waste them on early-game creatures."
 game: palworld
 gameName: "Palworld"
@@ -10,7 +10,7 @@ verified: verified
 gameVersion: "1.0"
 tldr:
   - "Souls give permanent stat boosts. Attack, Defense, HP, Work Speed, and Stamina. You cannot undo them."
-  - "Farm souls from chests in dungeons, high-level Pals, and the Wildlife Sanctuary. Never buy souls — too expensive."
+  - "Farm souls from chests in dungeons, high-level Pals, and the Wildlife Sanctuary. Never buy souls : too expensive."
   - "Only use souls on Pals you will keep forever. Do not soul a Lamball."
 tags:
   - Souls
@@ -18,9 +18,9 @@ tags:
   - Progression
   - Farming
 sources:
-  - name: "Game8 — Palworld Guides"
+  - name: "Game8 : Palworld Guides"
     url: "https://game8.co/games/Palworld/"
-  - name: "FandomWire — Best Tips"
+  - name: "FandomWire : Best Tips"
     url: "https://fandomwire.com/palworld-1-0-best-tips-tricks-for-a-strong-start/"
 ---
 
@@ -40,7 +40,7 @@ Souls are permanent stat boosts for your Pals. Once applied, you cannot undo the
 | Stamina Soul | Stamina pool | 4 |
 | Work Speed Soul | Base efficiency | 5 (skip) |
 
-Attack first. Defense second. HP third. Work Speed is almost never worth it — your base Pals do not need souls to do their jobs.
+Attack first. Defense second. HP third. Work Speed is almost never worth it : your base Pals do not need souls to do their jobs.
 
 ---
 

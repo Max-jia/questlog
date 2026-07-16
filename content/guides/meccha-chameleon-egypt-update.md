@@ -1,5 +1,5 @@
 ---
-title: "Meccha Chameleon Updates 2.6 & 2.7 — Egypt Map, HIKAKIN Museum & Clone Controversy"
+title: "Meccha Chameleon Updates 2.6 & 2.7 : Egypt Map, HIKAKIN Museum & Clone Controversy"
 excerpt: "Two major Meccha Chameleon updates dropped. Egypt and HIKAKIN Museum maps, random map toggles, Penguin Hotel randomization, and a clone game causing controversy."
 game: meccha-chameleon
 gameName: "Meccha Chameleon"
@@ -18,11 +18,11 @@ tags:
   - Egypt
   - News
 sources:
-  - name: "ConsolePCGaming — Egypt Update"
+  - name: "ConsolePCGaming : Egypt Update"
     url: "https://consolepcgaming.com/meccha-chameleon-adds-egypt-and-more-random-map-options/"
-  - name: "ConsolePCGaming — HIKAKIN Museum Update"
+  - name: "ConsolePCGaming : HIKAKIN Museum Update"
     url: "https://consolepcgaming.com/meccha-chameleon-update2-6-0-adds-a-hikakin-museum-collab-map/"
-  - name: "VGtimes — Clone Controversy"
+  - name: "VGtimes : Clone Controversy"
     url: "https://vgtimes.com/gaming-news/160888-a-clone-of-the-years-best-selling-game-snuck-onto-steam/"
 ---
 

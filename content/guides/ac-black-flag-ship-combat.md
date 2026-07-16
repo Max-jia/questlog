@@ -1,5 +1,5 @@
 ---
-title: "AC Black Flag Resynced Ship Combat — How to Win Every Naval Battle"
+title: "AC Black Flag Resynced Ship Combat : How to Win Every Naval Battle"
 excerpt: "Master the Jackdaw. When to use broadsides, mortars, fire barrels, and ramming. How to board efficiently and win fights against stronger ships."
 game: ac-black-flag
 gameName: "Assassin's Creed Black Flag Resynced"
@@ -18,9 +18,9 @@ tags:
   - Jackdaw
   - Beginner
 sources:
-  - name: "VGC — HMS Ipswich Guide"
+  - name: "VGC : HMS Ipswich Guide"
     url: "https://www.videogameschronicle.com/guide/ac-black-flag-resynced-hms-ipswich-maynard-boss-world-without-gold-guide/"
-  - name: "IGN Wiki — Black Flag Resynced"
+  - name: "IGN Wiki : Black Flag Resynced"
     url: "https://www.ign.com/wikis/assassins-creed-black-flag-resynced/"
 ---
 

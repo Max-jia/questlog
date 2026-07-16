@@ -1,6 +1,6 @@
 ---
-title: "How to Get the Tadpole in Subnautica 2 — Fragment Locations & Best Upgrades"
-excerpt: "How to get the Tadpole submarine in Subnautica 2 — fragment locations, crafting recipe, Moonpool setup, chassis comparison, and best upgrade module loadout."
+title: "How to Get the Tadpole in Subnautica 2 : Fragment Locations & Best Upgrades"
+excerpt: "How to get the Tadpole submarine in Subnautica 2 : fragment locations, crafting recipe, Moonpool setup, chassis comparison, and best upgrade module loadout."
 game: subnautica-2
 gameName: "Subnautica 2"
 date: "2026-06-18"
@@ -18,11 +18,11 @@ tags:
   - Upgrades
   - Mid-Game
 sources:
-  - name: "Rock Paper Shotgun — How to Get the Tadpole"
+  - name: "Rock Paper Shotgun : How to Get the Tadpole"
     url: "https://www.rockpapershotgun.com/subnautica-2-how-to-get-tadpole"
-  - name: "Mobalytics — Full Tadpole Guide"
+  - name: "Mobalytics : Full Tadpole Guide"
     url: "https://mobalytics.gg/news/guides/subnautica-2-tadpole-guide"
-  - name: "DropReference — Complete Upgrades Guide"
+  - name: "DropReference : Complete Upgrades Guide"
     url: "https://dropreference.com/en/blog/guide/subnautica-2-guide-improvements-tadpole-tools-equipment-2026"
 ---
 
