@@ -26,13 +26,13 @@ sources:
 
 ![Palworld best base locations](/images/palworld/screenshots/screenshot-10.jpg)
 
-## Your first base still goes in the starting area
+### Your first base still goes in the starting area
 
 Flat ground. Near trees, stone, and at least a few ore nodes. Do not overthink this. You will build more bases later. The first one just needs to work.
 
 ---
 
-## Second base: mining outpost near dense ore
+### Second base: mining outpost near dense ore
 
 At base level 10, drop your second Palbox near a cluster of ore nodes. Staff it with Incinerams or other Mining Pals. Add one Hot Spring and one Feed Box. Walk away. Come back to stacks of ingots.
 
@@ -40,19 +40,19 @@ The World Tree zone has the densest ore and Soralite deposits. If you can surviv
 
 ---
 
-## Water bases are real now
+### Water bases are real now
 
 The Aquatic Construction Kit lets you build on water. Find a lake near resources and you have flat, defensible terrain with no terrain clipping issues. Water bases are easier to lay out than hillside bases. The downside is that some Pals have pathfinding issues near water edges. Test with cheap Pals before committing.
 
 ---
 
-## Sunreach floating islands: the endgame spot
+### Sunreach floating islands: the endgame spot
 
 Sunreach has flat, open floating islands with Soralite deposits, good weather, and absurd views. This is where you build your final main base. The islands are high up, which means raids are less frequent and easier to defend. Flying mounts become essential for commuting.
 
 ---
 
-## Base layout priorities for 1.0
+### Base layout priorities for 1.0
 
 New structures added in 1.0 change the optimal layout:
 - Pal beds closer to workstations (reduces walking time)

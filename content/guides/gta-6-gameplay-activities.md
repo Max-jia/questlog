@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 Grassrivers swampland with airboat](/images/gta-6/screenshots/grassrivers-airboat.jpg)
 
-## Confirmed Activities
+### Confirmed Activities
 
 ### 🎣 Fishing (New to GTA)
 **First time in GTA history.** Fish at Gambit Bay and other water bodies. The Shitzu Squalo watercraft is equipped for fishing expeditions. Expect different fish species, sizes, and possibly a fishing challenge system, Rockstar pioneered this mechanic in Red Dead Redemption 2.
@@ -60,7 +60,7 @@ Mount Kalaga National Park screenshots show wildlife (mountain lion, deer, boars
 
 ---
 
-## Character Customization
+### Character Customization
 
 Confirmed customization options:
 - Hairstyles and facial hair
@@ -80,6 +80,6 @@ Confirmed customization options:
 - [character guide](/games/gta-6/gta-6-characters)
 ---
 
-## Chapter-Based Progression
+### Chapter-Based Progression
 
 GTA 6 uses a **chapter system** similar to Red Dead Redemption 2. Items, bonuses, and activities unlock progressively as the story advances. No instant pop-up unlocks, progression is "threaded across all aspects of Jason and Lucia's story, with new items uncovered behind each chapter."

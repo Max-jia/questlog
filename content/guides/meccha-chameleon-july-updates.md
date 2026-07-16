@@ -32,7 +32,7 @@ Meccha Chameleon's solo dev ships patches faster than most AAA studios. Three up
 
 ---
 
-## Patch 2.3.2 (July 2), Rotation, Spectating & Chicken
+### Patch 2.3.2 (July 2), Rotation, Spectating & Chicken
 
 ### Rotate in Place
 
@@ -48,7 +48,7 @@ New mode. Details are sparse in the English patch notes (the Japanese dev posts 
 
 ---
 
-## Late June Patches, Hunter Ammo & Map Randomization
+### Late June Patches, Hunter Ammo & Map Randomization
 
 ### Hunter Bullet Limits (Biggest Meta Change)
 
@@ -73,7 +73,7 @@ The 3D eyedropper works better now. The metal and roughness sliders actually beh
 
 ---
 
-## Coming Soon, Update 2.5.0
+### Coming Soon, Update 2.5.0
 
 The dev teased 2.5.0 for later in July. What's in it:
 
@@ -88,7 +88,7 @@ Experimental color palette changes are being tested, the dev specifically called
 
 ---
 
-## TL;DR, What Changed for Your Gameplay
+### TL;DR, What Changed for Your Gameplay
 
 | Change | Affects |
 |--------|---------|

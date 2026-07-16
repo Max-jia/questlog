@@ -26,7 +26,7 @@ sources:
     url: "https://steamcommunity.com/app/4704690/discussions/"
 ---
 
-## Quick Answer
+### Quick Answer
 
 ![Quick Answer](/images/meccha-chameleon/screenshot-08.jpg)
 

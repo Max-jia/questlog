@@ -32,7 +32,7 @@ Subnautica 2 got its first major Early Access update on July 8. It's called Adap
 
 ---
 
-## New Biomods & Biolabs
+### New Biomods & Biolabs
 
 ### Two New Biolabs
 
@@ -50,7 +50,7 @@ This is the big change. Scanning creatures with the Bioscanner now unlocks **add
 
 ---
 
-## Creature AI Overhaul
+### Creature AI Overhaul
 
 The creatures actually react to you now.
 
@@ -68,7 +68,7 @@ Creatures that are supposed to flee now do so more convincingly. They don't just
 
 ---
 
-## Quality of Life Changes
+### Quality of Life Changes
 
 ### You can sprint now
 
@@ -92,7 +92,7 @@ Vehicle docking is smoother. Fabricator placement is less finicky. Small changes
 
 ---
 
-## Other Changes
+### Other Changes
 
 - Wrecks now have **additional routes and oxygen-based puzzles**, more reward for exploration
 - Various crash fixes and performance improvements
@@ -100,7 +100,7 @@ Vehicle docking is smoother. Fabricator placement is less finicky. Small changes
 
 ---
 
-## The Numbers: 5 Million Sales
+### The Numbers: 5 Million Sales
 
 Subnautica 2 hit 5 million cumulative sales in early June, 3 weeks after its May 14 Early Access launch. The original Subnautica sold 5 million over its entire lifetime. The sequel matched that in under a month.
 

@@ -26,7 +26,7 @@ sources:
 
 ![Meccha Chameleon gameplay](/images/meccha-chameleon/screenshot-01.jpg)
 
-## At a Glance
+### At a Glance
 
 | | Meccha Chameleon | Among Us | Prop Hunt (GMod) |
 |------|------|------|------|

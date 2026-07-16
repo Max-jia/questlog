@@ -28,7 +28,7 @@ sources:
 
 ![GTA 6 vehicles, Grotti Cheetah and Dominator Buggy](/images/gta-6/screenshots/port-gellhorn.jpg)
 
-## Confirmed Vehicles
+### Confirmed Vehicles
 
 ### Sports Cars
 | Vehicle | Details | How to Get |
@@ -50,7 +50,7 @@ sources:
 
 ---
 
-## Vehicle Customization, What's New
+### Vehicle Customization, What's New
 
 ### Interior Customization (New to the Series!)
 For the first time in GTA, you can customize your vehicle's interior, seats, dashboard, steering wheel. This was confirmed through the Ultimate Edition product descriptions.
@@ -69,7 +69,7 @@ A "Special Commission" side quest chain from collector Wyman. Find abandoned cla
 
 ---
 
-## Confirmed Weapons
+### Confirmed Weapons
 
 ### Revolvers
 | Weapon | Details | How to Get |
@@ -90,7 +90,7 @@ A "Special Commission" side quest chain from collector Wyman. Find abandoned cla
 
 ---
 
-## The RDR2-Style Loadout System
+### The RDR2-Style Loadout System
 
 GTA 6 adopts Red Dead Redemption 2's weapon management:
 
@@ -101,7 +101,7 @@ GTA 6 adopts Red Dead Redemption 2's weapon management:
 
 ---
 
-## Other Confirmed Gear
+### Other Confirmed Gear
 
 | Item | Details |
 |------|---------|
@@ -120,7 +120,7 @@ GTA 6 adopts Red Dead Redemption 2's weapon management:
 - [pre-order guide](/games/gta-6/gta-6-preorder-guide)
 ---
 
-## What We Don't Know Yet
+### What We Don't Know Yet
 
 - Full vehicle list (expect 300+ vehicles as in GTA V)
 - Full weapon list

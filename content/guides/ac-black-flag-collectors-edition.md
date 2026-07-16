@@ -24,7 +24,7 @@ sources:
 
 ![Black Flag Collector's Edition](/images/ac-black-flag/screenshots/screenshot-05.jpg)
 
-## What is in each edition
+### What is in each edition
 
 ### Standard Edition ($59.99)
 The base game. Nothing extra.
@@ -46,7 +46,7 @@ The base game. Nothing extra.
 
 ---
 
-## How to redeem codes
+### How to redeem codes
 
 Codes come with physical editions or as email delivery for digital purchases. To redeem:
 
@@ -60,7 +60,7 @@ If the bonus content does not appear in-game after redeeming, restart the game a
 
 ---
 
-## Is the Collector's Edition worth it
+### Is the Collector's Edition worth it
 
 The Deluxe Edition is worth the extra $10 if you want the bonus mission and ship cosmetics. The Collector's Edition is for collectors. The statue and steelbook are nice but add no gameplay value. If you only care about the game, get Standard. If you want all the content, get Deluxe. Collector's is for the shelf.
 

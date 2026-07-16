@@ -30,7 +30,7 @@ Coral Gardens is where you spend the first 10 to 15 hours of Subnautica 2. It lo
 
 ---
 
-## Coral Gardens map, 7 sub-biomes
+### Coral Gardens map, 7 sub-biomes
 
 ### 1. Shallows (0-20m)
 Your spawn point. The safest zone in the game. Warm water, bright light, no predators.
@@ -101,7 +101,7 @@ West of Old Habitat. Dense with flora. Peaceful compared to the rest of the regi
 
 ---
 
-## Best base locations in Coral Gardens
+### Best base locations in Coral Gardens
 
 | Location | Safety | Resources | Power | Best For |
 |----------|:---:|:---:|------|------|
@@ -112,7 +112,7 @@ West of Old Habitat. Dense with flora. Peaceful compared to the rest of the regi
 
 ---
 
-## Every adaptation in Coral Gardens
+### Every adaptation in Coral Gardens
 
 | Adaptation | Location | Coordinates |
 |------------|----------|------------|

@@ -30,7 +30,7 @@ Mutations are the 1.0 system that makes breeding feel worth it again. Every egg 
 
 ---
 
-## What a Mutated Pal gets
+### What a Mutated Pal gets
 
 When an egg hatches mutated, the Pal comes out with:
 - Base stats rerolled into the 90-100 IV range
@@ -43,7 +43,7 @@ It is a massive shortcut through the grind.
 
 ---
 
-## Mutation odds by cake type
+### Mutation odds by cake type
 
 | Cake | Base Rate | Best For |
 |------|:---:|-------|
@@ -57,7 +57,7 @@ Deluxe Vegetable Cake is the mutation cake. Bake as many as you can. Run multipl
 
 ---
 
-## Rainbow passives you can only get from mutations
+### Rainbow passives you can only get from mutations
 
 The mutation-exclusive pool includes passives you cannot catch or breed normally:
 - Babysitter
@@ -70,13 +70,13 @@ The second rainbow slot pulls from the catchable rainbow pool: Demon God, Eterna
 
 ---
 
-## What mutation does NOT do
+### What mutation does NOT do
 
 Mutation does not fix bad parents. It rerolls IVs within 90-100 regardless of parent IVs. Perfect IV parents do not guarantee perfect mutation IVs. Mutation also does not change species, unlock new abilities, or fix passive skills you forgot to breed out.
 
 ---
 
-## Full optimization order for a perfect Pal
+### Full optimization order for a perfect Pal
 
 1. Breed for the species, passives, and IVs you want
 2. Apply beneficial mutations

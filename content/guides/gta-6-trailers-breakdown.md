@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 Vice City at night](/images/gta-6/screenshots/vice-city-night.jpg)
 
-## Trailer 1, December 5, 2023
+### Trailer 1, December 5, 2023
 
 Released without warning. Broke the YouTube record for most views in 24 hours: **90.4 million**. Set to Tom Petty's "Love Is a Long Road."
 
@@ -46,7 +46,7 @@ Released without warning. Broke the YouTube record for most views in 24 hours: *
 
 ---
 
-## Trailer 2, May 6, 2025
+### Trailer 2, May 6, 2025
 
 Nearly 18 months after the first trailer. Confirmed the game's massive scope and introduced the six Leonida regions.
 
@@ -71,7 +71,7 @@ Nearly 18 months after the first trailer. Confirmed the game's massive scope and
 
 ---
 
-## Trailer 3, Expected June 2026
+### Trailer 3, Expected June 2026
 
 Rockstar has not officially announced Trailer 3, but industry insiders expect it to drop alongside pre-order information. The pre-order launch (June 25, 2026) was accompanied by 63 new 4K screenshots, which effectively served as a "silent trailer."
 
@@ -85,7 +85,7 @@ Rockstar has not officially announced Trailer 3, but industry insiders expect it
 
 ---
 
-## What the Trailers Don't Show (Yet)
+### What the Trailers Don't Show (Yet)
 
 - GTA Online 2.0, completely absent from all promotional material so far
 - Full mission gameplay, only short cutscene clips

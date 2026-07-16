@@ -29,13 +29,13 @@ sources:
 
 ![Palworld 1.0 gameplay](/images/palworld/screenshots/screenshot-01.jpg)
 
-## Palworld 1.0 launched July 10 and hit 725,000 concurrent players
+### Palworld 1.0 launched July 10 and hit 725,000 concurrent players
 
 It's the second most played game on Steam right now, behind only CS2. The game left Early Access after 2.5 years and added 72 new Pals, a new region, overhauled bosses, crossplay, and PvP. Here's how to not waste your first 10 hours.
 
 ---
 
-## Stat priority: Stamina, then Health
+### Stat priority: Stamina, then Health
 
 Put every stat point into Stamina first. You use it to run, climb, glide, dodge, and attack. Low stamina turns every basic action into a chore. The game feels bad until you fix this.
 
@@ -45,7 +45,7 @@ Do not put points into Work Speed. Your Pals handle all the work. You are the ma
 
 ---
 
-## Catch 12 of every Pal for fast leveling
+### Catch 12 of every Pal for fast leveling
 
 The game gives you bonus XP for the first 12 captures of each species. Not just the first one. Twelve. So when you see a Lamball, catch 12 Lamballs. Twelve Cattivas. Twelve Foxparks. Chain these bonuses and you'll outlevel everything in the starting zone.
 
@@ -53,7 +53,7 @@ Once you unlock the Ring of Mercy (Ancient Tech), equip it to avoid killing Pals
 
 ---
 
-## These 5 Pals will carry your early game
+### These 5 Pals will carry your early game
 
 ### Eikthyrdeer (first mount)
 Found in the starting hills. Unlock the saddle at level 12. Fast ground travel is a game changer, and it also chops wood at level 2 Logging.
@@ -72,7 +72,7 @@ Its charge attack smashes ore nodes instantly. Use it instead of swinging a pick
 
 ---
 
-## Build your first base near flat ground with resources
+### Build your first base near flat ground with resources
 
 Your first base does not need to be perfect. It needs a flat space near trees, stone, and ore. You will move it later. Everyone moves their first base.
 
@@ -80,19 +80,19 @@ Keep a Foxparks or other Kindling Pal at the base to cook food automatically. Hu
 
 ---
 
-## Unlock the Grappling Hook at level 12
+### Unlock the Grappling Hook at level 12
 
 This costs Ancient Technology Points. Combined with a Croajiro (Leap Stance ability), you can reach almost anywhere before you get a flying mount. Vertical mobility in Palworld is everything.
 
 ---
 
-## Start a new save for 1.0
+### Start a new save for 1.0
 
 Pocketpair recommends it. Old saves technically work, but the progression is overhauled and you will miss new story content and rebalanced systems. If you are going to sink dozens of hours into this game, start fresh.
 
 ---
 
-## Mark everything on your map
+### Mark everything on your map
 
 Dungeon entrances. Ore clusters. Skillfruit Trees. Boss locations. Dungeon locations are fixed. They cycle active and inactive but never move. Mark them once and you never lose them.
 

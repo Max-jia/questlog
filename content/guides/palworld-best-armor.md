@@ -30,13 +30,13 @@ Your cloth armor keeps you alive against level 2 Lamballs. After that, it does n
 
 ---
 
-## Cloth Armor → Metal Armor (level 10)
+### Cloth Armor → Metal Armor (level 10)
 
 Cloth is your starter set. Craft it. Then replace it at level 10 with Metal Armor. Do not craft Pelt Armor. It costs the same materials as Metal and is worse. There is no reason for Pelt Armor to exist.
 
 ---
 
-## Metal Armor → Refined Metal Armor (level 25)
+### Metal Armor → Refined Metal Armor (level 25)
 
 Refined Ingots are the bottleneck. You need a lot of ore and a good furnace. Build the Improved Furnace before you grind for Refined Metal Armor. It halves the smelting time.
 
@@ -44,19 +44,19 @@ This set will carry you through the mid-game. Upgrade your shield before you upg
 
 ---
 
-## Refined Metal → Pal Metal Armor (level 40)
+### Refined Metal → Pal Metal Armor (level 40)
 
 Endgame armor. Pal Metal Ingots require Pal Fluids and ore. Farm Pal Fluids from water Pals. The grind is long but this set makes you survivable against legendaries.
 
 ---
 
-## Shields matter more than armor
+### Shields matter more than armor
 
 Armor reduces damage. Shields absorb it completely until they break. At level 28, craft the Giga Shield. It absorbs hundreds of damage before your armor even matters. A good shield is worth more than two armor upgrades.
 
 ---
 
-## Cold and heat resistance
+### Cold and heat resistance
 
 Some areas require specific armor or accessories. The northern snow region needs cold resistance. The volcano needs heat resistance. Craft the undershirt accessories for these. They take an accessory slot. Worth it.
 

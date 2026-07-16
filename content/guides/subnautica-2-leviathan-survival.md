@@ -28,13 +28,13 @@ sources:
 
 ![Subnautica 2 dangerous predators](/images/subnautica-2/screenshots/screenshot-05.jpg)
 
-## Subnautica 2 Is Not a Combat Game
+### Subnautica 2 Is Not a Combat Game
 
 You cannot kill predators. Your tools are for **evasion, stunning, and escape**. The sooner you accept this, the less frustrated you'll be. Here's how to survive every threat.
 
 ---
 
-## Universal Survival Rules
+### Universal Survival Rules
 
 These apply to every dangerous creature:
 
@@ -46,7 +46,7 @@ These apply to every dangerous creature:
 
 ---
 
-## Threat Index
+### Threat Index
 
 ### Collector Leviathan, ⚠️ EXTREME
 
@@ -137,7 +137,7 @@ These apply to every dangerous creature:
 
 ---
 
-## Defense Tool Tier List
+### Defense Tool Tier List
 
 | Tool | Effectiveness | Best Against |
 |------|-------------|-------------|
@@ -160,7 +160,7 @@ These apply to every dangerous creature:
 - [story walkthrough](/games/subnautica-2/subnautica-2-walkthrough)
 ---
 
-## What to Do When Attacked
+### What to Do When Attacked
 
 ```
 1. Identify the attacker (audio cue first, then visual).

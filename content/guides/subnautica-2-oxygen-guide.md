@@ -26,7 +26,7 @@ sources:
 
 ![Subnautica 2 oxygen management](/images/subnautica-2/screenshots/screenshot-01.jpg)
 
-## Every Way to Get More Oxygen
+### Every Way to Get More Oxygen
 
 Running out of air is the #1 cause of death in Subnautica 2. Here's every way to stay underwater longer.
 

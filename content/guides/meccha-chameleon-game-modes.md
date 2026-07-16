@@ -27,7 +27,7 @@ sources:
     url: "https://www.destructoid.com/meccha-chameleon-beginners-tips-and-tricks-for-painters-and-hunters/"
 ---
 
-## Mode Comparison at a Glance
+### Mode Comparison at a Glance
 
 ![Mode Comparison at a Glance](/images/meccha-chameleon/screenshot-09.jpg)
 
@@ -43,7 +43,7 @@ sources:
 
 ---
 
-## Basic Mode, The Classic
+### Basic Mode, The Classic
 
 **What happens:** Players split into Hiders and Seekers. Hiders get prep time to paint and hide. Seekers hunt. If at least one hider survives until time runs out, the Hider team wins.
 
@@ -62,7 +62,7 @@ sources:
 
 ---
 
-## Infection Mode, The Pressure Cooker
+### Infection Mode, The Pressure Cooker
 
 **What happens:** Starts like Basic, but when a hider is caught, they **respawn as a seeker**. The seeker team grows over time, and the hider team shrinks. Hiders win if anyone survives. Seekers win by catching everyone.
 
@@ -82,7 +82,7 @@ sources:
 
 ---
 
-## Double Mode, The Ultimate Test
+### Double Mode, The Ultimate Test
 
 **What happens:** The match has two phases:
 1. **Hiding phase:** Everyone hides. ALL players are hiders with no seekers. You paint and hide as normal, but nobody is hunting yet.
@@ -108,7 +108,7 @@ sources:
 - [clone mechanics](/games/meccha-chameleon/meccha-chameleon-clone-guide)
 ---
 
-## Which Mode Should You Play?
+### Which Mode Should You Play?
 
 | Your Goal | Best Mode |
 |-----------|----------|

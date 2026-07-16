@@ -26,7 +26,7 @@ sources:
 
 ![Palworld XP leveling](/images/palworld/screenshots/screenshot-04.jpg)
 
-## The capture bonus is your XP engine
+### The capture bonus is your XP engine
 
 The game gives bonus XP for the first 12 captures of each Pal species. Most new players catch one of each and move on. Do not do that. Catch 12 Lamballs. 12 Cattivas. 12 Foxparks. The XP from chaining capture bonuses will outpace everything else in the starting area.
 
@@ -34,7 +34,7 @@ Equip the Ring of Mercy (Ancient Tech) once you unlock it. You will kill fewer P
 
 ---
 
-## Best XP sources ranked by time
+### Best XP sources ranked by time
 
 | Activity | XP per minute | Notes |
 |----------|:---:|-------|
@@ -47,13 +47,13 @@ Equip the Ring of Mercy (Ancient Tech) once you unlock it. You will kill fewer P
 
 ---
 
-## Collect Pal Effigies as you travel
+### Collect Pal Effigies as you travel
 
 Pal Effigies were reworked in 1.0. Each type now gives a unique stat buff. Relaxsaurus Effigies boost XP gain. If you see green glowing statues while exploring, grab them. You want every XP boost you can stack.
 
 ---
 
-## Do not grind enemies for XP
+### Do not grind enemies for XP
 
 Fighting random mobs is the slowest way to level. Pals caught give 5 to 10 times the XP of Pals killed. If you see a wild Pal, throw a sphere. Do not hit it.
 

@@ -26,7 +26,7 @@ sources:
 
 ![Palworld new Pals 1.0](/images/palworld/screenshots/screenshot-11.jpg)
 
-## 47 new species
+### 47 new species
 
 The 1.0 update added 47 Pals that did not exist before. Here are the highlights:
 
@@ -48,7 +48,7 @@ The 1.0 update added 47 Pals that did not exist before. Here are the highlights:
 
 ---
 
-## 25 new variants
+### 25 new variants
 
 Existing Pals got elemental or regional variants. Some of the notable ones:
 
@@ -65,7 +65,7 @@ Existing Pals got elemental or regional variants. Some of the notable ones:
 
 ---
 
-## Where the new Pals actually spawn
+### Where the new Pals actually spawn
 
 The highest concentration of new Pals is in two zones:
 
@@ -77,7 +77,7 @@ The highest concentration of new Pals is in two zones:
 
 ---
 
-## Which new Pals to prioritize
+### Which new Pals to prioritize
 
 Catch these first:
 - Dupin (early game, easy find, fun)

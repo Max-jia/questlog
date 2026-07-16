@@ -28,7 +28,7 @@ sources:
 
 ![Subnautica 2 tools and equipment](/images/subnautica-2/screenshots/screenshot-04.jpg)
 
-## Early Game Essentials (0-2 Hours)
+### Early Game Essentials (0-2 Hours)
 
 Craft these immediately, in this order:
 
@@ -43,7 +43,7 @@ Craft these immediately, in this order:
 
 ---
 
-## Mid Game Tools (2-10 Hours)
+### Mid Game Tools (2-10 Hours)
 
 | Tool | Materials | Use |
 |------|-----------|-----|
@@ -54,7 +54,7 @@ Craft these immediately, in this order:
 
 ---
 
-## Equipment Upgrade Path
+### Equipment Upgrade Path
 
 ### Air Tanks
 
@@ -73,7 +73,7 @@ Craft these immediately, in this order:
 
 ---
 
-## Tool Upgrades (Modification Station)
+### Tool Upgrades (Modification Station)
 
 Built from: 2× Titanium, 2× Celestine, 2× Copper (found at Karakorum Observatory).
 
@@ -84,7 +84,7 @@ Built from: 2× Titanium, 2× Celestine, 2× Copper (found at Karakorum Observat
 
 ---
 
-## Optimal Loadout by Stage
+### Optimal Loadout by Stage
 
 ### Early Game Loadout (Hotbar 1-5)
 1. Survival Multitool
@@ -109,7 +109,7 @@ Built from: 2× Titanium, 2× Celestine, 2× Copper (found at Karakorum Observat
 
 ---
 
-## Tools You Can Skip (or Delay)
+### Tools You Can Skip (or Delay)
 
 | Tool | Why to Skip |
 |------|------------|
@@ -128,7 +128,7 @@ Built from: 2× Titanium, 2× Celestine, 2× Copper (found at Karakorum Observat
 - [story walkthrough](/games/subnautica-2/subnautica-2-walkthrough)
 ---
 
-## Pro Tips
+### Pro Tips
 
 - **Always carry a spare Battery.** Tools drain faster than you think, especially the Sonic Resonator.
 - **Hotkey your tools.** Don't open inventory mid-panic. Assign tools to slots 1-5.

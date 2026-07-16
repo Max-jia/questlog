@@ -26,7 +26,7 @@ sources:
 
 ![Subnautica 2 deep sea exploration](/images/subnautica-2/screenshots/screenshot-02.jpg)
 
-## There's No Map. Here's How to Not Get Lost.
+### There's No Map. Here's How to Not Get Lost.
 
 Subnautica 2 doesn't give you a minimap or world map. You handle by memory, landmarks, and beacons. This is terrifying at first, and the best part of the game once you master it.
 

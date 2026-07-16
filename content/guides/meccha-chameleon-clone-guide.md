@@ -24,7 +24,7 @@ sources:
     url: "https://www.ign.com/wikis/meccha-chameleon/"
 ---
 
-## What Are Clones?
+### What Are Clones?
 
 ![What Are Clones?](/images/meccha-chameleon/screenshot-08.jpg)
 
@@ -35,7 +35,7 @@ Clones are decoy copies of your character that you can place anywhere on the map
 
 ---
 
-## How to Use Clones
+### How to Use Clones
 
 | Action | Key |
 |--------|-----|
@@ -46,7 +46,7 @@ When you press Q, a clone spawns exactly where you're standing with your current
 
 ---
 
-## When Clones Are Useful
+### When Clones Are Useful
 
 ### 1. Distraction Decoy
 Place a clone in an obvious (but not too obvious) position. Seekers see "a player," shoot it, and think they got an elimination, but they revealed their position and wasted ammo while you hide safely elsewhere.
@@ -67,7 +67,7 @@ Clones ignore gravity. You can place a clone that floats in mid-air. This is use
 
 ---
 
-## When Clones Will Get You Killed
+### When Clones Will Get You Killed
 
 | Mistake | Consequence |
 |---------|------------|
@@ -79,7 +79,7 @@ Clones ignore gravity. You can place a clone that floats in mid-air. This is use
 
 ---
 
-## Advanced Clone Tactics
+### Advanced Clone Tactics
 
 ### The Mirror Match
 Paint yourself and your clone identically, then place the clone against a patterned wall. Hide on the same wall 10 meters away with the same paint job. A seeker who finds the clone will check that wall carefully, but they may stop after finding "one" chameleon and miss you entirely.
@@ -92,7 +92,7 @@ On dark maps like Sewer, place a clone in a completely dark corner where seekers
 
 ---
 
-## Clone vs. No-Clone: When to Use Each
+### Clone vs. No-Clone: When to Use Each
 
 | Situation | Recommendation |
 |-----------|---------------|
@@ -113,6 +113,6 @@ On dark maps like Sewer, place a clone in a completely dark corner where seekers
 - [25 pro tips](/games/meccha-chameleon/meccha-chameleon-pro-tips)
 ---
 
-## Bottom Line
+### Bottom Line
 
 Clones are not a "free extra life" or a "free decoy." They are a **calculated risk**. Use them when the map is large enough to create real distance between you and your decoys. On small maps, or when you're the last hider, remove them immediately with X.

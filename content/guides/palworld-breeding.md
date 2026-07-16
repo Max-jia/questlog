@@ -30,7 +30,7 @@ The 1.0 update overhauled breeding. Old combos changed. Genetic Recombination ad
 
 ---
 
-## Genetic Recombination (the new system)
+### Genetic Recombination (the new system)
 
 This is the headline feature for breeding in 1.0. You can fuse two high-tier Legendary Pals to create a unique variant offspring. The variant inherits selected traits from both parents and cannot be obtained any other way.
 
@@ -43,7 +43,7 @@ The resulting variant is server-specific. No two servers will produce identical 
 
 ---
 
-## Best breeding combos (verified for 1.0)
+### Best breeding combos (verified for 1.0)
 
 | Parent A | Parent B | Result | Why |
 |---|---|---|---|
@@ -60,7 +60,7 @@ The resulting variant is server-specific. No two servers will produce identical 
 
 ---
 
-## Trait inheritance changes
+### Trait inheritance changes
 
 In 1.0, offspring inherit passives only from the three equipped active skills on each parent. Plan which skills you want carried over before you start breeding. Having unwanted skills on a parent means those skills can show up in the offspring.
 
@@ -68,13 +68,13 @@ Reduce noise. Breed parents with as few unwanted passives as possible. Every pas
 
 ---
 
-## Faster incubation
+### Faster incubation
 
 Normal and Hard world settings now incubate eggs in roughly half the time compared to Early Access. If you are running multiple Breeding Farms, the bottleneck shifts from waiting on eggs to keeping the cake pipeline full.
 
 ---
 
-## S+ tier combat Pals and how to get them
+### S+ tier combat Pals and how to get them
 
 | Pal | How to Get |
 |-----|-----------|

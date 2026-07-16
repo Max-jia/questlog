@@ -26,7 +26,7 @@ sources:
 
 ![Subnautica 2 gameplay tips](/images/subnautica-2/screenshots/screenshot-04.jpg)
 
-## Base & Storage
+### Base & Storage
 
 ### 1. The Processor Is More Efficient Than the Fabricator
 Always use the Processor for ingots: 3× Titanium → 1 Titanium Ingot (vs 5× Titanium in the Fabricator). This alone saves thousands of Titanium over a playthrough.
@@ -42,7 +42,7 @@ Floor lockers (30 slots) can be placed sideways against walls for maximum densit
 
 ---
 
-## Resource Farming
+### Resource Farming
 
 ### 5. Gold and Sulfur Are Location-Locked
 There is no other source for Gold and Sulfur besides Hydrothermal Vents. If you need Gold, you're going to the Hot Caves. Plan dedicated expeditions.
@@ -58,7 +58,7 @@ Catch fish, release in aquarium → they breed → excess fish feed the Bioreact
 
 ---
 
-## Exploration
+### Exploration
 
 ### 9. Always Carry 2 Beacons
 One for the entrance of whatever biome you're exploring. One for anything valuable you find. Running out of beacons means running out of navigation.
@@ -74,7 +74,7 @@ Blue bubble plants (Oxygen Tunics) refill your oxygen without surfacing. Spot th
 
 ---
 
-## Combat & Survival
+### Combat & Survival
 
 ### 13. The Best Defense Is Not Being Detected
 Cavitation Muffler (Tadpole upgrade) reduces predator detection range. Strontium is the bottleneck (2× Skystone in Processor). Worth the investment before exploring Karakorum.
@@ -87,7 +87,7 @@ Don't rely on finding them. Fabricator: 1× Fiber Mesh + 1× Water Slug. Always 
 
 ---
 
-## Progression Efficiency
+### Progression Efficiency
 
 ### 16. Scan Everything, Even If You Already Have the Blueprint
 Duplicate scans reward materials. That third Scanner fragment you already have? Scan it anyway, free resources.

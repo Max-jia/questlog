@@ -26,13 +26,13 @@ sources:
 
 ![Palworld base building](/images/palworld/screenshots/screenshot-03.jpg)
 
-## Your first base is not permanent. Build it anyway.
+### Your first base is not permanent. Build it anyway.
 
 The starting area has limited flat land. Pick the best spot you can find near trees, stone, and at least a couple of ore nodes. Do not spend an hour looking for the perfect location. You will move your base later. Everyone moves their first base.
 
 ---
 
-## Base buildings in order
+### Base buildings in order
 
 Build these in this order:
 1. Palbox, the thing that makes this a base
@@ -50,7 +50,7 @@ After the tutorial, add:
 
 ---
 
-## Staff your base properly
+### Staff your base properly
 
 Pal Work Suitability is more important than combat stats for base Pals. Each Pal has job types on their info screen.
 
@@ -67,7 +67,7 @@ Foxparks is the most important early base Pal. Without Kindling, you stand at th
 
 ---
 
-## Second base at level 10: the mining outpost
+### Second base at level 10: the mining outpost
 
 At base level 10 you unlock a second Palbox. Do not build another main base. Build a mining outpost.
 
@@ -77,7 +77,7 @@ This is the single most important base upgrade in the first 20 hours. Manual min
 
 ---
 
-## New in 1.0: water bases
+### New in 1.0: water bases
 
 The Aquatic Construction Kit lets you build on water. Useful if you find a lake near good resources. Not necessary for your first base, but good to know for later.
 

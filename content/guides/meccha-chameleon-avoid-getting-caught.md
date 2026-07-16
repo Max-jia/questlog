@@ -28,7 +28,7 @@ sources:
 
 ![Meccha Chameleon hiding tips](/images/meccha-chameleon/screenshot-08.jpg)
 
-## Stop Dying Instantly
+### Stop Dying Instantly
 
 You spend 45 seconds perfecting your camouflage. The hunt phase starts. Within 20 seconds, you're dead. Here are the 10 mistakes causing this, and exactly how to fix each one.
 

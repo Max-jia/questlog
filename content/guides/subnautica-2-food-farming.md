@@ -26,13 +26,13 @@ sources:
 
 ![Subnautica 2 food and farming](/images/subnautica-2/screenshots/screenshot-03.jpg)
 
-## The Food & Water Problem
+### The Food & Water Problem
 
 In the early game, you'll spend 30-40% of your time finding food and water. That's time you're not exploring, scanning blueprints, or progressing the story. The solution is to build **food independence**, a base that produces all the sustenance you need, forever.
 
 ---
 
-## Early Game: Scavenging (Hours 0-3)
+### Early Game: Scavenging (Hours 0-3)
 
 Before you have a base with farms, to eat:
 
@@ -53,7 +53,7 @@ Before you have a base with farms, to eat:
 
 ---
 
-## Mid Game: Base Farming (Hours 3-15)
+### Mid Game: Base Farming (Hours 3-15)
 
 Once you have a base with power, set up food production:
 
@@ -77,7 +77,7 @@ Feed excess fish and plants into your Bioreactor for power. The same crops that 
 
 ---
 
-## Late Game: Self-Sustaining Base
+### Late Game: Self-Sustaining Base
 
 A fully self-sufficient base setup:
 
@@ -111,7 +111,7 @@ You (never hungry, never thirsty)
 - [resource guide](/games/subnautica-2/subnautica-2-resources-guide)
 ---
 
-## Food Independence Checklist
+### Food Independence Checklist
 
 - [ ] Digestion Adaptation unlocked (can safely eat alien food)
 - [ ] Base with power (Solar or Bioreactor)

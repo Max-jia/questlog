@@ -28,7 +28,7 @@ sources:
 
 ![GTA 6 Leonida Keys tropical islands](/images/gta-6/screenshots/leonida-keys-bridge.jpg)
 
-## Pricing Overview
+### Pricing Overview
 
 | Edition | Price (USD) | Platform |
 |---------|------------|----------|
@@ -39,7 +39,7 @@ Physical copies contain a **download code only**, no disc included.
 
 ---
 
-## What You Get, Side by Side
+### What You Get, Side by Side
 
 | Content | Standard ($80) | Ultimate ($100) |
 |---------|:---:|:---:|
@@ -59,7 +59,7 @@ Physical copies contain a **download code only**, no disc included.
 
 ---
 
-## Pre-Order Bonus (Both Editions): Vintage Vice City Pack
+### Pre-Order Bonus (Both Editions): Vintage Vice City Pack
 
 | Item | Details |
 |------|---------|
@@ -70,7 +70,7 @@ Physical copies contain a **download code only**, no disc included.
 
 ---
 
-## Ultimate Edition Exclusive Shops
+### Ultimate Edition Exclusive Shops
 
 | Shop | What It Offers |
 |------|---------------|
@@ -82,7 +82,7 @@ Physical copies contain a **download code only**, no disc included.
 
 ---
 
-## Which Edition Should You Buy?
+### Which Edition Should You Buy?
 
 ### Buy Standard ($80) If:
 - You want the base game and don't care about bonus content
@@ -107,6 +107,6 @@ Physical copies contain a **download code only**, no disc included.
 - [FAQ](/games/gta-6/gta-6-faq)
 ---
 
-## Important: No PC Version at Launch
+### Important: No PC Version at Launch
 
 GTA 6 launches on **PS5 and Xbox Series X|S only**. The PC version is expected in **2027-2028**. No pre-orders for PC are available yet. If you're a PC player, you'll need to wait.

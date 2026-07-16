@@ -30,13 +30,13 @@ sources:
 
 ![Subnautica 2 deep sea biomes](/images/subnautica-2/screenshots/screenshot-02.jpg)
 
-## Proteus Map, Two Major Regions
+### Proteus Map, Two Major Regions
 
 Subnautica 2 currently has two main regions in Early Access. You start in the safe Coral Gardens and eventually venture into the deep, hostile Karakorum.
 
 ---
 
-## Coral Gardens (Starting Region, 0-150m)
+### Coral Gardens (Starting Region, 0-150m)
 
 Your home for the first 10-15 hours. Safe, abundant resources, gradually increasing danger.
 
@@ -117,7 +117,7 @@ West of Old Habitat. Dense with flora.
 
 ---
 
-## Karakorum (Late-Game Region, 100-450m)
+### Karakorum (Late-Game Region, 100-450m)
 
 Accessed via a deep trench **east of Coral Gardens**. Guarded by a **Collector Leviathan** patrolling the chasm. You need the Tadpole with Depth Module to explore effectively.
 
@@ -154,7 +154,7 @@ The deepest accessible zone. Endgame resources.
 
 ---
 
-## Creature Threat Levels
+### Creature Threat Levels
 
 ### Friendly / Passive
 | Creature | Location | Notes |
@@ -202,7 +202,7 @@ The deepest accessible zone. Endgame resources.
 - [how to get the Tadpole](/games/subnautica-2/subnautica-2-tadpole-guide)
 ---
 
-## Survival Tips by Biome
+### Survival Tips by Biome
 
 - **Shallows:** Safe. Farm resources freely.
 - **Jelly Barrens:** Stay near the seabed. Hammerheads roam mid-water.

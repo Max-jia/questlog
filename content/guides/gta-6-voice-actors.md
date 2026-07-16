@@ -24,7 +24,7 @@ sources:
 
 ![GTA 6 Lucia in action](/images/gta-6/screenshots/lucia-action.jpg)
 
-## The Protagonists, Rumored Actors
+### The Protagonists, Rumored Actors
 
 Rockstar has not officially confirmed GTA 6's voice cast. Historically, Rockstar keeps voice actors secret until after launch, GTA V's cast wasn't confirmed until players datamined the credits.
 

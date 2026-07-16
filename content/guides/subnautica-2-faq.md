@@ -26,7 +26,7 @@ sources:
     url: "https://game8.co/games/Subnautica-2/archives/598742"
 ---
 
-## Getting Started
+### Getting Started
 
 ![Getting Started](/images/subnautica-2/screenshots/screenshot-01.jpg)
 
@@ -45,7 +45,7 @@ A: Scan objects in the world with the Scanner. Fragments, wreckage, flora, and f
 
 ---
 
-## Progression
+### Progression
 
 **Q: How deep can you go in Subnautica 2?**
 A: 450m with Depth Module Mk. 1. Deeper zones require Depth Module Mk. 2 (late-game).
@@ -61,7 +61,7 @@ A: The game is in Early Access. The current story ends at the Power Plant repair
 
 ---
 
-## Resources
+### Resources
 
 **Q: Where is Gold?**
 A: **Only in Hydrothermal Vents / Hot Caves.** There is no other source. You need Heat Tolerance to survive there.
@@ -80,7 +80,7 @@ A: From Needlers in the Observatory region of Karakorum. Required for Enameled G
 
 ---
 
-## Base Building
+### Base Building
 
 **Q: What's the best power source?**
 A: Solar for shallow bases (<50m). Thermal for hot biomes. Bioreactor as backup for any depth.
@@ -93,7 +93,7 @@ A: Add Reinforcements. Glass windows and hatches reduce integrity. Keep it above
 
 ---
 
-## Gameplay
+### Gameplay
 
 **Q: Is Subnautica 2 multiplayer?**
 A: **Yes, up to 4-player co-op.** You can explore, build, and survive together. Each player needs their own copy of the game.

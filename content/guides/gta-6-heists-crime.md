@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 Boobie Ike, Vice City nightlife kingpin](/images/gta-6/screenshots/boobie-ike.jpg)
 
-## How You'll Make Money in GTA 6
+### How You'll Make Money in GTA 6
 
 GTA V's economy was simple: do heists, get paid. GTA 6 is building a deeper crime economy with multiple income streams, fencing, raiding, restoring, and (of course) heisting. Here's everything confirmed.
 

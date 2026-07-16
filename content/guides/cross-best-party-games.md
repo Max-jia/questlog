@@ -27,7 +27,7 @@ sources:
 
 ![Best party games on Steam](/images/meccha-chameleon/screenshot-01.jpg)
 
-## All 12 Games at a Glance
+### All 12 Games at a Glance
 
 | # | Game | Price | Players | Peak Players (2026) |
 |---|------|-------|---------|-------------------|

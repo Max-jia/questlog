@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 Leonida Keys, preparing storage](/images/gta-6/screenshots/leonida-keys.jpg)
 
-## How Big Will GTA 6 Be? ~150-200 GB
+### How Big Will GTA 6 Be? ~150-200 GB
 
 Rockstar hasn't confirmed the exact size, but we can estimate based on their recent games:
 

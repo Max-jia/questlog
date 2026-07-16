@@ -30,25 +30,25 @@ November 19 is 4 months away. That sounds like a lot of time. It is not. Here is
 
 ---
 
-## Right now: clear 200 GB
+### Right now: clear 200 GB
 
 GTA 6 is expected to need 150-200 GB. That is roughly GTA V plus Red Dead Redemption 2 combined. Delete games you have not touched in 6 months. Move media to an external drive. On PS5, upgrade your internal SSD now while prices are normal and not inflated by launch-day demand.
 
 ---
 
-## October: finish your backlog
+### October: finish your backlog
 
 You will not play anything else for months after GTA 6 launches. Finish the games you are in the middle of. Wrap up loose ends. Make peace with your backlog. Come November, your console becomes a GTA machine.
 
 ---
 
-## November 12: pre-load
+### November 12: pre-load
 
 Pre-load starts one week before launch. Start the download immediately. On a 1 Gbps connection, 200 GB takes about 25 minutes. On a 50 Mbps connection, it takes 7-8 hours. If your internet is slow, start it at midnight on November 12 and let it run overnight.
 
 ---
 
-## November 18: adjust settings
+### November 18: adjust settings
 
 Before you launch the game, adjust these:
 
@@ -66,7 +66,7 @@ Before you launch the game, adjust these:
 
 ---
 
-## November 19: launch day
+### November 19: launch day
 
 Expect server issues. Every Rockstar launch has them. Story mode should work fine offline. Start there. Do not wait for online services to stabilize before playing.
 

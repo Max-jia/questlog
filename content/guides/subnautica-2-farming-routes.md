@@ -26,25 +26,25 @@ sources:
 
 ![Subnautica 2 farming routes](/images/subnautica-2/screenshots/screenshot-03.jpg)
 
-## Titanium run (Shallows, 5 minutes)
+### Titanium run (Shallows, 5 minutes)
 
 Start at your Lifepod. Walk in an expanding spiral outward. Pick up every scrap metal and limestone outcrop. Do not stop to scan. Do not chase fish. Titanium only. One spiral covers roughly 150 meters of seabed and nets 20-30 Titanium. Do this once before any major building session.
 
 ---
 
-## Copper run (Shallows caves, 3 minutes)
+### Copper run (Shallows caves, 3 minutes)
 
 Copper is on cave walls and ceilings. The cave directly south of the Lifepod has 5-8 copper nodes. The cave east has 6-10. Bring a flashlight or Wakemaker. The nodes are on the ceiling in the dark and easy to miss if you do not look up.
 
 ---
 
-## Silver run (Old Habitat, 5 minutes)
+### Silver run (Old Habitat, 5 minutes)
 
 Old Habitat region, east-southeast of Shallows. Look for sandstone outcrops along the ruins and on the seabed near the buildings. Avoid the center where the Deepwing Brooder patrols. Stick to the edges. One lap of the perimeter yields 6-10 Silver. Enough for your first Air Tank and Wakemaker.
 
 ---
 
-## Gold and Sulfur expedition (Hydrothermal Vents, 10 minutes)
+### Gold and Sulfur expedition (Hydrothermal Vents, 10 minutes)
 
 This is a dedicated trip. You need Heat Tolerance. Bring the Tadpole with storage, 2 spare batteries, medkits, and food/water.
 
@@ -52,13 +52,13 @@ Enter from the east-southeast, roughly 600m from Old Habitat. The vents are hot 
 
 ---
 
-## Lithium run (The Hole, 5 minutes)
+### Lithium run (The Hole, 5 minutes)
 
 Lithium nodes line the walls of The Hole. Hug the walls. Do not swim over the center. The Great Jaw Leviathan sits there and will trap you. Collect 4-6 Lithium per trip. Enough for a Plasteel Ingot or two.
 
 ---
 
-## Troilite (Metal Farms, 300m+)
+### Troilite (Metal Farms, 300m+)
 
 This is the rarest resource. Found only in Metal Farms at the deepest accessible zone. Bring Depth Module Mk.1 minimum. The second Collector Leviathan patrols here. Troilite nodes respawn slowly. Do not waste Troilite on non-essential crafts. You need it for Depth Module Mk.2 and the Photovoltaic Charger.
 

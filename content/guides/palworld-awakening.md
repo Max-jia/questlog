@@ -30,7 +30,7 @@ Awakening is the final layer of Pal progression. It comes after breeding, mutati
 
 ---
 
-## How to unlock Awakening
+### How to unlock Awakening
 
 This is not a system you stumble into. You need to complete a series of objectives:
 
@@ -45,7 +45,7 @@ Once the workbench is built, you can craft Awakening Crystals.
 
 ---
 
-## Crafting an Awakening Crystal
+### Crafting an Awakening Crystal
 
 Each crystal is element-specific. You need:
 
@@ -56,7 +56,7 @@ Craft the crystal at the Ancient Workbench. Open your inventory, select the crys
 
 ---
 
-## What Awakening actually does
+### What Awakening actually does
 
 The Pal gets:
 - A permanent 7-10% stat increase across all base stats
@@ -73,7 +73,7 @@ It amplifies what is already there. Do not use it on a Pal you plan to replace.
 
 ---
 
-## Which Pals to awaken first
+### Which Pals to awaken first
 
 Combat Pals benefit more from raw stats than base workers. Awaken your fighters in this order:
 
@@ -85,7 +85,7 @@ Do not awaken base workers unless you have spare crystals. The stat boost on a m
 
 ---
 
-## Full progression order
+### Full progression order
 
 1. Breed for species, passives, IVs
 2. Apply mutations

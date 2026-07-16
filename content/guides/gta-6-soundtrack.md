@@ -28,7 +28,7 @@ sources:
 
 ![GTA 6 Vice City nightlife and music scene](/images/gta-6/screenshots/ambrosia-town.jpg)
 
-## Every Confirmed Song (From Trailers)
+### Every Confirmed Song (From Trailers)
 
 GTA soundtracks are legendary. GTA V had 240+ licensed songs across 17 radio stations. GTA 6 is expected to match or exceed that. Here's everything confirmed so far:
 

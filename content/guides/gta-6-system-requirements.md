@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 Mount Kalaga field](/images/gta-6/screenshots/mount-kalaga.jpg)
 
-## The Short Answer
+### The Short Answer
 
 GTA 6 launches **November 19, 2026** on **PS5 and Xbox Series X|S only.** No PC. No PS4. No Xbox One. No Switch 2 (yet).
 

@@ -28,7 +28,7 @@ sources:
 
 ![Subnautica 2 multiplayer co-op](/images/subnautica-2/screenshots/screenshot-01.jpg)
 
-## Quick Answer
+### Quick Answer
 
 Subnautica 2 supports **up to 4-player co-op** with full crossplay between PC (Steam) and Xbox Series X|S. You can convert any single-player save to multiplayer at any time. No split-screen, each player needs their own copy and device.
 

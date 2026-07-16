@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 Ambrosia rural town](/images/gta-6/screenshots/ambrosia.jpg)
 
-## Vice City Nostalgia Is Everywhere
+### Vice City Nostalgia Is Everywhere
 
 GTA 6 is set in modern Vice City, but Rockstar is weaving the original 1986 game's legacy throughout. Here's every callback, reference, and easter egg found so far.
 

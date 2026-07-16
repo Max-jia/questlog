@@ -30,7 +30,7 @@ Legendary Pals are the strongest creatures in the game. They spawn at fixed loca
 
 ---
 
-## Before you go
+### Before you go
 
 You need three things before hunting legendaries:
 - Level 45 or higher. Level 40 is possible but you will burn through spheres.
@@ -39,7 +39,7 @@ You need three things before hunting legendaries:
 
 ---
 
-## Jetragon — the fastest mount in the game
+### Jetragon — the fastest mount in the game
 
 | Detail | Info |
 |--------|------|
@@ -52,7 +52,7 @@ Jetragon is the fastest flying mount and the hardest legendary to catch. Bring i
 
 ---
 
-## Frostallion — the ice tank
+### Frostallion — the ice tank
 
 | Detail | Info |
 |--------|------|
@@ -65,7 +65,7 @@ Easier than Jetragon but still a serious fight. Bring fire weapons and cold-resi
 
 ---
 
-## Necromus + Paladius — the duo fight
+### Necromus + Paladius — the duo fight
 
 | Detail | Info |
 |--------|------|
@@ -78,7 +78,7 @@ These two spawn together. You have to fight both at once. Bring a strong Pal to 
 
 ---
 
-## What you should NOT do
+### What you should NOT do
 
 Do not show up at level 35 with Ultra Spheres. You will waste 50 of them and give up. Legendaries have low catch rates. Accept that you will burn through spheres. Accept that you might fail the first time. Come back with more spheres and a better plan.
 

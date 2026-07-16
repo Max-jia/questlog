@@ -31,7 +31,7 @@ sources:
     url: "https://www.lagofast.com/en/blog/meccha-chameleon-beginner-guide/"
 ---
 
-## What Is Meccha Chameleon?
+### What Is Meccha Chameleon?
 
 ![Meccha Chameleon gameplay](/images/meccha-chameleon/screenshot-01.jpg)
 
@@ -39,7 +39,7 @@ You're a chameleon. Paint yourself to match the environment. Don't get caught. T
 
 ---
 
-## How a Match Works
+### How a Match Works
 
 Every match follows a simple loop:
 
@@ -51,7 +51,7 @@ Every match follows a simple loop:
 
 ---
 
-## The Three Game Modes
+### The Three Game Modes
 
 | Mode | Rules | Best For |
 |------|-------|----------|
@@ -63,7 +63,7 @@ Every match follows a simple loop:
 
 ---
 
-## Essential Controls You Need to Know
+### Essential Controls You Need to Know
 
 ### Movement
 | Key | Action |
@@ -101,7 +101,7 @@ Every match follows a simple loop:
 
 ---
 
-## Hider: 5 Tips to Stop Getting Caught Immediately
+### Hider: 5 Tips to Stop Getting Caught Immediately
 
 ![Painting and camouflage in Meccha Chameleon](/images/meccha-chameleon/screenshot-03.jpg)
 
@@ -122,7 +122,7 @@ Seekers naturally scan blank walls first. Hide among **visual noise**, stacked b
 
 ---
 
-## Seeker: 5 Tips to Find Anyone
+### Seeker: 5 Tips to Find Anyone
 
 ### 1. Hunt Shapes, Not Colors
 Experienced hiders nail their color matching. Instead, look for **human-shaped outlines** that don't belong, bumps on flat walls, heads poking above shelves, limbs in places limbs shouldn't be.
@@ -141,7 +141,7 @@ Don't zigzag between rooms. Fully clear one zone before moving to the next. This
 
 ---
 
-## Common Beginner Mistakes
+### Common Beginner Mistakes
 
 | Mistake | Why You're Getting Caught |
 |---------|---------------------------|
@@ -153,7 +153,7 @@ Don't zigzag between rooms. Fully clear one zone before moving to the next. This
 
 ---
 
-## Quick FAQ
+### Quick FAQ
 
 **Q: Is the game cross-platform?**
 A: No. Meccha Chameleon is currently PC-only (Steam). No console or mobile versions exist yet.
@@ -179,7 +179,7 @@ A: Yes! Custom maps are made with Unreal Engine 5 and uploaded to the Steam Work
 - [every keybind reference](/games/meccha-chameleon/meccha-chameleon-keybinds-reference)
 ---
 
-## What to Learn Next
+### What to Learn Next
 
 Now that you know the basics, dive deeper:
 

@@ -28,7 +28,7 @@ sources:
 
 ![GTA 6 protagonists Jason and Lucia](/images/gta-6/screenshots/jason.jpg)
 
-## The Protagonists
+### The Protagonists
 
 ### Jason Duval
 **Role:** Former soldier turned criminal
@@ -58,7 +58,7 @@ The game focuses on an intimate Bonnie & Clyde relationship, more personal than 
 
 ---
 
-## Supporting Characters
+### Supporting Characters
 
 ### Cal Hampton
 Jason's friend. A conspiracy theorist who monitors Coast Guard comms, providing intelligence on law enforcement movements and waterway patrols. Likely your "guy in the chair" for smuggling missions.
@@ -89,7 +89,7 @@ Eccentric car collector. Tied to the Classic Car Collection commission (Ultimate
 
 ---
 
-## Character Connections Map
+### Character Connections Map
 
 ```
 Lucia ←→ Jason (partners in crime)
@@ -117,7 +117,7 @@ Shared contacts:
 - [full map guide](/games/gta-6/gta-6-map-guide)
 ---
 
-## Voice Cast (Rumored)
+### Voice Cast (Rumored)
 
 | Character | Rumored Actor |
 |-----------|--------------|

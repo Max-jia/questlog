@@ -26,7 +26,7 @@ sources:
     url: "https://comicbook.com/gaming/news/steam-game-pc-best-selling-2026/"
 ---
 
-## The Short Answer
+### The Short Answer
 
 ![The Short Answer](/images/meccha-chameleon/screenshot-07.jpg)
 
@@ -37,7 +37,7 @@ But it's not without flaws. Here's the honest breakdown.
 
 ---
 
-## What It Gets Right
+### What It Gets Right
 
 ### The Painting Mechanic Is Brilliant
 The core gameplay loop, sample colors, paint your body, blend into the environment, is genuinely innovative. The depth of the painting system (roughness, metallic, HSV sliders, shadow toggle) means there's a real skill ceiling. You can play for 100 hours and still improve your camouflage technique.
@@ -53,7 +53,7 @@ With 300K+ peak concurrent players, you'll never struggle to find a game. The St
 
 ---
 
-## What It Gets Wrong
+### What It Gets Wrong
 
 ### No Tutorial
 There is zero in-game guidance. You're dropped into matches with no explanation of controls, mechanics, or strategy. New players get destroyed for their first 10-20 rounds until they figure things out (or read guides like this one).
@@ -69,7 +69,7 @@ Honest answer: less so. Meccha Chameleon shines with friends on voice chat. Play
 
 ---
 
-## Comparison: Meccha Chameleon vs. Similar Games
+### Comparison: Meccha Chameleon vs. Similar Games
 
 | | Meccha Chameleon | Among Us | Prop Hunt (GMod) |
 |------|------|------|------|
@@ -85,14 +85,14 @@ Honest answer: less so. Meccha Chameleon shines with friends on voice chat. Play
 
 ---
 
-## Who Should Buy It
+### Who Should Buy It
 
 - ✅ Players who enjoy creative, skill-based multiplayer games
 - ✅ Friend groups looking for a new party game
 - ✅ Anyone who loved Prop Hunt and wants a deeper version
 - ✅ Streamers/content creators (endlessly clipable moments)
 
-## Who Should Skip It
+### Who Should Skip It
 
 - ❌ Players who only enjoy single-player experiences
 - ❌ Competitive gamers looking for ranked/esports structure
@@ -110,7 +110,7 @@ Honest answer: less so. Meccha Chameleon shines with friends on voice chat. Play
 - [game modes explained](/games/meccha-chameleon/meccha-chameleon-game-modes)
 ---
 
-## The Verdict
+### The Verdict
 
 **Rating: 8/10**
 

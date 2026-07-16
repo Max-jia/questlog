@@ -26,7 +26,7 @@ sources:
 
 ![Black Flag ship upgrades](/images/ac-black-flag/screenshots/screenshot-03.jpg)
 
-## Upgrade priority order
+### Upgrade priority order
 
 Do not spread resources. Focus them in this order:
 
@@ -47,19 +47,19 @@ Late-game tools. Fire barrels are specifically useful against Legendary Ships.
 
 ---
 
-## Elite upgrades are at Great Inagua
+### Elite upgrades are at Great Inagua
 
 Your hideout has an upgrade tree. Develop it. Elite plans for the Jackdaw are here, not at the shipwrights in towns. Invest in your hideout early and the Jackdaw upgrades unlock as you progress.
 
 ---
 
-## How to farm resources fast
+### How to farm resources fast
 
 Board ships instead of sinking them. Boarding gives double resources plus crew and repairs. Kenway's Fleet (unlocked after a story mission) generates passive income while you play. Send captured ships on trade routes and collect the money later.
 
 ---
 
-## Legendary Ship prep
+### Legendary Ship prep
 
 Before attempting any Legendary Ship, ensure the Jackdaw has:
 - Fully upgraded hull

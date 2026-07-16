@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 Port Gellhorn docks at night](/images/gta-6/screenshots/port-gellhorn-docks.jpg)
 
-## The GTA V Wanted System, Why It Needs an Overhaul
+### The GTA V Wanted System, Why It Needs an Overhaul
 
 GTA V's police system, while iconic, had flaws cops would materialize out of thin air in remote areas. Helicopters spawned instantly. Escaping a 5-star wanted level felt more like exploiting game mechanics than clever evasion.
 

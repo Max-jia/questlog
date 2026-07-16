@@ -26,13 +26,13 @@ sources:
 
 ![Subnautica 2 base power systems](/images/subnautica-2/screenshots/screenshot-03.jpg)
 
-## Power Basics
+### Power Basics
 
 Every module in your base draws power. If total consumption exceeds generation, your base goes dark, no oxygen, no fabricator, no lights. Here's how to never let that happen.
 
 ---
 
-## Power Source Comparison
+### Power Source Comparison
 
 | Source | Power Output | Cost | Maintenance | Best Depth |
 |--------|-------------|------|------------|------------|
@@ -43,7 +43,7 @@ Every module in your base draws power. If total consumption exceeds generation, 
 
 ---
 
-## Solar Panels, The Early Game Standard
+### Solar Panels, The Early Game Standard
 
 **Best for:** Your first base in the Shallows.
 
@@ -58,7 +58,7 @@ Every module in your base draws power. If total consumption exceeds generation, 
 
 ---
 
-## Bioreactor, The Universal Backup
+### Bioreactor, The Universal Backup
 
 **Best for:** Any depth. Great as a secondary/backup power source.
 
@@ -78,7 +78,7 @@ Every module in your base draws power. If total consumption exceeds generation, 
 
 ---
 
-## Thermal Plant, The Endgame King
+### Thermal Plant, The Endgame King
 
 **Best for:** Hot Caves, Hydrothermal Vents, deep Karakorum zones.
 
@@ -98,7 +98,7 @@ Every module in your base draws power. If total consumption exceeds generation, 
 
 ---
 
-## Hydroelectric Turbine, The Niche Pick
+### Hydroelectric Turbine, The Niche Pick
 
 **Best for:** Bases built near water currents.
 
@@ -117,7 +117,7 @@ Every module in your base draws power. If total consumption exceeds generation, 
 
 ---
 
-## Power Storage, Don't Skip This
+### Power Storage, Don't Skip This
 
 The **Power Storage** module (1× Germanium Ingot, 3× Titanium, 2× Salt) banks excess energy.
 
@@ -130,7 +130,7 @@ The **Power Storage** module (1× Germanium Ingot, 3× Titanium, 2× Salt) banks
 
 ---
 
-## The Optimal Power Setup by Stage
+### The Optimal Power Setup by Stage
 
 ### Early Game Base (Shallows)
 ```
@@ -160,7 +160,7 @@ Two Thermals power everything forever. No Bioreactor needed at this stage.
 - [beginner's guide](/games/subnautica-2/subnautica-2-beginner-guide)
 ---
 
-## Power Troubleshooting
+### Power Troubleshooting
 
 | Problem | Likely Cause | Fix |
 |---------|-------------|-----|

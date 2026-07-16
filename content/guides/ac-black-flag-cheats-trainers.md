@@ -24,13 +24,13 @@ sources:
 
 ![Black Flag cheats and trainers](/images/ac-black-flag/screenshots/screenshot-06.jpg)
 
-## Are there built-in cheat codes
+### Are there built-in cheat codes
 
 No. Unlike older Assassin's Creed games, Black Flag Resynced does not have an in-game cheat menu or code input. The original Black Flag had Abstergo Challenges that unlocked cheats, but those are not present in Resynced.
 
 ---
 
-## Trainers that work
+### Trainers that work
 
 Trainers are third-party programs that modify game memory for single-player use. The following trainers are confirmed working with Black Flag Resynced version 1.0:
 
@@ -51,7 +51,7 @@ Common trainer features:
 
 ---
 
-## Ban risk
+### Ban risk
 
 Ubisoft Connect can detect memory modification. If you use a trainer while connected to the internet, you risk an account ban. The ban applies to Ubisoft Connect, not just Black Flag.
 
@@ -59,7 +59,7 @@ To use trainers safely: disconnect from the internet before launching the game, 
 
 ---
 
-## No official mod support yet
+### No official mod support yet
 
 The game launched without mod support. Ubisoft has not announced mod tools. Community mods may appear later, but nothing is available at launch.
 

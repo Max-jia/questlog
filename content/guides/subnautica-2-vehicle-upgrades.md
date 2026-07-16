@@ -30,7 +30,7 @@ The Tadpole has 4 module slots and you have access to 7 modules. You cannot equi
 
 ---
 
-## Upgrade priority order
+### Upgrade priority order
 
 ### 1. Engine Efficiency ×2 (first two slots)
 Each reduces energy consumption by 20%. Two of them makes your Tadpole last twice as long between charges. This is the biggest quality-of-life upgrade and the first thing you should craft.
@@ -49,7 +49,7 @@ Materials: 2 Enameled Glass, 2 Strontium.
 
 ---
 
-## Modules to get later
+### Modules to get later
 
 ### Cavitation Muffler
 Reduces predator detection range by roughly 30%. Makes crossing the Collector Leviathan trench safer. Get this before your first trench crossing if you can afford the materials (3 Titanium, 2 Strontium). Swap it in for the crossing, then swap Impact Armor back.
@@ -61,7 +61,7 @@ Materials: 1 Copper Ingot, 1 Strong Acid, 1 Troilite. Troilite is rare. Do not s
 
 ---
 
-## Chassis: Scout Ray or Haul?
+### Chassis: Scout Ray or Haul?
 
 | Chassis | Best For | Materials |
 |---------|----------|-----------|

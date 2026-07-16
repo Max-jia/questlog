@@ -28,7 +28,7 @@ sources:
     url: "https://grindnstrat.com/meccha-chameleon-beginner-guide/"
 ---
 
-## The Seeker Mindset
+### The Seeker Mindset
 
 ![The Seeker Mindset](/images/meccha-chameleon/screenshot-07.jpg)
 
@@ -175,7 +175,7 @@ You have limited ammo. Every missed shot is time wasted.
 - [25 pro tips](/games/meccha-chameleon/meccha-chameleon-pro-tips)
 ---
 
-## Quick Seeker Pre-Round Checklist
+### Quick Seeker Pre-Round Checklist
 
 - [ ] Know the map layout (where are the noob traps?)
 - [ ] Set graphics to prioritize texture clarity over shadows

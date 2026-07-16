@@ -30,7 +30,7 @@ Souls are permanent stat boosts for your Pals. Once applied, you cannot undo the
 
 ---
 
-## The five soul types
+### The five soul types
 
 | Soul | Stat Boost | Priority |
 |------|-----------|:---:|
@@ -44,7 +44,7 @@ Attack first. Defense second. HP third. Work Speed is almost never worth it — 
 
 ---
 
-## Where to farm souls
+### Where to farm souls
 
 ### Dungeon chests
 The most reliable source. Every dungeon has at least one chest with souls. Higher level dungeons drop larger souls. Run dungeons whenever you see them.
@@ -60,7 +60,7 @@ The wandering merchant sells souls. They are absurdly expensive. The gold cost i
 
 ---
 
-## Which Pals to soul first
+### Which Pals to soul first
 
 Only soul Pals you will keep forever. Your main combat team. Your raid team. Legendaries you spent hours catching.
 

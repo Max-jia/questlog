@@ -26,7 +26,7 @@ sources:
 
 ![Best survival games 2026](/images/subnautica-2/screenshots/screenshot-02.jpg)
 
-## If You Love Subnautica 2, Play These Next
+### If You Love Subnautica 2, Play These Next
 
 Subnautica 2 nails a specific feeling: you're small, the world is vast and beautiful, and something terrifying is always beyond the next ridge. These 10 games capture different pieces of that experience.
 

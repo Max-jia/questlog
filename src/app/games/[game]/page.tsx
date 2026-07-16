@@ -2,9 +2,9 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getGuidesByGame, getSections } from "@/lib/content";
-import { ChameleonIcon } from "@/components/Visuals";
 import GameBackground from "@/components/GameBackground";
 import HeroIllustration from "@/components/HeroIllustration";
+import GameGuides from "@/components/GameGuides";
 
 const GAME_INFO: Record<string, {
   name: string; desc: string;
@@ -166,60 +166,7 @@ export default async function GamePage({ params }: { params: Promise<{ game: str
       <section id="guides">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 py-12 lg:py-16">
           <h2 className="font-display text-2xl sm:text-3xl tracking-wider text-text-primary mb-4">All {info.name} Guides</h2>
-
-          {/* Category navigation */}
-          {sections.length > 0 && (
-            <div className="flex flex-wrap gap-2 mb-8">
-              <span className="px-3 py-1.5 rounded-lg text-xs font-medium bg-accent/15 text-accent border border-accent/30">
-                All ({guides.length})
-              </span>
-              {sections.map((sec) => {
-                const count = getGuidesByGame(game, sec).length;
-                return (
-                  <span
-                    key={sec}
-                    className="px-3 py-1.5 rounded-lg text-xs font-medium bg-bg-card text-text-secondary border border-border"
-                  >
-                    {sec} ({count})
-                  </span>
-                );
-              })}
-            </div>
-          )}
-
-          {guides.length > 0 ? (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-              {guides.map((guide, i) => {
-                const gradients = ["from-accent-green-dim/30 to-accent-purple-dim/30", "from-accent-purple-dim/30 to-blue-900/30", "from-accent-green-dim/30 to-yellow-900/30"];
-                const g = gradients[i % gradients.length];
-                return (
-                  <Link key={guide.slug} href={`/games/${game}/${guide.slug}`} className="group rounded-xl bg-bg-card border border-border card-hover flex flex-col overflow-hidden">
-                    <div className={`h-1.5 bg-gradient-to-r ${g}`} />
-                    <div className="p-6 flex flex-col flex-1">
-                      <div className="flex items-center justify-between mb-3">
-                        {guide.category && (
-                          <span className={`text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full ${catColors[guide.category] || "text-accent-purple bg-accent-purple/10"}`}>{guide.category}</span>
-                        )}
-                        <span className="text-[10px] text-text-muted">{guide.date}</span>
-                      </div>
-                      <h3 className="font-semibold text-text-primary group-hover:text-accent transition-colors leading-snug">{guide.title}</h3>
-                      <p className="mt-2 text-sm text-text-muted leading-relaxed line-clamp-2">{guide.excerpt}</p>
-                      <div className="mt-auto pt-4 flex items-center gap-2">
-                        <span className="text-xs text-accent font-medium">Read Guide</span>
-                        <svg xmlns="http://www.w3.org/2000/svg" className="h-3.5 w-3.5 text-accent group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
-                      </div>
-                    </div>
-                  </Link>
-                );
-              })}
-            </div>
-          ) : (
-            <div className="text-center py-20 bg-bg-card rounded-2xl border border-border">
-              <div className="text-5xl mb-4">{info.heroEmoji}</div>
-              <h3 className="text-lg font-semibold text-text-primary">Guides Coming Soon</h3>
-              <p className="mt-1 text-sm text-text-muted max-w-sm mx-auto">We&apos;re crafting the first batch of {info.name} guides. Check back soon!</p>
-            </div>
-          )}
+          <GameGuides guides={guides} sections={sections} game={game} />
         </div>
       </section>
     </div>

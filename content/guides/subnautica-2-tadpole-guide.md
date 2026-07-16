@@ -28,13 +28,13 @@ sources:
 
 ![Subnautica 2 Tadpole vehicle](/images/subnautica-2/screenshots/screenshot-04.jpg)
 
-## What Is the Tadpole?
+### What Is the Tadpole?
 
 You need the Tadpole. It's your first submarine, faster, tougher, and able to dive deeper than you can on foot. Getting it marks the shift from struggling to survive to exploring.
 
 ---
 
-## How to Unlock the Tadpole
+### How to Unlock the Tadpole
 
 ### Step 1: Scan 3 Tadpole Fragments
 
@@ -69,7 +69,7 @@ Before you can build the Tadpole, you need:
 
 ---
 
-## Tadpole Chassis (Pick One)
+### Tadpole Chassis (Pick One)
 
 You can equip one chassis at a time, swappable at the Vehicle Fabricator.
 
@@ -100,7 +100,7 @@ You can equip one chassis at a time, swappable at the Vehicle Fabricator.
 
 ---
 
-## Best Upgrade Modules (4 Slots Available)
+### Best Upgrade Modules (4 Slots Available)
 
 All modules crafted at the **Modification Station** (built from 2× Titanium, 2× Celestine, 2× Copper).
 
@@ -116,7 +116,7 @@ All modules crafted at the **Modification Station** (built from 2× Titanium, 2�
 
 ---
 
-## Where to Find Rare Materials for Upgrades
+### Where to Find Rare Materials for Upgrades
 
 | Material | Location |
 |----------|----------|
@@ -137,7 +137,7 @@ All modules crafted at the **Modification Station** (built from 2× Titanium, 2�
 - [leviathan survival guide](/games/subnautica-2/subnautica-2-leviathan-survival)
 ---
 
-## Tadpole Tips
+### Tadpole Tips
 
 - **Always carry a Repair Tool**, the Tadpole takes damage from collisions and creatures.
 - **The Tadpole has lights.** Turn them on in dark biomes (default keybind).

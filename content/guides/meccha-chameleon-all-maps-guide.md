@@ -30,7 +30,7 @@ sources:
 
 ![Meccha Chameleon maps and hiding spots](/images/meccha-chameleon/screenshot-04.jpg)
 
-## Meccha Chameleon Maps Overview
+### Meccha Chameleon Maps Overview
 
 There are **7 official maps**, each with its own hiding meta. Plus hundreds more on the Steam Workshop. Here's every official map, ranked easiest to hardest for hiders:
 
@@ -46,7 +46,7 @@ There are **7 official maps**, each with its own hiding meta. Plus hundreds more
 
 ---
 
-## 1. Hide-and-Seek Mansion
+### 1. Hide-and-Seek Mansion
 
 **The classic.** A sprawling Victorian mansion packed with rooms, furniture, and decorations. The most cluttered map, perfect for creative hiders.
 
@@ -68,7 +68,7 @@ There are **7 official maps**, each with its own hiding meta. Plus hundreds more
 
 ---
 
-## 2. Indoor Country
+### 2. Indoor Country
 
 A bright, farm-themed map with hay bales, pumpkins, animal cutouts, and a barn. Smaller than Mansion but more open.
 
@@ -84,7 +84,7 @@ A bright, farm-themed map with hay bales, pumpkins, animal cutouts, and a barn. 
 
 ---
 
-## 3. Sewer
+### 3. Sewer
 
 Dark, industrial, and gritty. Low lighting means color matching is less critical, **texture and silhouette** matter more here.
 
@@ -103,7 +103,7 @@ Dark, industrial, and gritty. Low lighting means color matching is less critical
 
 ---
 
-## 4. Backrooms
+### 4. Backrooms
 
 Liminal office space aesthetic. Sparse, repetitive, and unsettling. You have fewer objects to hide among, so **perfect camouflage is essential**.
 
@@ -119,7 +119,7 @@ Liminal office space aesthetic. Sparse, repetitive, and unsettling. You have few
 
 ---
 
-## 5. Penguin Hotel
+### 5. Penguin Hotel
 
 The **best map for hiders**. Dense, multi-room, stuffed with penguin plushies, curtains, furniture, and decorations. Hunters have a nightmare here.
 
@@ -135,7 +135,7 @@ The **best map for hiders**. Dense, multi-room, stuffed with penguin plushies, c
 
 ---
 
-## 6. Osaka
+### 6. Osaka
 
 The **newest and smallest** map. A tight Japanese city street with shops, signs, trucks, and octopus decorations. exposed, you need clever positioning.
 
@@ -150,7 +150,7 @@ The **newest and smallest** map. A tight Japanese city street with shops, signs,
 
 ---
 
-## 7. Sugar Land
+### 7. Sugar Land
 
 A bright, colorful candy-themed map. Lollipops, gingerbread houses, chocolate fountains, and gumdrop mountains. The bright palette makes color matching easy but visibility is high.
 
@@ -166,7 +166,7 @@ A bright, colorful candy-themed map. Lollipops, gingerbread houses, chocolate fo
 
 ---
 
-## Custom Maps
+### Custom Maps
 
 ![Meccha Chameleon Steam Workshop custom maps](/images/meccha-chameleon/screenshot-06.jpg)
 
@@ -194,7 +194,7 @@ The Steam Workshop already has hundreds of community-made maps. Some top-rated o
 - [install custom maps](/games/meccha-chameleon/meccha-chameleon-custom-maps)
 ---
 
-## Universal Hiding Rules for All Maps
+### Universal Hiding Rules for All Maps
 
 1. **Hide where there's visual clutter.** Empty walls are death traps.
 2. **Use height.** Most seekers scan at eye level. Ceilings, rafters, and high corners are blind spots.

@@ -26,7 +26,7 @@ sources:
 
 ![Palworld best early Pals](/images/palworld/screenshots/screenshot-02.jpg)
 
-## 10 Pals in the order you should catch them
+### 10 Pals in the order you should catch them
 
 ### 1. Lamball (mass catch for XP)
 Lamball is not exciting. But catching 12 of them gives a huge XP bonus and jump starts your leveling. Wool is useful for cloth early. Grab a dozen, move on.

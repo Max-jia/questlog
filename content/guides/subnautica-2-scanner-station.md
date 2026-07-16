@@ -30,7 +30,7 @@ Most players build the Scanner Station, use it once, and forget about it. That i
 
 ---
 
-## How to unlock the Scanner Station
+### How to unlock the Scanner Station
 
 Scan 3 fragments in wrecks around Coral Gardens. Once unlocked, build it in your base:
 
@@ -42,7 +42,7 @@ Place it in a room with power. It does not need its own room. It works from anyw
 
 ---
 
-## What the Scanner Station can track
+### What the Scanner Station can track
 
 The station has multiple scanning modes. Each takes a few seconds to complete and highlights all matching targets within range:
 
@@ -55,7 +55,7 @@ Pick one mode. Scan. The results stay on your HUD for about 10 seconds. Scan aga
 
 ---
 
-## Range upgrades
+### Range upgrades
 
 The Scanner Station accepts range upgrade modules. Each module increases the scan radius. With 4 modules, one station covers most of a biome.
 
@@ -63,13 +63,13 @@ This is especially useful in Karakorum where Celestine and Conduit Crystal are s
 
 ---
 
-## One scan per lobby
+### One scan per lobby
 
 If you are in multiplayer, the Scanner Station tracks one resource node at a time for the entire lobby. Coordinate with your team. Do not have two players scanning for different things simultaneously. It overwrites.
 
 ---
 
-## Best places to build dedicated scanner outposts
+### Best places to build dedicated scanner outposts
 
 Build small scanner outposts (1 room, Scanner Station, power source) at:
 - Edge of the Shallows (covers Shallows + Jelly Barrens)

@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 Jason action scene](/images/gta-6/screenshots/jason-action.jpg)
 
-## What We Know for Sure (From Rockstar)
+### What We Know for Sure (From Rockstar)
 
 Rockstar's official description: *"A simple job goes wrong, pulling the duo into a state-wide criminal conspiracy. They must rely on each other more than ever."*
 
@@ -39,7 +39,7 @@ Rockstar's official description: *"A simple job goes wrong, pulling the duo into
 
 ---
 
-## Major Plot Theories
+### Major Plot Theories
 
 ### Theory 1: The "One Last Score" Arc
 Jason and Lucia start small, robberies, petty crime. Raul Bautista recruits them for increasingly larger heists. The final job goes wrong. One of them is forced to betray the other (Rockstar loves this, GTA V, RDR2 both have betrayal arcs).
@@ -62,7 +62,7 @@ The Vercetti Estate exists. Phil Cassidy appears on TV. Tommy Vercetti's Hawaiia
 
 ---
 
-## Possible Returning Characters
+### Possible Returning Characters
 
 | Character | Original Game | Likelihood | How They Could Return |
 |-----------|-------------|-----------|---------------------|
@@ -74,7 +74,7 @@ The Vercetti Estate exists. Phil Cassidy appears on TV. Tommy Vercetti's Hawaiia
 
 ---
 
-## How GTA Stories Usually End
+### How GTA Stories Usually End
 
 Rockstar doesn't do purely happy endings:
 
@@ -90,7 +90,7 @@ Rockstar doesn't do purely happy endings:
 
 ---
 
-## What's Confirmed vs Speculation
+### What's Confirmed vs Speculation
 
 | Confirmed | Speculation |
 |-----------|-----------|

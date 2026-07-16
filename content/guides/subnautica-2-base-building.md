@@ -30,13 +30,13 @@ sources:
 
 ![Subnautica 2 underwater base building](/images/subnautica-2/screenshots/screenshot-03.jpg)
 
-## Why Build a Base?
+### Why Build a Base?
 
 Your Lifepod is a cramped metal box. A real base gives you: full crafting, organized storage, vehicle docking, safety from predators, and unlimited food and power. Here's where to build and how to power it.
 
 ---
 
-## Best Base Locations, Ranked
+### Best Base Locations, Ranked
 
 ### Coral Gardens Early-Game Spots
 
@@ -64,7 +64,7 @@ Your Lifepod is a cramped metal box. A real base gives you: full crafting, organ
 
 ---
 
-## Power Systems Compared
+### Power Systems Compared
 
 | Power Source | Best For | Materials | Notes |
 |-------------|----------|-----------|-------|
@@ -77,7 +77,7 @@ Your Lifepod is a cramped metal box. A real base gives you: full crafting, organ
 
 ---
 
-## Base Building Order
+### Base Building Order
 
 1. **Room** (5× Titanium), Your first enclosed space.
 2. **Hatch** (1× Titanium, 1× Quartz), Entry/exit point.
@@ -98,7 +98,7 @@ Your Lifepod is a cramped metal box. A real base gives you: full crafting, organ
 - [resource locations](/games/subnautica-2/subnautica-2-resources-guide)
 ---
 
-## Pro Base Building Tips
+### Pro Base Building Tips
 
 - **Hub & Spoke model:** One main base + 2-3 small forward outposts (1 room, 1 Moonpool, 1 charger, 1 locker).
 - **Structural integrity:** Keep at least 10 points above zero. Glass windows and hatches cost integrity.

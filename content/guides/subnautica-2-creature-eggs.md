@@ -30,7 +30,7 @@ Eggs are scattered everywhere and the game does not explain what to do with them
 
 ---
 
-## Deepwing Egg Clump
+### Deepwing Egg Clump
 
 Location: Old Habitat, near the Deepwing Brooder's nest. This is inside the creature's territory. You will get attacked getting in and out.
 
@@ -38,7 +38,7 @@ Use: Cook into Pavlova (80 cal, 70 water, 10 health) or use in high-tier craftin
 
 ---
 
-## Fish Eggs (Halfmoon, Geordie, Threemoon)
+### Fish Eggs (Halfmoon, Geordie, Threemoon)
 
 Location: Scattered across the Shallows, Jelly Barrens, and Coral Gardens. Look for small translucent spheres on the seabed near schools of fish.
 
@@ -46,7 +46,7 @@ Use: Place in an Alien Containment unit to hatch. The fish breed inside. Transfe
 
 ---
 
-## Needler Eggs
+### Needler Eggs
 
 Location: Observatory region in Karakorum. Needler Nests are marked on your scanner once you are close.
 
@@ -54,13 +54,13 @@ Use: Creature Enamel for crafting Enameled Glass. Required for Depth Modules and
 
 ---
 
-## Leviathan Eggs
+### Leviathan Eggs
 
 There are no Leviathan eggs in the current Early Access build. Any egg labeled as Leviathan in old guides is from a mod or from the original Subnautica. Do not waste time looking for them.
 
 ---
 
-## How to hatch eggs
+### How to hatch eggs
 
 Build an Alien Containment unit in your base (2× Glass, 2× Titanium). Place eggs inside. They hatch after a set time. Hatched creatures behave like wild ones. Hostile creatures will attack you even if you raised them from an egg. Keep that in mind before you put a Hammerhead egg in the tank next to your bed.
 

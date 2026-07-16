@@ -26,7 +26,7 @@ sources:
     url: "https://www.ign.com/wikis/meccha-chameleon/"
 ---
 
-## Why Vertical Hiding Wins Games
+### Why Vertical Hiding Wins Games
 
 ![Why Vertical Hiding Wins Games](/images/meccha-chameleon/screenshot-08.jpg)
 
@@ -37,7 +37,7 @@ The wall climbing mechanic is how you get there.
 
 ---
 
-## Climbing Controls
+### Climbing Controls
 
 | Action | Key |
 |--------|-----|
@@ -51,7 +51,7 @@ The wall climbing mechanic is how you get there.
 
 ---
 
-## Where to Climb on Each Map
+### Where to Climb on Each Map
 
 ### Mansion
 - **Ceiling pillars** in the main hall, climb to the top and lie flat.
@@ -91,7 +91,7 @@ The wall climbing mechanic is how you get there.
 
 ---
 
-## Advanced Climbing Techniques
+### Advanced Climbing Techniques
 
 ### The Ceiling Crawl
 1. Climb a wall to the ceiling.
@@ -116,7 +116,7 @@ The wall climbing mechanic is how you get there.
 
 ---
 
-## Painting for Vertical Spots
+### Painting for Vertical Spots
 
 Vertical hiding requires different paint strategies:
 
@@ -127,7 +127,7 @@ Vertical hiding requires different paint strategies:
 
 ---
 
-## Common Vertical Hiding Mistakes
+### Common Vertical Hiding Mistakes
 
 | Mistake | Why It Fails |
 |---------|-------------|
@@ -148,6 +148,6 @@ Vertical hiding requires different paint strategies:
 - [beginner's guide](/games/meccha-chameleon/meccha-chameleon-beginner-guide)
 ---
 
-## Bottom Line
+### Bottom Line
 
 If you only learn one advanced technique in Meccha Chameleon, make it wall climbing. The vertical dimension is the most underused space on every map, and the players who master it survive rounds that ground-level hiders never do.

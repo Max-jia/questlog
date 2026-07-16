@@ -26,25 +26,25 @@ sources:
 
 ![Palworld multiplayer co-op](/images/palworld/screenshots/screenshot-05.jpg)
 
-## How to host a co-op world
+### How to host a co-op world
 
 From the main menu, select Start Game, create a new world, and toggle Multiplayer to On. Invite friends through the in-game menu with an invite code. Up to 4 players can join a hosted world. The host needs to be online for others to connect.
 
 ---
 
-## Dedicated servers support 32 players
+### Dedicated servers support 32 players
 
 Rent a server or run one yourself. Dedicated servers stay online even when the host is offline, and support up to 32 players. If you want a persistent world where people can play at different times, you need a dedicated server.
 
 ---
 
-## Crossplay is here
+### Crossplay is here
 
 Palworld 1.0 supports full crossplay. PC players on Steam, Xbox Series X|S, and PlayStation 5 can all join the same world. No more platform walls between friends.
 
 ---
 
-## Split the work. Do not duplicate effort.
+### Split the work. Do not duplicate effort.
 
 Four people all catching Lamballs is inefficient. Assign roles:
 - One player goes out catching Pals (XP for the team)
@@ -56,7 +56,7 @@ Guilds share resources. Pals in the Palbox are shared. Base inventory is shared.
 
 ---
 
-## PvP exists now
+### PvP exists now
 
 1.0 added a PvP mode. It is separate from co-op. You join a PvP server, not toggle it in a co-op world. Expect early game griefing. Build defenses or play on PvE until you have a real base.
 

@@ -28,13 +28,13 @@ sources:
 
 ![Subnautica 2 Angel Comb adaptations](/images/subnautica-2/screenshots/screenshot-02.jpg)
 
-## What Are Angel Combs?
+### What Are Angel Combs?
 
 Angel Combs are glowing purple plants scattered across Proteus. Interacting with them unlocks **Adaptations**, permanent character upgrades that give you new abilities. They are the core progression system in Subnautica 2, gating access to biomes, resources, and story content.
 
 ---
 
-## All Adaptations, in Order
+### All Adaptations, in Order
 
 ### 1. Digestion (Must Get First)
 | Detail | Info |
@@ -97,7 +97,7 @@ Angel Combs are glowing purple plants scattered across Proteus. Interacting with
 
 ---
 
-## Progression Gate Summary
+### Progression Gate Summary
 
 ```
 Digestion → Endurance → Dexterity → Heat Tolerance → Axum Vision
@@ -111,7 +111,7 @@ Digestion → Endurance → Dexterity → Heat Tolerance → Axum Vision
 
 ---
 
-## Frequently Missed Adaptations
+### Frequently Missed Adaptations
 
 - **Digestion can be missed entirely** if you don't explore northeast. You'll wonder why you keep getting sick from eating fish.
 - **Heat Tolerance requires the Sonic Resonator.** You can't clear the Bloom Cankers blocking the Blighted Area without it. Get the Sonic Resonator from Old Habitat fragments first.

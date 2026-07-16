@@ -26,7 +26,7 @@ sources:
     url: "https://steamcommunity.com/app/4704690"
 ---
 
-## All 5 Secret Skins, Ranked by Difficulty
+### All 5 Secret Skins, Ranked by Difficulty
 
 ![Meccha Chameleon skins and characters](/images/meccha-chameleon/screenshot-02.jpg)
 
@@ -42,7 +42,7 @@ Five secret skins. Zero in-game hints. Here's how to unlock every single one, fr
 
 ---
 
-## Glitched Matrix (Easiest)
+### Glitched Matrix (Easiest)
 
 The only skin that doesn't require any actual gameplay. It's hidden entirely in the UI.
 
@@ -59,7 +59,7 @@ The only skin that doesn't require any actual gameplay. It's hidden entirely in 
 
 ---
 
-## Mecha-Titanium Hazard (Medium)
+### Mecha-Titanium Hazard (Medium)
 
 This one requires collecting hidden data pads across the **Industrial Foundry** map.
 
@@ -79,7 +79,7 @@ Collect all 5 fragments (they don't need to be in a single match). After collect
 
 ---
 
-## Neon Specter (Hard)
+### Neon Specter (Hard)
 
 This skin requires completing a hidden combat challenge in the **Neo-Tokyo Grid** area, without taking any damage.
 
@@ -98,7 +98,7 @@ This skin requires completing a hidden combat challenge in the **Neo-Tokyo Grid*
 
 ---
 
-## Retro Pixel Chameleon (Very Hard)
+### Retro Pixel Chameleon (Very Hard)
 
 Arguably the most frustrating skin. You must complete **three challenges in a single match**:
 
@@ -113,7 +113,7 @@ Arguably the most frustrating skin. You must complete **three challenges in a si
 
 ---
 
-## Prismatic Overlord (Legendary, The Rarest Skin)
+### Prismatic Overlord (Legendary, The Rarest Skin)
 
 The ultimate status symbol in Meccha Chameleon. Requires a coordinated team.
 
@@ -143,7 +143,7 @@ The ultimate status symbol in Meccha Chameleon. Requires a coordinated team.
 - [full review, is it worth $6?](/games/meccha-chameleon/meccha-chameleon-review)
 ---
 
-## Skin Prestige Ranking (Community Opinion)
+### Skin Prestige Ranking (Community Opinion)
 
 ![Meccha Chameleon rare skins comparison](/images/meccha-chameleon/screenshot-05.jpg)
 

@@ -28,7 +28,7 @@ sources:
 
 ![GTA 6 Vice City skyline](/images/gta-6/screenshots/vice-city.jpg)
 
-## How Big Is the GTA 6 Map?
+### How Big Is the GTA 6 Map?
 
 | Metric | GTA V | GTA VI |
 |--------|-------|--------|
@@ -42,7 +42,7 @@ The map is estimated 1.5-2× larger than GTA V, but density is the real story, n
 
 ---
 
-## The Six Regions of Leonida
+### The Six Regions of Leonida
 
 ### 1. Vice City (Urban Core)
 **Inspiration:** Modern Miami
@@ -97,7 +97,7 @@ Forested mountain region with off-road trails, hunting grounds, fishing spots, a
 
 ---
 
-## Key Landmarks (Confirmed from Trailers)
+### Key Landmarks (Confirmed from Trailers)
 
 | Landmark | Region | Description |
 |----------|--------|-------------|
@@ -120,7 +120,7 @@ Forested mountain region with off-road trails, hunting grounds, fishing spots, a
 - [vehicles and weapons](/games/gta-6/gta-6-vehicles-weapons)
 ---
 
-## Map Size Comparison, What 1.5-2× GTA V Really Means
+### Map Size Comparison, What 1.5-2× GTA V Really Means
 
 GTA V's map felt large because much of it was empty mountain and desert. GTA VI's Leonida is not bigger, it's **denser**. With 700+ enterable interiors (vs ~150 in GTA V), you can enter buildings in nearly every neighborhood. The world is designed for depth, not sprawl.
 

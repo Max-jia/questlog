@@ -25,7 +25,7 @@ sources:
 
 ![GTA 6 Mount Kalaga National Park](/images/gta-6/screenshots/mount-kalaga-trail.jpg)
 
-## Release & Platforms
+### Release & Platforms
 
 **Q: When does GTA 6 release?**
 A: **November 19, 2026.** Available at midnight local time per region.
@@ -44,7 +44,7 @@ A: Yes, but the box contains a **download code**, not a disc. You'll need to dow
 
 ---
 
-## Story & Characters
+### Story & Characters
 
 **Q: Who are the main characters?**
 A: **Jason Duval** (former soldier) and **Lucia Caminos** (first female protagonist in a numbered GTA). A modern Bonnie & Clyde duo.
@@ -60,7 +60,7 @@ A: **Yes.** Like GTA V's character switching, but more intimate with two protago
 
 ---
 
-## Map & World
+### Map & World
 
 **Q: How big is the GTA 6 map?**
 A: Estimated **1.5-2× larger** than GTA V (~83 sq miles). Over **700 enterable interiors** vs ~150 in GTA V.
@@ -76,7 +76,7 @@ A: Likely not. GTA games traditionally unlock regions as the story progresses.
 
 ---
 
-## Gameplay
+### Gameplay
 
 **Q: Is there fishing in GTA 6?**
 A: **Yes.** First time in GTA history. Gambit Bay is a confirmed fishing location.
@@ -98,7 +98,7 @@ A: Not confirmed. RDR2 had health/stamina/deadeye cores. GTA VI may borrow some 
 
 ---
 
-## Multiplayer
+### Multiplayer
 
 **Q: Is GTA 6 Online available at launch?**
 A: Rockstar has described the game as a **single-player experience at launch.** GTA Online 2.0 is expected but may come post-launch, similar to GTA V in 2013.
@@ -116,7 +116,7 @@ A: Not in the traditional sense. Some missions feature both Jason and Lucia work
 - [full map guide](/games/gta-6/gta-6-map-guide)
 ---
 
-## Pre-Orders
+### Pre-Orders
 
 **Q: When can I pre-order GTA 6?**
 A: Pre-orders opened **June 25, 2026.**

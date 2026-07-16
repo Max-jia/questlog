@@ -28,7 +28,7 @@ sources:
 
 ![Subnautica 2 story walkthrough](/images/subnautica-2/screenshots/screenshot-06.jpg)
 
-## Prologue: Crash Landing (0-30m)
+### Prologue: Crash Landing (0-30m)
 
 You crash-land on Proteus. Your Lifepod is damaged. NOA, your AI assistant, comes online.
 
@@ -40,7 +40,7 @@ You crash-land on Proteus. Your Lifepod is damaged. NOA, your AI assistant, come
 
 ---
 
-## Chapter 1: First Steps (0-50m)
+### Chapter 1: First Steps (0-50m)
 
 NOA directs you to investigate the Welcome Center.
 
@@ -53,7 +53,7 @@ NOA directs you to investigate the Welcome Center.
 
 ---
 
-## Chapter 2: Black Box Recovery, Anita & Chap (20-80m)
+### Chapter 2: Black Box Recovery, Anita & Chap (20-80m)
 
 NOA detects two Black Box signals from crashed escape pods.
 
@@ -75,7 +75,7 @@ NOA detects two Black Box signals from crashed escape pods.
 
 ---
 
-## Chapter 3: The Tadpole (20-80m)
+### Chapter 3: The Tadpole (20-80m)
 
 You need a vehicle to progress further and deeper.
 
@@ -87,7 +87,7 @@ You need a vehicle to progress further and deeper.
 
 ---
 
-## Chapter 4: Wander & Quaker Black Boxes (50-100m)
+### Chapter 4: Wander & Quaker Black Boxes (50-100m)
 
 With the Tadpole, you can now reach deeper Black Boxes.
 
@@ -107,7 +107,7 @@ With the Tadpole, you can now reach deeper Black Boxes.
 
 ---
 
-## Chapter 5: Preparing for Karakorum (50-150m)
+### Chapter 5: Preparing for Karakorum (50-150m)
 
 Before entering Karakorum, you need these:
 
@@ -121,7 +121,7 @@ Before entering Karakorum, you need these:
 
 ---
 
-## Chapter 6: Entering Karakorum (100-200m)
+### Chapter 6: Entering Karakorum (100-200m)
 
 The trench connecting Coral Gardens to Karakorum is **east of the Graveyard**. A Collector Leviathan patrols it.
 
@@ -133,7 +133,7 @@ The trench connecting Coral Gardens to Karakorum is **east of the Graveyard**. A
 
 ---
 
-## Chapter 7: Observatory & Research Outpost (140m)
+### Chapter 7: Observatory & Research Outpost (140m)
 
 Your first stop in Karakorum.
 
@@ -146,7 +146,7 @@ Your first stop in Karakorum.
 
 ---
 
-## Chapter 8: The Power Plant (200m+)
+### Chapter 8: The Power Plant (200m+)
 
 The main story objective in the current Early Access build.
 
@@ -160,7 +160,7 @@ The main story objective in the current Early Access build.
 
 ---
 
-## Chapter 9: Metal Farms, Current Endgame (300m+)
+### Chapter 9: Metal Farms, Current Endgame (300m+)
 
 The deepest accessible zone. Requires Depth Module Mk. 1 (minimum).
 
@@ -183,7 +183,7 @@ The deepest accessible zone. Requires Depth Module Mk. 1 (minimum).
 - [leviathan survival](/games/subnautica-2/subnautica-2-leviathan-survival)
 ---
 
-## What's Next?
+### What's Next?
 
 Subnautica 2 is in **Early Access**. The story currently ends at the Power Plant repair and Metal Farms exploration. Future updates will expand the map deeper and continue the narrative.
 

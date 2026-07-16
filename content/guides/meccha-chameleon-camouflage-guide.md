@@ -28,7 +28,7 @@ sources:
     url: "https://www.ign.com/wikis/meccha-chameleon/"
 ---
 
-## The Most Frustrating Thing in Meccha Chameleon
+### The Most Frustrating Thing in Meccha Chameleon
 
 ![The Most Frustrating Thing in Meccha Chameleon](/images/meccha-chameleon/screenshot-07.jpg)
 
@@ -125,7 +125,7 @@ Color matching is 20% of camouflage. The other 80%, roughness, metallic, shadows
 
 ---
 
-## Quick Checklist Before Every Round
+### Quick Checklist Before Every Round
 
 Use this mental checklist during prep phase:
 

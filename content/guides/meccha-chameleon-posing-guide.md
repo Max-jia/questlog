@@ -26,7 +26,7 @@ sources:
     url: "https://www.neonlightsmedia.com/blog/meccha-chameleon-advanced-hider-guide"
 ---
 
-## Why Posing Matters More Than Painting
+### Why Posing Matters More Than Painting
 
 ![Why Posing Matters More Than Painting](/images/meccha-chameleon/screenshot-09.jpg)
 
@@ -37,13 +37,13 @@ Posing is not optional, it's the #1 factor in whether you survive.
 
 ---
 
-## How the Pose System Works
+### How the Pose System Works
 
 Press **R** to open the pose wheel. Hover over a pose and click to lock it in. You can change poses as many times as you want during prep phase. Once locked, your character holds that pose for the entire hunt phase (unless you move).
 
 ---
 
-## Every Pose, When to Use It
+### Every Pose, When to Use It
 
 ### Starfish (Lie Flat)
 **What it looks like:** Arms and legs spread, body completely flat.
@@ -94,7 +94,7 @@ Press **R** to open the pose wheel. Hover over a pose and click to lock it in. Y
 
 ---
 
-## The ESC Menu Trick (Advanced)
+### The ESC Menu Trick (Advanced)
 
 Here's a mechanic most players don't know about:
 
@@ -111,7 +111,7 @@ This trick works because the game stops rendering your character normally when t
 
 ---
 
-## Matching Poses to Your Hiding Spot, Flowchart
+### Matching Poses to Your Hiding Spot, Flowchart
 
 ```
 What shape is your hiding surface?
@@ -126,7 +126,7 @@ What shape is your hiding surface?
 
 ---
 
-## The Most Common Posing Mistakes
+### The Most Common Posing Mistakes
 
 | Mistake | Why It Fails |
 |---------|-------------|
@@ -138,7 +138,7 @@ What shape is your hiding surface?
 
 ---
 
-## Quick Pose Selection Guide by Map
+### Quick Pose Selection Guide by Map
 
 | Map | Recommended Poses |
 |-----|------------------|

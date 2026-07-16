@@ -26,7 +26,7 @@ sources:
 
 ![Black Flag legendary ships](/images/ac-black-flag/screenshots/screenshot-04.jpg)
 
-## The four Legendary Ships
+### The four Legendary Ships
 
 | Ship | Location | Difficulty |
 |------|----------|:---:|
@@ -59,7 +59,7 @@ Strategy: disable Fearless first (it is faster). Use fire barrels and swivel gun
 
 ---
 
-## Fire barrel trick
+### Fire barrel trick
 
 Fire barrels deal massive damage to Legendary Ships. More importantly, Legendary Ships often fire their own fire barrels at you. Shoot those barrels with your swivel gun before they reach you. The explosion damages the enemy ship that fired them. Three hits disables most ships.
 

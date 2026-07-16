@@ -26,13 +26,13 @@ sources:
 
 ![Palworld flying mounts](/images/palworld/screenshots/screenshot-06.jpg)
 
-## Flying changes everything
+### Flying changes everything
 
 The moment you get your first flying mount, the game stops being about walking places and starts being about going wherever you want. Get Nitewing at level 15. Everything before that is the tutorial.
 
 ---
 
-## Every flying Pal and when you can ride them
+### Every flying Pal and when you can ride them
 
 | Pal | Saddle Level | Speed | Notes |
 |-----|:---:|:---:|-------|
@@ -47,7 +47,7 @@ The moment you get your first flying mount, the game stops being about walking p
 
 ---
 
-## How to catch Nitewing at level 15
+### How to catch Nitewing at level 15
 
 Nitewing spawns west of Small Settlement in the starting region. It is around level 15 to 20. Bring 20 or 30 Pal Spheres. Nitewing fights back hard and has a low catch rate.
 
@@ -55,7 +55,7 @@ Throw a Pal out to tank hits. Dodge its aerial attacks. When its health is low a
 
 ---
 
-## After Nitewing, aim for Vanwyrm or Faleris
+### After Nitewing, aim for Vanwyrm or Faleris
 
 Nitewing gets you airborne. Vanwyrm at level 21 is a real upgrade. Faleris at level 38 is the fastest non-legendary flyer and worth the grind. Jetragon is the endgame goal but requires level 50 and a serious fight.
 

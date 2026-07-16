@@ -26,7 +26,7 @@ sources:
     url: "https://primagames.com/featured/meccha-chameleon-is-so-popular-even-its-steam-community-workshop-page-is-crashing"
 ---
 
-## Connection & Lobby Issues
+### Connection & Lobby Issues
 
 ![Connection & Lobby Issues](/images/meccha-chameleon/screenshot-09.jpg)
 
@@ -54,7 +54,7 @@ sources:
 
 ---
 
-## Performance Issues
+### Performance Issues
 
 ### Low FPS / Stuttering
 **Full guide:** See our [FPS Boost Guide](/games/meccha-chameleon/meccha-chameleon-fps-optimization).
@@ -73,7 +73,7 @@ sources:
 
 ---
 
-## Workshop & Custom Maps
+### Workshop & Custom Maps
 
 ### Workshop Page Crashing / Not Loading
 **Symptoms:** The Steam Workshop page for Meccha Chameleon shows an error or infinite loading.
@@ -93,7 +93,7 @@ sources:
 
 ---
 
-## Gameplay Bugs
+### Gameplay Bugs
 
 ### Eyedropper Picks Wrong Color
 **Symptoms:** You sample a color from a surface, but the color it picks is different.
@@ -117,7 +117,7 @@ sources:
 
 ---
 
-## Audio & Voice Chat
+### Audio & Voice Chat
 
 ### Can't Hear Teammates
 1. Check in-game audio settings, make sure voice chat volume isn't at zero.
@@ -137,6 +137,6 @@ sources:
 - [beginner's guide](/games/meccha-chameleon/meccha-chameleon-beginner-guide)
 ---
 
-## The Developer is a 2-Person Team, Be Patient
+### The Developer is a 2-Person Team, Be Patient
 
 Meccha Chameleon was made by two developers in two months. Bugs are expected, and patches come when they can. Check the Steam Community Hub for developer announcements about upcoming fixes.

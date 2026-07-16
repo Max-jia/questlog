@@ -32,7 +32,7 @@ The dev keeps shipping. Two updates landed in the past week, adding new maps, qu
 
 ---
 
-## Update 2.7.0, Egypt map and random map toggles
+### Update 2.7.0, Egypt map and random map toggles
 
 ### New map: Egypt
 A desert-themed map with pyramids, ruins, and wide open spaces. Early impressions from the community suggest it is one of the harder hiding maps. Lots of flat surfaces, limited clutter. Hiders will need to lean on texture matching and lighting more than usual.
@@ -45,7 +45,7 @@ Furniture in Penguin Hotel now shuffles between rounds. The plushie that was you
 
 ---
 
-## Update 2.6.0, HIKAKIN Museum and alpha controller support
+### Update 2.6.0, HIKAKIN Museum and alpha controller support
 
 ### HIKAKIN Museum collaboration map
 A new map designed with HIKAKIN, a Japanese YouTuber with 19 million subscribers. The museum setting means lots of exhibit displays, glass cases, and curated spaces. Good variety from the usual house and city layouts.
@@ -60,7 +60,7 @@ You can now play with a controller. It is labeled alpha for a reason. Expect bug
 
 ---
 
-## The Scribble Hunt clone controversy
+### The Scribble Hunt clone controversy
 
 A game called Scribble Hunt appeared on Steam and, on the Korean storefront, listed itself as "메챠 카멜레온", the exact Korean name for Meccha Chameleon. Korean players searching for the real game might buy the clone by mistake. It copies the paint-to-hide mechanic but adds prop hunt-style object transformation and gives hunters assault rifles and splat bombs.
 
@@ -68,7 +68,7 @@ No lawsuit has been filed. The Meccha Chameleon dev has not commented publicly. 
 
 ---
 
-## Community anti-cheat vigilantes
+### Community anti-cheat vigilantes
 
 Separate from the clone situation, players are fighting cheaters in creative ways. Some cheaters use auto-paint scripts for instant perfect camouflage. The community response? Players paint visible arrows on the ground pointing at the cheater, sacrificing their own hiding spot to expose them. Petty. Beautiful. Effective.
 

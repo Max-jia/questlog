@@ -26,7 +26,7 @@ sources:
 
 ![Best open world games 2026](/images/gta-6/screenshots/cover.jpg)
 
-## The Year of the Open World
+### The Year of the Open World
 
 2026 is stacked with massive open worlds. Here are the 8 you can't miss, ranked by ambition and playability right now.
 

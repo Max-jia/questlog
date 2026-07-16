@@ -28,7 +28,7 @@ sources:
     url: "https://www.polygon.com/meccha-chameleon-custom-maps-best-list/"
 ---
 
-## How to Install Custom Maps (Easy)
+### How to Install Custom Maps (Easy)
 
 ![How to Install Custom Maps (Easy)](/images/meccha-chameleon/screenshot-06.jpg)
 
@@ -47,7 +47,7 @@ sources:
 
 ---
 
-## How to Play Custom Maps
+### How to Play Custom Maps
 
 1. Create or join a lobby.
 2. In the pre-match lobby, open the **Configure Map** menu.
@@ -59,7 +59,7 @@ sources:
 
 ---
 
-## Troubleshooting Custom Maps
+### Troubleshooting Custom Maps
 
 | Problem | Fix |
 |---------|-----|
@@ -71,7 +71,7 @@ sources:
 
 ---
 
-## Top Community Maps
+### Top Community Maps
 
 | Map | Creator | Description |
 |-----|---------|-------------|
@@ -83,7 +83,7 @@ sources:
 
 ---
 
-## How to Create Your Own Maps (Overview)
+### How to Create Your Own Maps (Overview)
 
 Creating maps requires **Unreal Engine 5.6.1** and the official **Meccha Chameleon Mod Kit**. This is not beginner-friendly, you need basic Unreal Engine knowledge.
 
@@ -111,7 +111,7 @@ For a detailed step-by-step, see the official Mod Kit documentation on GitHub.
 - [play with friends](/games/meccha-chameleon/meccha-chameleon-multiplayer-guide)
 ---
 
-## Pro Tips for Custom Map Players
+### Pro Tips for Custom Map Players
 
 - Subscribe to 5-10 maps at a time, not hundreds. Each map takes storage space.
 - Check the "Last Updated" date before subscribing. Outdated maps may have bugs.

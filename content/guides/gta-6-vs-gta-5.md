@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 vs GTA 5, Vice City Beach](/images/gta-6/screenshots/vice-city-beach.jpg)
 
-## At a Glance
+### At a Glance
 
 | Feature | GTA 5 (2013) | GTA 6 (2026) |
 |---------|-------------|-------------|

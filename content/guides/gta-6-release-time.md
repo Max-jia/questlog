@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 Lucia Caminos portrait](/images/gta-6/screenshots/lucia.jpg)
 
-## The Short Answer
+### The Short Answer
 
 GTA 6 unlocks at **midnight local time** in each region on **November 19, 2026.** New Zealand gets it first. Hawaii gets it last. Here's exactly when the game unlocks where you are.
 

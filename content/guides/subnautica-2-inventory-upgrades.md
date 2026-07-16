@@ -30,7 +30,7 @@ You start with barely enough space to carry the basics. Two dives and your inven
 
 ---
 
-## The Endurance Adaptation: more slots
+### The Endurance Adaptation: more slots
 
 Endurance adds inventory slots and quickbar slots. It comes from three locations, not one. You need to visit them all:
 
@@ -42,25 +42,25 @@ Each visit grants additional slots. Do not stop after the first one. Go back for
 
 ---
 
-## Dexterity: faster tools, more efficiency
+### Dexterity: faster tools, more efficiency
 
 Nahema's Lab in the Hydrothermal Vents. You need the Sonic Resonator to clear the path, and Heat Tolerance helps. Dexterity speeds up tool animations. Faster harvesting means more resources per dive, which means fewer trips.
 
 ---
 
-## The personal storage module
+### The personal storage module
 
 The 1.1 Adaptive Measures update added a new buildable: a personal storage unit not connected to fabricators. Build one in your base. Drop items you want to keep separate from the crafting pool. No more accidental Titanium consumption because the fabricator auto-pulled from your main locker.
 
 ---
 
-## Co-op inventory: just drop it
+### Co-op inventory: just drop it
 
 Character inventories are not shared in co-op. There is no trade window and no shared stash. To give something to a teammate, drop it on the ground. They pick it up. That is the system. Labeled lockers in your base are the closest thing to shared storage.
 
 ---
 
-## What to carry on a standard expedition
+### What to carry on a standard expedition
 
 Hotbar slots (1-5):
 1. Survival Multitool

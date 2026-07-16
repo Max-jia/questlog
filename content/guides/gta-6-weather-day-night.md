@@ -30,7 +30,7 @@ GTA 6 is bringing the most dynamic weather system Rockstar has ever built. Hurri
 
 ---
 
-## Day/night cycle confirmed
+### Day/night cycle confirmed
 
 GTA 6 has a full day/night cycle, shown extensively in both trailers. Vice City at sunset looks dramatically different from Vice City at 2 AM. Specific time-of-day effects confirmed:
 
@@ -41,7 +41,7 @@ GTA 6 has a full day/night cycle, shown extensively in both trailers. Vice City 
 
 ---
 
-## Dynamic weather confirmed
+### Dynamic weather confirmed
 
 Trailer footage and official materials confirm multiple weather states:
 
@@ -56,7 +56,7 @@ Grassrivers swamps and the Everglades-inspired wetlands show dense morning fog. 
 
 ---
 
-## How weather affects gameplay
+### How weather affects gameplay
 
 This is the part that separates GTA 6 from GTA V. In GTA V, weather was visual. In GTA 6, it changes how the game plays:
 
@@ -69,7 +69,7 @@ This is the part that separates GTA 6 from GTA V. In GTA V, weather was visual. 
 
 ---
 
-## What we still do not know
+### What we still do not know
 
 Rockstar has not confirmed:
 - Whether hurricanes are scripted story events or random occurrences

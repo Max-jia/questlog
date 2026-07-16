@@ -31,7 +31,7 @@ sources:
 
 ![GTA 6 Official Cover Art](/images/gta-6/screenshots/cover.jpg)
 
-## At a Glance
+### At a Glance
 
 | Detail | Info |
 |--------|------|
@@ -45,7 +45,7 @@ sources:
 
 ---
 
-## Release Timeline
+### Release Timeline
 
 | Date | Event |
 |------|-------|
@@ -57,7 +57,7 @@ sources:
 
 ---
 
-## Pricing & Editions
+### Pricing & Editions
 
 ### Standard Edition, $79.99
 The base game. No extras.
@@ -82,7 +82,7 @@ Includes everything in the Standard Edition plus:
 
 ---
 
-## The Protagonists
+### The Protagonists
 
 ### Jason Duval
 Former soldier who grew up around criminals. After the army, he worked for drug runners in the Florida Keys. First main-series protagonist with a military background, expect tactical combat abilities.
@@ -94,7 +94,7 @@ Former soldier who grew up around criminals. After the army, he worked for drug 
 
 ---
 
-## The Map: State of Leonida
+### The Map: State of Leonida
 
 Leonida is a fictional version of modern-day Florida, much larger and denser than GTA V's Los Santos.
 
@@ -123,7 +123,7 @@ Ocean Beach, South Beach, Little Havana, Little Haiti, Stockyard (Wynwood-style 
 - [which edition to pre-order](/games/gta-6/gta-6-preorder-guide)
 ---
 
-## Key Gameplay has
+### Key Gameplay has
 
 - **Dual protagonist switching**, like GTA V, but more intimate (2 characters, not 3)
 - **Living open world**, NPCs have daily routines, random events, interactive businesses

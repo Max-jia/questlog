@@ -26,7 +26,7 @@ sources:
 
 ![Subnautica 2 blueprints](/images/subnautica-2/screenshots/screenshot-04.jpg)
 
-## Essential Blueprints, Where to Find Everything
+### Essential Blueprints, Where to Find Everything
 
 | Blueprint | Location | Depth | Scans Needed |
 |-----------|----------|-------|-------------|

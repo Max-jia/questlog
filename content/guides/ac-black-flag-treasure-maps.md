@@ -26,7 +26,7 @@ sources:
 
 ![Black Flag treasure maps](/images/ac-black-flag/screenshots/screenshot-02.jpg)
 
-## How treasure maps work
+### How treasure maps work
 
 You find a map. It shows a drawing of a location somewhere in the Caribbean. You match the drawing to the actual location. You dig. The treasure spawns. 22 of these exist.
 
@@ -34,7 +34,7 @@ The maps themselves are found on corpses, in chests, or bought from vendors. The
 
 ---
 
-## Key treasure locations
+### Key treasure locations
 
 ### Misteriosa Island (100% collectibles)
 Small island southwest of Kingston. Contains Mayan temple ruins. What is here:

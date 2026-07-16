@@ -26,7 +26,7 @@ sources:
     url: "https://www.lagofast.com/en/blog/meccha-chameleon-beginner-guide/"
 ---
 
-## Movement
+### Movement
 
 ![Movement](/images/meccha-chameleon/screenshot-10.jpg)
 
@@ -42,7 +42,7 @@ sources:
 
 ---
 
-## Camera
+### Camera
 
 | Key | Action |
 |-----|--------|
@@ -54,7 +54,7 @@ sources:
 
 ---
 
-## Painting & Camouflage (Hider)
+### Painting & Camouflage (Hider)
 
 | Key | Action |
 |-----|--------|
@@ -67,7 +67,7 @@ sources:
 
 ---
 
-## Clones
+### Clones
 
 | Key | Action |
 |-----|--------|
@@ -78,7 +78,7 @@ Clones have a 30-second cooldown. Max 2 at a time. If a hunter shoots your clone
 
 ---
 
-## Seeker (Hunter)
+### Seeker (Hunter)
 
 | Key | Action |
 |-----|--------|
@@ -88,7 +88,7 @@ Clones have a 30-second cooldown. Max 2 at a time. If a hunter shoots your clone
 
 ---
 
-## Communication & Misc
+### Communication & Misc
 
 | Key | Action |
 |-----|--------|
@@ -98,7 +98,7 @@ Clones have a 30-second cooldown. Max 2 at a time. If a hunter shoots your clone
 
 ---
 
-## Quick Reference Cards
+### Quick Reference Cards
 
 ### Hider Essentials (6 keys to memorize)
 
@@ -130,7 +130,7 @@ Clones have a 30-second cooldown. Max 2 at a time. If a hunter shoots your clone
 - [clone mechanics](/games/meccha-chameleon/meccha-chameleon-clone-guide)
 ---
 
-## Pro Tips
+### Pro Tips
 
 - **Lower mouse sensitivity** for precise eyedropper sampling and smoother seeker scanning.
 - Rebind F, R, and Space to easily reachable keys near WASD if your hand size makes the defaults awkward.

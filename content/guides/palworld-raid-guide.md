@@ -30,7 +30,7 @@ Raids in 1.0 are not the random enemy attacks from Early Access. They are struct
 
 ---
 
-## Raid mechanics
+### Raid mechanics
 
 Raids trigger at your base. Enemies attack in waves. Each wave is stronger than the last. You defend until all waves are cleared or your Palbox is destroyed.
 
@@ -38,7 +38,7 @@ Between waves you get a short window to heal Pals, repair structures, and reposi
 
 ---
 
-## Best raid team composition
+### Best raid team composition
 
 Bring Pals with these roles:
 - 2 tanks (high HP, taunt or aggro skills)
@@ -49,7 +49,7 @@ Spread elements across your damage dealers. Waves bring mixed types. If all your
 
 ---
 
-## Raid base setup
+### Raid base setup
 
 Build a dedicated raid base. This is not your main base. It is a combat outpost.
 
@@ -64,7 +64,7 @@ Place the base somewhere flat with good sightlines. Hills and forests block your
 
 ---
 
-## Top raid Pals
+### Top raid Pals
 
 | Pal | Role | Why |
 |-----|------|-----|

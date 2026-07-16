@@ -31,7 +31,7 @@ sources:
 
 ![Subnautica 2 underwater exploration](/images/subnautica-2/screenshots/screenshot-01.jpg)
 
-## You Just Crashed on Proteus. Now What?
+### You Just Crashed on Proteus. Now What?
 
 You crashed on an alien ocean planet. No food. No tools. No idea what's down there. Follow these steps, in this exact order, and you'll be running a self-sufficient underwater base within hours.
 
@@ -121,7 +121,7 @@ Each Black Box contains:
 
 ---
 
-## Early Game Progression Summary
+### Early Game Progression Summary
 
 | Priority | Action |
 |----------|--------|
@@ -145,7 +145,7 @@ Each Black Box contains:
 - [where to find every resource](/games/subnautica-2/subnautica-2-resources-guide)
 ---
 
-## Common Beginner Mistakes
+### Common Beginner Mistakes
 
 - **Not crafting a Scanner early.** You can't unlock blueprints without scanning.
 - **Eating fish before getting Digestion.** You'll get sick and lose health.

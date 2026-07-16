@@ -24,7 +24,7 @@ sources:
 
 ![GTA 6 Cal Hampton, conspiracy theorist and intel source](/images/gta-6/screenshots/cal-hampton.jpg)
 
-## Will GTA 6 Have Cheat Codes?
+### Will GTA 6 Have Cheat Codes?
 
 **Almost yes.** Cheat codes have been in every mainline GTA since GTA III (2001). Rockstar treats them as a tradition, they disable achievements/trophies so they don't affect progression, and they're purely for fun.
 

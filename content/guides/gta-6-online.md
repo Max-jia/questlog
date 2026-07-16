@@ -26,7 +26,7 @@ sources:
 
 ![GTA 6 Grassrivers swampland](/images/gta-6/screenshots/grassrivers.jpg)
 
-## Is GTA 6 Online at Launch?
+### Is GTA 6 Online at Launch?
 
 **Short answer: Probably not on day one.** Rockstar has described GTA 6 as a single-player experience at launch. GTA V followed the same pattern, story mode launched September 17, 2013. GTA Online launched two weeks later on October 1.
 

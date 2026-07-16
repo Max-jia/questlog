@@ -31,7 +31,7 @@ Black Flag Resynced is a full remake, not a remaster. The combat is overhauled. 
 
 ---
 
-## Upgrade the Jackdaw in this order
+### Upgrade the Jackdaw in this order
 
 Do not spread your resources across every upgrade. Prioritize:
 
@@ -44,25 +44,25 @@ Develop your hideout at Great Inagua to unlock advanced upgrade plans. The Elite
 
 ---
 
-## Board ships. Do not sink them.
+### Board ships. Do not sink them.
 
 Sinking a ship gives you half the loot. Boarding gives you: full resources, crew replenishment, ship repairs, and the option to add the ship to Kenway's Fleet for passive income. Board everything you can.
 
 ---
 
-## Eagle Vision is not optional
+### Eagle Vision is not optional
 
 Press the button. Use it constantly. It marks enemies in red, objectives in green, and interactable objects in yellow. Hold the aim button (RT/R2) on an enemy to tag them permanently through walls. This is the single most underused mechanic by new players.
 
 ---
 
-## Hunt animals for upgrades
+### Hunt animals for upgrades
 
 Health upgrades, ammo pouches, and holster slots all require animal skins. Hunting is the cheapest way to get these materials. Do not buy what you can hunt on the first island you visit.
 
 ---
 
-## Stealth basics
+### Stealth basics
 
 - Bushes and haystacks hide you completely.
 - Watch for the blue flash before an enemy attacks. Press the parry button during the flash for an instant counter-kill.
@@ -70,13 +70,13 @@ Health upgrades, ammo pouches, and holster slots all require animal skins. Hunti
 
 ---
 
-## Save Legendary Ships for endgame
+### Save Legendary Ships for endgame
 
 There are four Legendary Ships. They will destroy a stock Jackdaw. Fully upgrade your ship before attempting any of them. Recruit the three new officers, especially Tobias Smith who gives you an extra broadside volley.
 
 ---
 
-## Collect Mayan Stelae early
+### Collect Mayan Stelae early
 
 Mayan Stelae are scattered across small islands. Collecting all of them unlocks the Mayan Armor, which gives you bullet resistance. The puzzle solutions are the same as the original game. Start collecting early and you will have the armor by mid-game.
 

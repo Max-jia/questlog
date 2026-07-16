@@ -26,7 +26,7 @@ sources:
 
 ![Meccha Chameleon best settings](/images/meccha-chameleon/screenshot-07.jpg)
 
-## Mouse Settings, The Most Important Change
+### Mouse Settings, The Most Important Change
 
 Most players use default mouse sensitivity. This is a mistake. to change:
 

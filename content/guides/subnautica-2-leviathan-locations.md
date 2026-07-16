@@ -26,7 +26,7 @@ sources:
 
 ![Subnautica 2 Leviathan locations](/images/subnautica-2/screenshots/screenshot-05.jpg)
 
-## Every Leviathan Spawn, Mapped
+### Every Leviathan Spawn, Mapped
 
 | Leviathan | Threat | Biome | Depth | Patrol Type |
 |-----------|--------|-------|-------|------------|

@@ -30,7 +30,7 @@ You will run out of Pal Fluids. Then you will run out of Oil. Then you will wond
 
 ---
 
-## Pal Fluids
+### Pal Fluids
 
 Used for: Cement, Polymer, some saddles.
 
@@ -38,7 +38,7 @@ Best source: Water Pals. Pengullet, Fuack, Surfent, and anything that swims. The
 
 ---
 
-## High Quality Pal Oil
+### High Quality Pal Oil
 
 Used for: Polymer, weapons, armor.
 
@@ -46,7 +46,7 @@ Best source: Mammorest, Digtoise, and large ground Pals. The desert north of the
 
 ---
 
-## Polymer
+### Polymer
 
 Used for: Advanced weapons, armor, saddles.
 
@@ -54,7 +54,7 @@ Craft it. Do not farm it. Polymer is made at the Production Assembly Line from P
 
 ---
 
-## Carbon Fiber
+### Carbon Fiber
 
 Used for: Endgame weapons and armor.
 
@@ -62,7 +62,7 @@ Craft from Coal or Charcoal at the Improved Furnace. Coal nodes are in the deser
 
 ---
 
-## Cement
+### Cement
 
 Used for: High-tier spheres.
 
@@ -70,7 +70,7 @@ Made from Pal Fluids, Stone, and Bone. You already have Pal Fluids from water Pa
 
 ---
 
-## The fastest farming route
+### The fastest farming route
 
 Start at the western beach for Pal Fluids. Head north to the desert for Oil. Mine Coal nodes on the way back. One loop takes about 15 minutes and gives you enough materials for a full crafting session.
 

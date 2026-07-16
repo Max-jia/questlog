@@ -28,7 +28,7 @@ sources:
 
 ![Subnautica 2 resource gathering](/images/subnautica-2/screenshots/screenshot-01.jpg)
 
-## Resources by Tier
+### Resources by Tier
 
 ### Tier 1, Early Game (Coral Gardens Shallows, 0-30m)
 
@@ -87,7 +87,7 @@ sources:
 
 ---
 
-## Intermediate Crafting Recipes
+### Intermediate Crafting Recipes
 
 ### Ingots (Processor)
 
@@ -133,7 +133,7 @@ sources:
 - [Tadpole upgrades](/games/subnautica-2/subnautica-2-tadpole-guide)
 ---
 
-## Resource Farming Tips
+### Resource Farming Tips
 
 - **Titanium** is the backbone of everything. Always pick up scrap metal. Build a locker for Titanium.
 - **Gold and Sulfur are location-locked.** You must go to Hydrothermal Vents. There is no other source. Plan expeditions.
