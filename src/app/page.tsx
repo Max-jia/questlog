@@ -3,6 +3,7 @@ import Image from "next/image";
 import { getLatestGuides } from "@/lib/content";
 import Newsletter from "@/components/Newsletter";
 import GameBackground from "@/components/GameBackground";
+import HomeGamesGallery from "@/components/HomeGamesGallery";
 import { QuestLogMark } from "@/components/HeroIllustration";
 
 /** SVG icons for stats */
@@ -96,6 +97,17 @@ export default function Home() {
               </div>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* ===== GAMES GALLERY ===== */}
+      <section className="border-b border-border">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 py-16 lg:py-20">
+          <div className="mb-8 text-center">
+            <span className="text-xs font-semibold text-accent uppercase tracking-wider">Explore Games</span>
+            <h2 className="mt-2 text-2xl sm:text-3xl font-bold">Pick Your Adventure</h2>
+          </div>
+          <HomeGamesGallery />
         </div>
       </section>
 
