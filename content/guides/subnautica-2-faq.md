@@ -28,7 +28,7 @@ sources:
 
 ### Getting Started
 
-![Getting Started](/images/subnautica-2/screenshots/screenshot-01.jpg)
+![Getting Started](/images/subnautica-2/screenshots/hero-faq.jpg)
 
 
 **Q: What should I do first?**

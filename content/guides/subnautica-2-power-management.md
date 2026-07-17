@@ -24,7 +24,6 @@ sources:
     url: "https://game8.co/games/Subnautica-2/archives/599329"
 ---
 
-![Subnautica 2 base power systems](/images/subnautica-2/screenshots/screenshot-03.jpg)
 
 ### Power Basics
 

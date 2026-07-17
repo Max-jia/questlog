@@ -26,7 +26,6 @@ sources:
     url: "https://vgtimes.com/gaming-news/160621-subnautica-2-tops-5-million-sales-in-early-access-as-update-1.1-goes-live.html"
 ---
 
-![Subnautica 2 Adaptive Measures Update](/images/subnautica-2/screenshots/screenshot-02.jpg)
 
 Subnautica 2 got its first major Early Access update on July 8. It's called Adaptive Measures and it touches a lot, Biomods, creature AI, base quality-of-life stuff. The game also passed 5 million sales, which happened quietly sometime in June and is kind of insane for a game that launched in mid-May.
 

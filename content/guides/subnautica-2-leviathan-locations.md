@@ -24,7 +24,7 @@ sources:
     url: "https://game8.co/games/Subnautica-2/archives/599150"
 ---
 
-![Subnautica 2 Leviathan locations](/images/subnautica-2/screenshots/screenshot-05.jpg)
+![Subnautica 2 Leviathan locations](/images/subnautica-2/screenshots/hero-leviathan-locations.jpg)
 
 ### Every Leviathan Spawn, Mapped
 

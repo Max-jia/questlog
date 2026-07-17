@@ -28,7 +28,7 @@ sources:
     url: "https://gamewith.net/subnautica-2/75820"
 ---
 
-![Subnautica 2 deep sea biomes](/images/subnautica-2/screenshots/screenshot-02.jpg)
+![Subnautica 2 deep sea biomes](/images/subnautica-2/screenshots/hero-biomes-creatures.jpg)
 
 ### Proteus Map, Two Major Regions
 

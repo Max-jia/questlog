@@ -24,7 +24,6 @@ sources:
     url: "https://game8.co/games/Subnautica-2/archives/598742"
 ---
 
-![Subnautica 2 tips](/images/subnautica-2/screenshots/screenshot-01.jpg)
 
 Look, I get it. The game throws you into an alien ocean with zero guidance and expects you to figure everything out. I've made every mistake on this list. Some of them multiple times. Here's what to stop doing. ---
 

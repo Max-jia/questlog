@@ -26,7 +26,6 @@ sources:
     url: "https://dropreference.com/en/blog/guide/subnautica-2-guide-improvements-tadpole-tools-equipment-2026"
 ---
 
-![Subnautica 2 Tadpole vehicle](/images/subnautica-2/screenshots/screenshot-04.jpg)
 
 ### What Is the Tadpole?
 

@@ -28,7 +28,7 @@ sources:
     url: "https://www.eurogamer.net/best-subnautica-2-base-locations"
 ---
 
-![Subnautica 2 underwater base building](/images/subnautica-2/screenshots/screenshot-03.jpg)
+![Subnautica 2 underwater base building](/images/subnautica-2/screenshots/hero-base-building.jpg)
 
 ### Why Build a Base?
 

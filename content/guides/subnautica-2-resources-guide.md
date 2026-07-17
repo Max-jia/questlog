@@ -26,7 +26,6 @@ sources:
     url: "https://www.neoseeker.com/subnautica-2/Crafting_Modules"
 ---
 
-![Subnautica 2 resource gathering](/images/subnautica-2/screenshots/screenshot-01.jpg)
 
 ### Resources by Tier
 

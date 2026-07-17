@@ -29,7 +29,7 @@ sources:
     url: "https://gamewith.net/subnautica-2/75772"
 ---
 
-![Subnautica 2 underwater exploration](/images/subnautica-2/screenshots/screenshot-01.jpg)
+![Subnautica 2 underwater exploration](/images/subnautica-2/screenshots/hero-beginner-guide.jpg)
 
 ### You Just Crashed on Proteus. Now What?
 

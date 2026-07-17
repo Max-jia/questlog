@@ -24,7 +24,6 @@ sources:
     url: "https://gamerant.com/"
 ---
 
-![Best survival games 2026](/images/subnautica-2/screenshots/screenshot-02.jpg)
 
 ### If You Love Subnautica 2, Play These Next
 

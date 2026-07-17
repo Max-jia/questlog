@@ -24,7 +24,7 @@ sources:
     url: "https://gamerant.com/subnautica-2-beginner-tips/"
 ---
 
-![Subnautica 2 deep sea exploration](/images/subnautica-2/screenshots/screenshot-02.jpg)
+![Subnautica 2 deep sea exploration](/images/subnautica-2/screenshots/hero-exploration-guide.jpg)
 
 ### There's No Map. Here's How to Not Get Lost.
 

@@ -24,7 +24,6 @@ sources:
     url: "https://game8.co/games/Subnautica-2/archives/598742"
 ---
 
-![Subnautica 2 gameplay tips](/images/subnautica-2/screenshots/screenshot-04.jpg)
 
 ### Base & Storage
 
