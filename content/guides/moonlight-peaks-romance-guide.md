@@ -1,6 +1,6 @@
 ---
 title: "Moonlight Peaks Romance Guide: Best Gifts for Every Romanceable NPC"
-excerpt: "Complete romance guide for Moonlight Peaks. Best gifts for all 24 romanceable NPCs — werewolves, witches, mermaids, and humans. Birthday schedules, heart event triggers, and marriage requirements."
+excerpt: "Complete romance guide for Moonlight Peaks. Best gifts for all 24 romanceable NPCs; werewolves, witches, mermaids, and humans. Birthday schedules, heart event triggers, and marriage requirements."
 game: moonlight-peaks
 gameName: "Moonlight Peaks"
 date: "2026-07-18"
@@ -10,7 +10,7 @@ verified: verified
 gameVersion: "1.0"
 tldr:
   - "Every romance candidate has a loved gift, a liked gift, and a hated gift. Giving a hated gift once sets you back 2 hearts. Do not guess."
-  - "Birthdays multiply gift points by 5x. Save your best items for birthdays — one loved birthday gift jumps you from 2 hearts to 6 hearts instantly."
+  - "Birthdays multiply gift points by 5x. Save your best items for birthdays; one loved birthday gift jumps you from 2 hearts to 6 hearts instantly."
   - "You need 10 hearts and a Moonstone Ring (crafted from 1 Moonstone + 2 Silver Bars) to propose marriage."
 tags:
   - Romance
@@ -37,9 +37,9 @@ Moonlight Peaks has about two dozen romanceable NPCs spanning werewolves, witche
 | Location (10PM-2AM) | The Howling Wolf Tavern |
 | **Loves** | Rare Meat (hunt deer), Silver Fang Necklace (crafted) |
 | Likes | Any meat dish, Wolfsbane flowers |
-| **Hates** | Silver Bars (it burns him — literally, he takes damage) |
+| **Hates** | Silver Bars (it burns him; literally, he takes damage) |
 
-**Heart events**: The Level 5 event involves a full-moon hunt together. The Level 8 event reveals his backstory as a former Templar hunter. Bring a healing potion to the Level 5 event — there is a combat sequence.
+**Heart events**: The Level 5 event involves a full-moon hunt together. The Level 8 event reveals his backstory as a former Templar hunter. Bring a healing potion to the Level 5 event; there is a combat sequence.
 
 ### Luna Grey (Female)
 
@@ -95,7 +95,7 @@ Moonlight Peaks has about two dozen romanceable NPCs spanning werewolves, witche
 | Likes | Any fish, beach forageables |
 | **Hates** | Cooked fish dishes (she only eats raw fish) |
 
-**Heart events**: Nerissa can only be romanced after unlocking Mermaid Cove navigation (part of Family #5 questline). She gives you the Diving Charm at 7 hearts, which lets you breathe underwater indefinitely — useful for pearl farming.
+**Heart events**: Nerissa can only be romanced after unlocking Mermaid Cove navigation (part of Family #5 questline). She gives you the Diving Charm at 7 hearts, which lets you breathe underwater indefinitely; useful for pearl farming.
 
 ### Caspian Rill (Male)
 
@@ -117,13 +117,13 @@ Moonlight Peaks has about two dozen romanceable NPCs spanning werewolves, witche
 
 | Info | Details |
 |------|---------|
-| Birthday | Fall 31 (Halloween — 5x bonus!) |
+| Birthday | Fall 31 (Halloween; 5x bonus!) |
 | Location (10PM-2AM) | Crimson Lounge (VIP vampire club) |
 | **Loves** | Aged Blood Wine (brewed, takes 28 nights), Black Diamond |
 | Likes | Blood Flasks, rare gems |
 | **Hates** | Anything "common" (gifts worth under 100G) |
 
-**Heart events**: Seraphina is a high-society vampire who views farming as beneath her. Your heart events involve proving that a vampire farmer is not an oxymoron. She is the hardest romance in the game — her loved gifts are expensive and time-consuming to craft. High risk, high reward.
+**Heart events**: Seraphina is a high-society vampire who views farming as beneath her. Your heart events involve proving that a vampire farmer is not an oxymoron. She is the hardest romance in the game; her loved gifts are expensive and time-consuming to craft. High risk, high reward.
 
 ### Dorian Graves (Male)
 
@@ -135,7 +135,7 @@ Moonlight Peaks has about two dozen romanceable NPCs spanning werewolves, witche
 | Likes | Any flower, bones (from skeletal enemies in mines) |
 | **Hates** | Brightly colored items ("too cheerful") |
 
-**Heart events**: Dorian is a melancholy graveyard keeper who writes poetry. His Level 5 event involves reading his poetry — you get to choose between encouraging him or playfully teasing him. The choice affects the Level 8 event outcome.
+**Heart events**: Dorian is a melancholy graveyard keeper who writes poetry. His Level 5 event involves reading his poetry; you get to choose between encouraging him or playfully teasing him. The choice affects the Level 8 event outcome.
 
 ---
 
@@ -192,6 +192,6 @@ Moonlight Peaks has about two dozen romanceable NPCs spanning werewolves, witche
 4. Propose during their active hours at their usual location.
 5. Wedding happens automatically 3 nights later.
 
-**Divorce is available** — offer a Forget-Me-Not Potion (crafted from 5 Wolfsbane + 1 Void Essence) to reset the relationship to 0 hearts. This also erases all heart event memories, so the NPC acts as if they never met you.
+**Divorce is available**; offer a Forget-Me-Not Potion (crafted from 5 Wolfsbane + 1 Void Essence) to reset the relationship to 0 hearts. This also erases all heart event memories, so the NPC acts as if they never met you.
 
 ## Related Guides

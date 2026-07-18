@@ -10,7 +10,7 @@ verified: verified
 gameVersion: "1.0"
 tldr:
   - "Frostberries in a greenhouse are the most profitable crop in the game (320G each, grows in 5 nights). Rush the greenhouse by befriending the Witch Coven."
-  - "Draculambs produce Blood Wool every 3 nights (120G). Hellkittens produce Infernal Milk (90G). Both are passive income — buy them as soon as you can afford them."
+  - "Draculambs produce Blood Wool every 3 nights (120G). Hellkittens produce Infernal Milk (90G). Both are passive income; buy them as soon as you can afford them."
   - "Layout matters. Place your coffin in the center of your farm grid so you never have to walk more than 10 seconds to safety at 2:30 AM."
 tags:
   - Farming
@@ -67,7 +67,7 @@ Farming in Moonlight Peaks happens exclusively at night, uses enchanted tools fo
 
 **Best fall crop**: Vampire Vine. Highest profit per night and required for the Transformation Elixir (unlocks wolf form).
 
-### Winter (28 Nights) — Greenhouse Only
+### Winter (28 Nights); Greenhouse Only
 
 | Crop | Nights | Harvests per Season | Sell Price | Profit per Night |
 |------|:---:|:---:|:---:|:---:|
@@ -81,12 +81,12 @@ Farming in Moonlight Peaks happens exclusively at night, uses enchanted tools fo
 
 ## How to Unlock the Greenhouse
 
-1. Reach friendship level 5 with any Witch Coven member (recommend: Luna, easiest to befriend — she likes Nightshade tea).
+1. Reach friendship level 5 with any Witch Coven member (recommend: Luna, easiest to befriend; she likes Nightshade tea).
 2. Complete the "Coven's Favor" quest (deliver 20 Ghost Peppers, 10 Vampire Vines, and 5 Moonlit Melons).
 3. The coven builds your greenhouse in 3 nights.
 4. Greenhouse costs: 5,000G + 20 Hardwood + 10 Iron Bars.
 
-The greenhouse lets you grow any crop in any season. With 24 planting spots (fully upgraded), a full Frostberry greenhouse earns 7,680G per 5-night harvest — roughly 43,000G per season.
+The greenhouse lets you grow any crop in any season. With 24 planting spots (fully upgraded), a full Frostberry greenhouse earns 7,680G per 5-night harvest; roughly 43,000G per season.
 
 ---
 
@@ -99,7 +99,7 @@ The greenhouse lets you grow any crop in any season. With 24 planting spots (ful
 | Specter Chicken | 800G | Ghost Egg | Daily | 40G | Used for Ghostly Omelette (speed boost) |
 | Wraith Cow | 3,000G | Eerie Cheese | Every 2 nights | 200G | Best cooking ingredient |
 
-**Rule of thumb**: Buy 2 Draculambs and 2 Hellkittens as soon as you can afford them. Do NOT buy Wraith Cows until you have a fully upgraded barn — they take up 2 animal slots each.
+**Rule of thumb**: Buy 2 Draculambs and 2 Hellkittens as soon as you can afford them. Do NOT buy Wraith Cows until you have a fully upgraded barn; they take up 2 animal slots each.
 
 **Feeding**: All livestock eat Nightshade (50G worth per animal per night). Build a dedicated Nightshade plot near your barn for a self-sustaining feed loop.
 

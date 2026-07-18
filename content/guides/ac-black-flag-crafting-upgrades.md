@@ -54,7 +54,7 @@ Ammo upgrades are luxuries. Craft them last. You can buy ammo from any general s
 
 | Level | Material 1 | Qty | Material 2 | Qty |
 |:-----:|-----------|:---:|------------|:---:|
-| I | Green Turtle Shell | 2 | None | — |
+| I | Green Turtle Shell | 2 | None |; |
 | II | Boar Pelt | 4 | Ocelot Pelt | 3 |
 | III | Humpback Whale Skin | 1 | Jaguar Pelt | 3 |
 
@@ -70,7 +70,7 @@ Ammo upgrades are luxuries. Craft them last. You can buy ammo from any general s
 
 | Level | Material 1 | Qty | Material 2 | Qty | Material 3 | Qty |
 |:-----:|-----------|:---:|------------|:---:|------------|:---:|
-| I | Ocelot Pelt | 2 | Leather | 1 | — | — |
+| I | Ocelot Pelt | 2 | Leather | 1 |; |; |
 | II | Jaguar Pelt | 2 | Leather | 2 | Whale Skin | 1 |
 
 ### Ammo Pouches
@@ -99,7 +99,7 @@ Ocelots spawn on small, tropical islands. The best farming route:
 
 ### Jaguar Pelt
 
-Jaguars spawn in the jungle interiors of larger islands. Best location: the south side of Cuba (near Havana). Each jaguar drops 1 pelt. Use Eagle Vision to spot them in tall grass — they are camouflaged and will ambush you if you are not paying attention.
+Jaguars spawn in the jungle interiors of larger islands. Best location: the south side of Cuba (near Havana). Each jaguar drops 1 pelt. Use Eagle Vision to spot them in tall grass; they are camouflaged and will ambush you if you are not paying attention.
 
 ### Boar Pelt
 
@@ -107,7 +107,7 @@ Boars are everywhere. The forest areas around Great Inagua (your hideout island)
 
 ### Green Turtle Shell
 
-Green turtles spawn on beaches. The easiest farm: the beach on the east side of Great Inagua. Walk the shoreline with Eagle Vision — turtles glow yellow. There are always 3-4 turtles there.
+Green turtles spawn on beaches. The easiest farm: the beach on the east side of Great Inagua. Walk the shoreline with Eagle Vision; turtles glow yellow. There are always 3-4 turtles there.
 
 ### Humpback Whale Skin (Rarest Material)
 
@@ -140,6 +140,6 @@ If you want to minimize hunting time and get fully upgraded as fast as possible:
 3. **Sequence 7** (Havana area): Hunt jaguars in the Cuban jungle. Get 5 pelts. Craft Pistol Holster II and Armor I.
 4. **Sequence 9** (northeast map unlocked): Harpoon 3 humpback whales. Craft Health III, Pistol Holster III, and Armor II.
 
-Total gameplay time for full upgrades: about 2 hours if you combine hunting with mission travel. Do not dedicate a single session to pure farming — hunt while en route to missions and it barely feels like grinding.
+Total gameplay time for full upgrades: about 2 hours if you combine hunting with mission travel. Do not dedicate a single session to pure farming; hunt while en route to missions and it barely feels like grinding.
 
 ## Related Guides

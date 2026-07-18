@@ -31,7 +31,7 @@ The magic system in Moonlight Peaks has two branches: spells (equipped and cast 
 
 ## How to Unlock Magic
 
-1. Reach 3 hearts with any witch NPC (Luna is the easiest — see the Romance Guide).
+1. Reach 3 hearts with any witch NPC (Luna is the easiest; see the Romance Guide).
 2. The NPC gives you a quest: "The Initiate's Trial." Deliver 10 Moonstones (mine levels 20-40) + 5 Glowflowers + 1 Crystal Ball (buy from the traveling merchant for 500G).
 3. Complete the trial. You unlock the Spellbook (spell menu) and Potion Station (crafting table upgrade).
 4. New potions and spells unlock as you raise friendship with individual witches. Each witch teaches different spells.
@@ -62,7 +62,7 @@ Water Rune and Growth Surge are game-changers. With Water Rune, you never touch 
 | Mist Form | 40 | Become invulnerable for 10 seconds | Morgana, 7 hearts |
 | Moonbeam | 50 | AoE holy damage, 100 damage, stuns undead | Morgana, 10 hearts |
 
-Shadow Bolt is your main combat spell. Bat Swarm for groups. Mist Form is the emergency button. Moonbeam is overkill for 95% of combat encounters — only needed for the deep mine boss (level 100+).
+Shadow Bolt is your main combat spell. Bat Swarm for groups. Mist Form is the emergency button. Moonbeam is overkill for 95% of combat encounters; only needed for the deep mine boss (level 100+).
 
 ### Utility Spells
 
@@ -73,7 +73,7 @@ Shadow Bolt is your main combat spell. Bat Swarm for groups. Mist Form is the em
 | Shadow Step | 20 | Teleport 10 meters forward | Corvus, 8 hearts |
 | Bat Form (Enhanced) | 0 | Bat form flight speed doubled | Luna, 10 hearts |
 
-Shadow Step is incredible for mining — teleport past walls to reach ore veins without walking. Enhanced Bat Form makes cross-map travel nearly instant.
+Shadow Step is incredible for mining; teleport past walls to reach ore veins without walking. Enhanced Bat Form makes cross-map travel nearly instant.
 
 ---
 
@@ -88,7 +88,7 @@ Shadow Step is incredible for mining — teleport past walls to reach ore veins 
 | Vampire's Respite | 1 Blood Flask + 2 Ghost Peppers | Restore 50% health + 50% energy |
 | Crimson Elixir | 1 Enhanced Blood Flask + 1 Vampire Vine + 1 Ruby | Full restore (health + energy + mana) |
 
-Stick to Enhanced Blood Flasks for 90% of situations. Crimson Elixirs are boss-fight only — the Ruby ingredient is too rare to use casually.
+Stick to Enhanced Blood Flasks for 90% of situations. Crimson Elixirs are boss-fight only; the Ruby ingredient is too rare to use casually.
 
 ### Transformation & Utility
 
@@ -102,7 +102,7 @@ Stick to Enhanced Blood Flasks for 90% of situations. Crimson Elixirs are boss-f
 
 Alter Ego Elixir is the most versatile potion. Use it to:
 - Enter the Crimson Lounge without Seraphina's invitation
-- Walk through human-only areas during the day (yes, you can briefly go outside during the day with this — 5 real minutes before it wears off)
+- Walk through human-only areas during the day (yes, you can briefly go outside during the day with this; 5 real minutes before it wears off)
 - Talk to NPCs who hate vampires (Olivia, Thomas) without the initial relationship penalty
 
 ---
@@ -127,7 +127,7 @@ Do not forage for ingredients. Foraging is inconsistent and time-wasting. Grow e
 
 ## The Cauldron: Experimental Brewing
 
-The Potion Station has an "Experimental" tab where you can combine random ingredients. This is not random — there is a hidden recipe system. Documented discoveries:
+The Potion Station has an "Experimental" tab where you can combine random ingredients. This is not random; there is a hidden recipe system. Documented discoveries:
 
 | Combo | Result |
 |-------|--------|
@@ -136,7 +136,7 @@ The Potion Station has an "Experimental" tab where you can combine random ingred
 | Frostberry + Icecap Mushroom + Moonstone | Frozen Time (freezes the clock for 1 in-game hour) |
 | Glowflower + Sunfruit + Pearl | Daywalker Potion (walk in sunlight for 5 minutes) |
 
-The Daywalker Potion is the single best discovery — 5 minutes of daytime access lets you visit daytime-only NPCs and shops, which otherwise require the Alter Ego Elixir.
+The Daywalker Potion is the single best discovery; 5 minutes of daytime access lets you visit daytime-only NPCs and shops, which otherwise require the Alter Ego Elixir.
 
 ---
 

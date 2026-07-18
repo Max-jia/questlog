@@ -9,9 +9,9 @@ section: Systems
 verified: verified
 gameVersion: "1.0"
 tldr:
-  - "Frostberry greenhouse farming earns 43,000G per season — the single biggest income source available. Rush the greenhouse as fast as possible."
+  - "Frostberry greenhouse farming earns 43,000G per season; the single biggest income source available. Rush the greenhouse as fast as possible."
   - "Nokturna card games earn 3,000-7,500G per week with zero investment. Do this alongside farming, not instead of it."
-  - "Blood Wool and Infernal Milk from livestock are pure passive income. Buy 2 Draculambs and 2 Hellkittens immediately — they pay for themselves in 18 nights."
+  - "Blood Wool and Infernal Milk from livestock are pure passive income. Buy 2 Draculambs and 2 Hellkittens immediately; they pay for themselves in 18 nights."
 tags:
   - Money
   - Farming
@@ -47,7 +47,7 @@ Money in Moonlight Peaks comes from four sources: farming, livestock, the Noktur
 
 Starting gold: 500G.
 
-**Nights 1-7**: Plant 20 Nightshade. Harvest every 2 nights. Sell all of it (900G per harvest, 5,400G total by night 7). Do not process into potions yet — raw Nightshade is worth more early game when you need cash for seeds and tools.
+**Nights 1-7**: Plant 20 Nightshade. Harvest every 2 nights. Sell all of it (900G per harvest, 5,400G total by night 7). Do not process into potions yet; raw Nightshade is worth more early game when you need cash for seeds and tools.
 
 **Nights 8-14**: Buy 2 Draculambs (1,500G × 2 = 3,000G). Switch crops to Ghost Peppers (highest spring profit). Keep 10 Nightshade for animal feed. By night 14, your daily income is: 280G from Ghost Peppers + 240G from Blood Wool (2 Draculambs, every 3 nights averages to ~80G/day each) = ~520G per night.
 
@@ -59,7 +59,7 @@ Starting gold: 500G.
 
 **Goal**: Save 15,000G for the greenhouse by end of fall.
 
-**Summer**: Plant Moonlit Melons (highest summer profit). Befriend Luna to 5 hearts for the Growth Surge spell (force-harvest melons). With Growth Surge, your effective harvest rate per melon doubles — one melon every 3.5 nights instead of 7.
+**Summer**: Plant Moonlit Melons (highest summer profit). Befriend Luna to 5 hearts for the Growth Surge spell (force-harvest melons). With Growth Surge, your effective harvest rate per melon doubles; one melon every 3.5 nights instead of 7.
 
 **Fall**: Plant Vampire Vines. They require trellises (wood + iron, cheap). Vampire Vines also drop Void Essence as a rare bonus (10% chance per harvest), which sells for 800G.
 
@@ -75,8 +75,8 @@ Starting gold: 500G.
 |--------|:---:|:---:|
 | Frostberry Greenhouse (24 plots) | 1,536G | 10,752G |
 | Draculambs (2) + Hellkittens (2) + Wraith Cow (1) | ~500G | 3,500G |
-| Nokturna (15 NPCs, once per week) | — | 4,500G |
-| Occasional mining runs (gems) | — | 2,000G |
+| Nokturna (15 NPCs, once per week) | | 4,500G |
+| Occasional mining runs (gems) | | 2,000G |
 | **Total** | **~2,036G/night** | **~20,752G/week** |
 
 At this income level, you can buy every upgrade, every recipe, and every decoration in the game within 2 seasons. Money stops mattering. At that point, focus on completing the Seven Families storyline and maxing out relationships.
@@ -93,7 +93,7 @@ As covered in the Beginner Guide, the Nokturna card game earns 200-500G per win 
 3. Fly to Town Square (5 humans) → 1,000-2,500G
 4. Finish at Mermaid Cove (2 mermaids, requires diving) → 400-1,000G
 
-Total Monday haul: 2,600-6,500G in about 2 in-game hours. Spend the rest of the week farming and doing whatever you want — Nokturna is a single-night weekly commitment.
+Total Monday haul: 2,600-6,500G in about 2 in-game hours. Spend the rest of the week farming and doing whatever you want; Nokturna is a single-night weekly commitment.
 
 **The deck to use**: Once you have access to rare cards (buy from the traveling merchant on Fridays), build this deck:
 - 5x Bat Shield (defense, 2 cost)
