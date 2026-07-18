@@ -119,7 +119,7 @@ sources:
 
 2. **文章結尾**統一使用 `## Related Guides`（二級標題），但不放具體連結——由網站前端自動填充。
 
-3. **正文語言**：繁體中文為主，遊戲專有名詞保留英文。不使用純機翻中文。
+3. **正文語言**：**全英文**。這是英文遊戲攻略站，所有內容必須是英文。遊戲專有名詞保留原文。
 
 4. **段落長度**：每個段落 3-5 句。避免超過 8 句的大段落。
 
@@ -161,5 +161,73 @@ sources:
 - ✅ 玩家常犯錯誤／避坑提示
 - ✅ 至少一個表格或結構化資料（對比、排名、清單）
 - ✅ 至少 2 個真實外部來源
-- ❌ 禁止純主觀感想（「這遊戲很好玩」）
-- ❌ 禁止空洞建議（「多練習就會了」）
+- ❌ 禁止純主觀感想
+- ❌ 禁止空洞建議
+
+---
+
+## 八、去 AI 味規則（De-AI Writing Rules）
+
+> AI 生成的攻略有明顯的「機器味」。以下規則確保文章讀起來像真人玩家寫的。
+
+### 禁止的開頭（Throat-Clearing Openers）
+
+這些開頭是 AI 的典型指紋，**一律刪掉**：
+
+- ❌ "In this guide, we will explore..."
+- ❌ "Whether you're a beginner or a seasoned player..."
+- ❌ "Welcome to our comprehensive guide on..."
+- ❌ "If you've been wondering how to..."
+- ❌ "Here is everything you need to know about..."
+
+**正確做法**：直接切入。第一句就是玩家最想知道的東西。
+
+### 禁止的用語和句式
+
+| AI 味 | 替換成 |
+|--------|--------|
+| "It is worth noting that..." | 直接說。不加鋪墊。 |
+| "Additionally..." / "Furthermore..." / "Moreover..." | 不要這些字。新段落直接開始。 |
+| "This makes it an incredibly powerful..." | "This is good because..." |
+| "Keep in mind that..." | 直接陳述事實。 |
+| "Remember that..." | 不要。直接說。 |
+| "In conclusion..." | 永遠不要。 |
+| "As mentioned earlier..." | 不要。讀者不傻。 |
+| "This can be extremely useful when..." | "Use this when..." |
+
+### 段落節奏規則
+
+- **句子長度要變**。不要每句都是 15-20 個單詞。混用短句（3-5 詞）、中句、偶爾長句。
+- **段落長度要變**。有的段落 1 句就夠。有的需要 5 句。不要每段都是 3 句。
+- **刪掉所有「能刪的字」**：
+  - "This can be used to..." → 直接說做什麼
+  - "It is possible to..." → 刪掉
+  - "In order to..." → "To..."
+
+### 像玩家對話，不像教科書
+
+- ✅ 用縮寫：don't / can't / you're / it's
+- ✅ 可以直接說某個建議是爛的："Most guides tell you to upgrade the hull first. That's wrong."
+- ✅ 用具體數字：不是 "deals significant damage"，是 "deals 85 damage per hit"
+- ✅ 假設讀者是聰明人，不需要解釋基本操作
+
+### 口語測試（Read-Aloud Test）
+
+寫完後默讀一遍。如果某句話念出來不像你會在 Discord 上跟朋友說的，改掉它。Wiki 腔和教科書腔是 AI 味的主要來源。
+
+---
+
+## 九、寫作前檢查清單
+
+每篇文章送出前，確認以下全部：
+
+- [ ] 配圖是專屬的（未與同遊戲其他文章重複）
+- [ ] 結構與同遊戲其他文章不同
+- [ ] 全文英文，用縮寫，不用教科書腔
+- [ ] 第一句沒有 "In this guide" / "Welcome to" / "Whether you're"
+- [ ] 沒有任何 "Additionally" / "Furthermore" / "It is worth noting"
+- [ ] 句子長度和段落長度有變化
+- [ ] 至少一個表格或結構化數據
+- [ ] 800+ 字
+- [ ] Frontmatter 11 個欄位全部填寫
+- [ ] TLDR 是 3 點操作建議，不是摘要
