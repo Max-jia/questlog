@@ -32,6 +32,14 @@ export default function Footer() {
               </li>
               <li>
                 <Link
+                  href="/games/moonlight-peaks"
+                  className="text-sm text-text-secondary hover:text-accent transition-colors"
+                >
+                  Moonlight Peaks
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/games/subnautica-2"
                   className="text-sm text-text-secondary hover:text-accent transition-colors"
                 >

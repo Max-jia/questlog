@@ -5,6 +5,7 @@ import Link from "next/link";
 
 const GAMES = [
   { name: "Meccha Chameleon", slug: "meccha-chameleon" },
+  { name: "Moonlight Peaks", slug: "moonlight-peaks" },
   { name: "Subnautica 2", slug: "subnautica-2" },
   { name: "Palworld", slug: "palworld" },
   { name: "AC Black Flag", slug: "ac-black-flag" },

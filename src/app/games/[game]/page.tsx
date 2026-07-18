@@ -65,6 +65,19 @@ const GAME_INFO: Record<string, {
     heroColor: "from-amber-900/20 via-bg-primary to-orange-900/20",
     heroEmoji: "🦊",
   },
+  "moonlight-peaks": {
+    name: "Moonlight Peaks",
+    desc: "A heartwarming supernatural life-sim where you play as a young vampire proving to Count Dracula that compassion is possible — even for the undead. Farm enchanted crops by moonlight, romance werewolves and mermaids, brew potions, and uncover the secrets of the seven families.",
+    stats: [
+      { value: "$30", label: "Price", icon: "💵" },
+      { value: "24", label: "Romance NPCs", icon: "💕" },
+      { value: "4", label: "Seasons", icon: "🌙" },
+      { value: "1", label: "Player", icon: "🎮" },
+    ],
+    tags: ["Farming Sim", "Life Sim", "Vampire", "Romance", "Magic", "Supernatural"],
+    heroColor: "from-purple-900/30 via-bg-primary to-pink-900/20",
+    heroEmoji: "🧛",
+  },
   "ac-black-flag": {
     name: "Assassin's Creed Black Flag Resynced",
     desc: "The legendary pirate adventure returns, rebuilt from the ground up. Sail the Caribbean as Edward Kenway, command the Jackdaw, and hunt legendary ships in this complete remake of the 2013 classic.",
