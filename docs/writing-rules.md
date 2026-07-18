@@ -166,68 +166,90 @@ sources:
 
 ---
 
-## 八、去 AI 味規則（De-AI Writing Rules）
+## 八、去 AI 味規則（De-AI Writing）
 
-> AI 生成的攻略有明顯的「機器味」。以下規則確保文章讀起來像真人玩家寫的。
+> **首選工具：Humanizer 技能**（`/humanizer`）。基於 Wikipedia 編輯團隊從數千篇 AI 文本歸納的 34 個檢測模式。每篇文章寫完後，用 Humanizer 做最終檢查和改寫。
 
-### 禁止的開頭（Throat-Clearing Openers）
+### Humanizer 34 模式速查（按攻略寫作相關性排序）
 
-這些開頭是 AI 的典型指紋，**一律刪掉**：
+#### 🔴 高優先（每篇必查）
 
-- ❌ "In this guide, we will explore..."
-- ❌ "Whether you're a beginner or a seasoned player..."
-- ❌ "Welcome to our comprehensive guide on..."
-- ❌ "If you've been wondering how to..."
-- ❌ "Here is everything you need to know about..."
+| # | 模式 | 遊戲攻略中的典型問題 |
+|---|------|---------------------|
+| 7 | **AI 高頻詞** | additionally, crucial, delve, showcase, pivotal, tapestry, intricate, underscore, vibrant, landscape — 攻略中極常見 |
+| 8 | **逃避 is/are** | "serves as the main damage source" → "is the main damage source" |
+| 1 | **過度強調重要性** | "This upgrade serves as a testament to the game's depth" — 不需要 |
+| 5 | **模糊引用** | "Many players believe..." "Experts recommend..." — 給具體數據 |
+| 3 | **假深度 -ing** | "highlighting its versatility, ensuring optimal performance, reflecting the developer's vision" |
+| 14 | **Em dash 濫用** | 每段都有一個 —。攻略不該像銷售文案 |
+| 20 | **協作口吻殘留** | "I hope this helps!" "Let me know if..." "Here is a guide to..." |
+| 23 | **填充詞** | "In order to" → "To" / "Due to the fact that" → "Because" |
+| 28 | **路標式預告** | "Let's dive in." "Here's what you need to know." — 直接開始 |
+| 13 | **被動語態** | "The fort can be captured by..." → "You capture the fort by..." |
 
-**正確做法**：直接切入。第一句就是玩家最想知道的東西。
+#### 🟡 中優先（終稿檢查）
 
-### 禁止的用語和句式
+| # | 模式 | 遊戲攻略中的典型問題 |
+|---|------|---------------------|
+| 9 | **否定平行結構** | "It's not just about DPS, it's about survivability" → 直接說 |
+| 10 | **三件套** | "This build offers damage, survivability, and mobility" — 避免機械羅列 |
+| 17 | **標題大小寫** | "Best Weapons And Armor Guide" → "Best weapons and armor guide" |
+| 25 | **萬能正向結尾** | "The future looks bright for this build" — 不需要 |
+| 26 | **連字號詞對** | "high-quality," "well-known," "data-driven" — 攻略不需要這些詞 |
+| 6 | **公式化結尾段** | "Despite these challenges, the game continues to thrive" |
+| 4 | **廣告式語言** | "boasts a," "stunning," "breathtaking," "must-play" — 攻略不是宣傳稿 |
+| 27 | **說服權威套話** | "The real question is..." "At its core..." "What really matters..." |
+| 31 | **戲劇化碎片** | "The Jackdaw. Fully upgraded. Unstoppable." — 不要廣告腔 |
+| 32 | **反問自答** | "What makes a good build? It comes down to..." → 直接說 |
+| 34 | **安撫結尾** | "And that's okay." "There's nothing wrong with that." — 讀者不需要 |
 
-| AI 味 | 替換成 |
-|--------|--------|
-| "It is worth noting that..." | 直接說。不加鋪墊。 |
-| "Additionally..." / "Furthermore..." / "Moreover..." | 不要這些字。新段落直接開始。 |
-| "This makes it an incredibly powerful..." | "This is good because..." |
-| "Keep in mind that..." | 直接陳述事實。 |
-| "Remember that..." | 不要。直接說。 |
-| "In conclusion..." | 永遠不要。 |
-| "As mentioned earlier..." | 不要。讀者不傻。 |
-| "This can be extremely useful when..." | "Use this when..." |
+#### 🟢 低優先（可選檢查）
 
-### 段落節奏規則
-
-- **句子長度要變**。不要每句都是 15-20 個單詞。混用短句（3-5 詞）、中句、偶爾長句。
-- **段落長度要變**。有的段落 1 句就夠。有的需要 5 句。不要每段都是 3 句。
-- **刪掉所有「能刪的字」**：
-  - "This can be used to..." → 直接說做什麼
-  - "It is possible to..." → 刪掉
-  - "In order to..." → "To..."
-
-### 像玩家對話，不像教科書
-
-- ✅ 用縮寫：don't / can't / you're / it's
-- ✅ 可以直接說某個建議是爛的："Most guides tell you to upgrade the hull first. That's wrong."
-- ✅ 用具體數字：不是 "deals significant damage"，是 "deals 85 damage per hit"
-- ✅ 假設讀者是聰明人，不需要解釋基本操作
+| # | 模式 | 說明 |
+|---|------|------|
+| 2 | 強行宣稱知名度 | 攻略通常不需要引用媒體報導 |
+| 11 | 同義詞循環 | 同一事物反覆換詞（AI 懲罰重複的副作用） |
+| 12 | 假範圍 | "from basic upgrades to legendary enhancements" |
+| 15 | 粗體濫用 | 攻略表格和標題中過度使用 |
+| 16 | 內聯標題列表 | "**Damage:** High / **Speed:** Medium / **Range:** Short" → 用表格 |
+| 18 | 表情符號 | 攻略中不應出現 🚀💡✅ |
+| 19 | 彎引號 | 用直引號 " 而非 “ |
+| 21 | 知識截止日免責 | "As of 2026..." — 攻略不需要 |
+| 22 | 諂媚語氣 | "Great question!" "You're absolutely right!" |
+| 24 | 過度保守 | "It could potentially be argued that this weapon might be..." |
+| 29 | 片段標題 | 標題後跟一行重複標題的廢話 |
+| 30 | 強行比喻 | "The codebase is a garden" — 攻略不需要比喻 |
+| 33 | 句首口頭禪 | "So..." "Look," "Interestingly," "Notably," |
 
 ### 口語測試（Read-Aloud Test）
 
-寫完後默讀一遍。如果某句話念出來不像你會在 Discord 上跟朋友說的，改掉它。Wiki 腔和教科書腔是 AI 味的主要來源。
+寫完後默讀一遍。念出來不像在 Discord 上跟朋友聊遊戲的，改掉。
+
+### 玩家語氣，不寫教科書
+
+- ✅ 用縮寫：don't / can't / you're / it's / that's
+- ✅ 可以直接否定主流建議："Most guides say upgrade hull first. That's wrong."
+- ✅ 用具體數字："deals 85 damage per hit"，不是 "deals significant damage"
+- ✅ 假設讀者聰明，不解釋基本操作
+- ✅ 混用短句（3-5 詞）、中句、偶爾長句。不要每句一樣長。
+- ✅ 段落長度有變化。有的 1 句夠，有的 5 句。不要都是 3 句。
 
 ---
 
 ## 九、寫作前檢查清單
 
-每篇文章送出前，確認以下全部：
+每篇文章送出前，依序執行：
 
-- [ ] 配圖是專屬的（未與同遊戲其他文章重複）
-- [ ] 結構與同遊戲其他文章不同
-- [ ] 全文英文，用縮寫，不用教科書腔
-- [ ] 第一句沒有 "In this guide" / "Welcome to" / "Whether you're"
-- [ ] 沒有任何 "Additionally" / "Furthermore" / "It is worth noting"
-- [ ] 句子長度和段落長度有變化
-- [ ] 至少一個表格或結構化數據
-- [ ] 800+ 字
-- [ ] Frontmatter 11 個欄位全部填寫
-- [ ] TLDR 是 3 點操作建議，不是摘要
+1. **Humanizer 終檢**：`/humanizer` 跑一遍全文，修正 ≥ 5 處 AI 痕跡
+2. **配圖檢查**：配圖是專屬的（未與同遊戲其他文章重複）
+3. **結構檢查**：結構與同遊戲其他文章不同（參考第一章 13 種模板）
+4. **語言檢查**：
+   - [ ] 全英文，用縮寫
+   - [ ] 第一句不是 "In this guide" / "Welcome to" / "Whether you're"
+   - [ ] 沒有 "Additionally" / "Furthermore" / "It is worth noting" / "In conclusion"
+   - [ ] 沒有 "Let's dive in" / "Here's what you need to know"
+   - [ ] 沒有 em dash 濫用（整篇 ≤ 2 個）
+5. **節奏檢查**：句子長度和段落長度有變化
+6. **深度檢查**：至少一個表格或結構化數據，800+ 字
+7. **格式檢查**：Frontmatter 11 欄位全部填寫，TLDR 是 3 點操作建議
+8. **口語測試**：默讀一遍，像人話嗎？
