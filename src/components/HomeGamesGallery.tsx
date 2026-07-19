@@ -8,6 +8,7 @@ import CircularGallery from "./CircularGallery/CircularGallery";
 // has a cover image at /public/images/<slug>/cover.jpg.
 const GALLERY_GAMES = [
   { slug: "meccha-chameleon", title: "Meccha Chameleon" },
+  { slug: "moonlight-peaks", title: "Moonlight Peaks" },
   { slug: "palworld", title: "Palworld" },
   { slug: "subnautica-2", title: "Subnautica 2" },
   { slug: "gta-6", title: "GTA 6" },
