@@ -82,6 +82,28 @@ const THEMES: Record<string, Theme> = {
     connectDistance: 0,
     direction: "random",
   },
+  "moonlight-peaks": {
+    colors: ["rgba(168,85,247,", "rgba(236,72,153,", "rgba(255,255,255,", "rgba(192,132,252,"],
+    particleCount: 55,
+    sizeRange: [1, 3],
+    speedRange: [0.1, 0.35],
+    opacityRange: [0.03, 0.08],
+    lifeRange: [400, 800],
+    connectParticles: true,
+    connectDistance: 100,
+    direction: "up",
+  },
+  "ac-black-flag": {
+    colors: ["rgba(245,158,11,", "rgba(251,191,36,", "rgba(6,182,212,", "rgba(255,255,255,"],
+    particleCount: 35,
+    sizeRange: [1, 3],
+    speedRange: [0.15, 0.4],
+    opacityRange: [0.03, 0.07],
+    lifeRange: [300, 600],
+    connectParticles: false,
+    connectDistance: 0,
+    direction: "random",
+  },
 };
 
 function createParticle(w: number, h: number, theme: Theme, startFromBottom?: boolean): Particle {
