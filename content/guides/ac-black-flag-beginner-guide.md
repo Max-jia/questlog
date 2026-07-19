@@ -82,6 +82,16 @@ Mayan Stelae are scattered across small islands. Collecting all of them unlocks 
 
 ---
 
+### Common Beginner Mistakes
+
+- **Sinking ships instead of boarding them.** Boarding gives you resources, crew, and ship upgrades. Sinking gives you nothing but a brief fireworks show. Always disable a ship with chain shot, then board.
+- **Upgrading hull before cannons.** A tankier ship doesn't win fights faster. Upgrade cannons first, mortars second. Hull is fourth or fifth priority.
+- **Ignoring Eagle Vision.** This is not a "nice to have." It marks enemies, objectives, and interactables through walls. New players forget it exists. Hold the aim button to tag enemies permanently.
+- **Fighting Legendary Ships with a base-level Jackdaw.** You need Elite hull, cannons, and mortars. All three officers recruited. Minimum 80% ship completion. Go in early and you die in 30 seconds.
+- **Buying animal skins from shops.** Hunting ocelots, iguanas, and deer on the first island costs nothing and gives the same materials. Save your reales for ship upgrades, not pelts.
+
+---
+
 ## Related Guides
 - [All Treasure Maps & Locations](/games/ac-black-flag/ac-black-flag-treasure-maps)
 - [Best Ship Upgrades & Jackdaw Guide](/games/ac-black-flag/ac-black-flag-ship-upgrades)

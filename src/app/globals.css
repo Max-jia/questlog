@@ -239,6 +239,15 @@ body {
   height: auto;
 }
 
+/* Guide content: spoiler blocks (<details>) */
+.guide-content details > :not(summary) {
+  padding: 1rem 1.25rem;
+}
+
+.guide-content details[open] > summary {
+  border-bottom-color: var(--border-color);
+}
+
 /* Neon glow utility */
 .neon-border {
   border: 1px solid var(--border-accent);

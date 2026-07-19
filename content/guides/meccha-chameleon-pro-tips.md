@@ -88,6 +88,22 @@ sources:
 
 22. **Backrooms, Ceiling light halo.** Position yourself directly above a ceiling light. The light's glow creates a halo effect that hides your outline.
 
+---
+
+## Frequently Asked Questions
+
+**Q: Why do I keep getting caught even though my color match is perfect?**
+A: Three likely reasons: you left shadows on (press V), your roughness/metallic settings don't match the surface, or you are hiding on a blank wall. Seekers spot human shapes on blank surfaces instantly. Move to a cluttered area and re-check your material settings.
+
+**Q: Which map is best for beginner hiders?**
+A: Penguin Hotel. Large rooms, hundreds of plushie props to hide among, soft lighting, and low seeker visibility. Avoid Osaka and Backrooms as a beginner — both have harsh lighting and few hiding spots.
+
+**Q: Should I main hider or seeker?**
+A: Neither. The best players play both. Understanding seeker scanning patterns makes you a better hider. Knowing common hiding spots makes you a better seeker. Play at least 20 matches on each role before specializing.
+
+**Q: How do custom maps work? Can I play them with friends?**
+A: Custom maps are on the Steam Workshop. Subscribe to one and it auto-downloads. In the lobby, custom maps appear in purple. All players in your lobby must be subscribed to the same map. The host selects it in the map picker.
+
 
 ---
 

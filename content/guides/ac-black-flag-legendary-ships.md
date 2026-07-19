@@ -65,6 +65,16 @@ Fire barrels deal massive damage to Legendary Ships. More importantly, Legendary
 
 ---
 
+### Common Mistakes
+
+- **Fighting without Elite upgrades.** You need Elite hull, cannons, mortars, and all three officers. A base-level Jackdaw dies in two rams from El Impoluto. Minimum 80% ship completion before attempting any Legendary.
+- **Chasing El Impoluto head-on.** It rams you. That is its entire strategy. If you chase it, it turns and rams. Circle it instead. Mortar it while it loops back. Do not chase.
+- **Focusing one twin too long in the HMS Fearless + Royal Sovereign fight.** If you sink one and take more than 2 minutes on the other, reinforcements arrive. Keep both ships alive until both are near death, then finish them back to back.
+- **Ignoring La Dama Negra's mortar range.** It fires mortars from extreme range that hit harder than any other Legendary ship's mortars. If you see the red circle on the water, break your turn immediately. Do not finish your broadside.
+- **Forgetting fire barrels in your inventory.** You can carry 30+ fire barrels. Drop them in the path of an approaching Legendary Ship and they detonate on contact for free damage. Most players never use them.
+
+---
+
 ## Related Guides
 - [Best Ship Upgrades Guide](/games/ac-black-flag/ac-black-flag-ship-upgrades)
 - [Beginner's Guide](/games/ac-black-flag/ac-black-flag-beginner-guide)

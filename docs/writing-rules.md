@@ -127,6 +127,22 @@ sources:
 
 6. **字數要求**：每篇 800 字以上（英文以 `wc -w` 計算的單詞數）。農場模擬等內容密集型遊戲可達 1000+。
 
+7. **劇透內容**使用 HTML `<details>` 標籤包裹，前端會自動渲染為可折疊的 Spoiler 區塊：
+
+```html
+<details>
+<summary>Spoiler: Final Boss Identity</summary>
+
+The final boss is actually Lord Draven, who faked his death in Chapter 3.
+
+- Phase 1: He uses shadow magic
+- Phase 2: Summons undead minions
+- Weakness: Holy water and light spells
+</details>
+```
+
+`<summary>` 中的文字會顯示為可點擊的「點擊展開」標題。`<details>` 內的其餘內容預設隱藏，點擊後展開。適用場景：劇情轉折、Boss 攻略、隱藏結局條件。
+
 ---
 
 ## 五、發文節奏規則

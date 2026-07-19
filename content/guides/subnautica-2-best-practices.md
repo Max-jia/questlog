@@ -105,6 +105,22 @@ The current Early Access map has lethal "out of bounds" zones. If the water turn
 
 ---
 
+---
+
+## Frequently Asked Questions
+
+**Q: Should I build my first base in the Shallows or go deeper?**
+A: Build your first real base in the Shallows (25-50m). It is safe, has easy access to Titanium and Quartz, and the Lifepod Fabricator is too limited for mid-game recipes. Move deeper once you have the Tadpole with depth modules.
+
+**Q: What is the first vehicle I should build?**
+A: The Tadpole (mini-sub). It unlocks at 5-6 hours in and gives you oxygen, a storage locker, and depth protection. The Manta (larger sub) comes later and requires more resources. Do not rush the Manta.
+
+**Q: Is co-op easier or harder?**
+A: Easier for exploration and combat (two people can tag-team leviathans). Harder for resource management (you need 2× the food, water, and oxygen tanks). Play with someone who has similar playtime; a new player slows you down more than they help.
+
+**Q: Which biome should I avoid as a beginner?**
+A: The Veil Trench. It looks like a normal deep biome but contains 3 Collector Leviathan spawns within 200 meters. The game does not warn you. Stay above 200m until you have a Tadpole with at least one depth module.
+
 ### Related Guides
 - [Beginner's guide, first hours survival](/games/subnautica-2/subnautica-2-beginner-guide)
 - [Complete resource and crafting guide](/games/subnautica-2/subnautica-2-resources-guide)

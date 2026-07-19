@@ -98,6 +98,16 @@ Dungeon entrances. Ore clusters. Skillfruit Trees. Boss locations. Dungeon locat
 
 ---
 
+### Common Beginner Mistakes
+
+- **Putting stat points into Attack.** Your damage comes from Pals, not you. Stamina and Health keep you alive. Attack is the last stat you need.
+- **Catching only one of each Pal.** The XP bonus stacks per 12 caught. Players who catch one of each level at half the speed of players who catch 12.
+- **Sticking with your Early Access save.** The 1.0 update changed dungeon locations, Pal stats, and quest progression. Old saves have broken quests and missing features.
+- **Building on slopes or cliffs.** Pals get stuck on uneven terrain and stop working. Flat ground near ore and trees is not optional.
+- **Rushing the first tower boss at level 12.** Zoe & Grizzbolt is level 15. You need a full team at 15+, crafted armor, and at least 50 arrows. Going in early wastes time and spheres.
+
+---
+
 ## Related Guides
 - [Best early game Pals](/games/palworld/palworld-best-pals)
 - [Base building guide](/games/palworld/palworld-base-building)

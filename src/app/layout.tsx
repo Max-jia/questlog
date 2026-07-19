@@ -73,6 +73,26 @@ export default function RootLayout({
     >
       <head>
         <meta name="google-site-verification" content="aaUW1_LvABM8azEDMgMeeo2FxryGrqQk33pyD4c8rFg" />
+        {/* WebSite schema with Sitelinks Search Box */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "QuestLog",
+              url: "https://questlog.cc",
+              potentialAction: {
+                "@type": "SearchAction",
+                target: {
+                  "@type": "EntryPoint",
+                  urlTemplate: "https://questlog.cc/search?q={search_term_string}",
+                },
+                "query-input": "required name=search_term_string",
+              },
+            }),
+          }}
+        />
         {adsenseId && (
           <script
             async

@@ -97,6 +97,22 @@ Physical copies contain a **download code only**, no disc included.
 
 **Recommendation:** For most dedicated GTA players, the Ultimate Edition is worth the $20 upgrade. The vehicle and weapon bonuses alone would cost more if sold separately as microtransactions. Plus the exclusive gang raid mission and Classic Car Collection are actual additional gameplay, not cosmetics.
 
+---
+
+## Frequently Asked Questions
+
+**Q: When is the best time to pre-order?**
+A: Pre-orders opened June 25, 2026. If you want the Ultimate Edition physical, order now — they are limited stock and scalpers will buy them out. If you are buying digital Standard Edition, you can wait until launch day; there is no stock limit and the pre-order bonus is minor.
+
+**Q: Will there be a PC version at launch?**
+A: No. Rockstar has not announced a PC release date. Based on GTA V and RDR2 patterns, expect PC 12-24 months after console launch (late 2027 to late 2028). Do not pre-order expecting to play on PC.
+
+**Q: Can I cancel my pre-order?**
+A: Yes. PlayStation and Xbox both allow pre-order cancellation up to the release date. Amazon charges on shipment so cancellation is free. Digital pre-orders through the PlayStation/Xbox store can be refunded if you request within 14 days of purchase and have not downloaded the game.
+
+**Q: Are the pre-order bonuses exclusive or can I earn them in-game?**
+A: The pre-order weapons and vehicles are exclusive — they cannot be earned in-game. The $1M in-game cash bonus is also exclusive to pre-orders. However, none of these are required to progress or enjoy the game; they are quality-of-life bonuses for early game.
+
 
 ---
 

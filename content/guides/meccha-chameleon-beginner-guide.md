@@ -167,6 +167,16 @@ A: The game is lightweight and runs on most modern PCs. For low-end machines, lo
 **Q: Can I create my own maps?**
 A: Yes! Custom maps are made with Unreal Engine 5 and uploaded to the Steam Workshop. Subscribing to workshop maps is simple, click Subscribe and the game auto-downloads them.
 
+---
+
+### Common Beginner Mistakes
+
+- **Painting before you pose.** If you paint first then lock a pose, your paint job shifts and your colors no longer match the surface. Always lock your pose with R first, then paint.
+- **Leaving shadows on.** This is the single most overlooked setting. With shadows on, you cast a dark blob on the surface behind you. Seekers see this instantly. Press V every match.
+- **Hiding on blank walls.** New players pick the first wall they see. Seekers scan blank walls first. Hide in clutter: shelves, boxes, posters, anything that breaks up your silhouette.
+- **Ignoring roughness and metallic.** A perfect color match doesn't matter if you're shiny against matte wood. Adjust the Roughness and Metallic sliders after every paint job.
+- **Using clones too early.** Clones are high-risk. If a hunter shoots yours, you die too. Master basic hiding first. Clones are for players who can already survive full rounds.
+
 
 ---
 

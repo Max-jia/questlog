@@ -101,4 +101,20 @@ These are completely optional but required for 100% completion. Each one drops 2
 
 **Ramming for Boarding**: A ram that brings the enemy below 10% health will automatically trigger the boarding prompt even if you have not disabled the ship. This is the fastest way to capture schooners and brigs.
 
+---
+
+## Frequently Asked Questions
+
+**Q: Should I always board or sometimes just sink?**
+A: Board always. Boarding gives resources (wood, metal, cloth, rum, sugar), crew recruitment, and ship upgrade progress. Sinking gives you nothing. The only exception: if you are in a 3v1 fight and low on health, sometimes you need to sink one quickly to even the odds.
+
+**Q: What is the optimal broadside range?**
+A: 80-120 meters. At this range, your broadsides deal full damage and you have time to react to enemy return fire. At 0-50 meters, you deal more damage but eat every enemy shot. At 150+ meters, damage drops off and mortars are more effective.
+
+**Q: Chain shot vs round shot vs heavy shot — when do I use each?**
+A: Chain shot disables sails (immobilize). Round shot is your default anti-hull DPS. Heavy shot slows the enemy ship and deals bonus damage to weak points. Rotation: chain shot to stop them → heavy shot to slow and weaken → round shot to finish. Then board.
+
+**Q: How do I deal with multiple ships at once?**
+A: Target the fastest ship first (brigs and schooners close distance faster than frigates). Use fire barrels as a barrier between you and the second ship. Mortar the second ship while broadsiding the first. If a ship boards you, you lose — prevent any ship from reaching ramming range.
+
 ## Related Guides

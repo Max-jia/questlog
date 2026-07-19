@@ -149,6 +149,16 @@ These apply to every dangerous creature:
 | **Dash (Biomod)** | ⭐⭐⭐ | Burst evasion, Deepwing escapes |
 | **Repair Tool** | ⭐⭐⭐ | Post-encounter Tadpole repair |
 
+---
+
+### Common Mistakes That Get You Killed
+
+- **Swimming in straight lines.** Leviathans predict straight-line movement. Every attack tracks you if you don't turn. Zigzag, dive, or change direction the moment you hear the roar.
+- **Going back to the same spot too soon.** A leviathan stays aggressive for 2-3 minutes after losing sight of you. Returning to the exact spot within that window is a guaranteed second attack.
+- **Confusing the Great Jaw with the Collector.** The Great Jaw chases you. You run. The Collector drags you. You fight the pull. If you use Collector tactics on a Great Jaw, you die.
+- **Exploring without any defense tool.** A Sonic Resonator costs 2 Titanium and 1 Copper. It stuns every leviathan in the game for 3 seconds. Go without one and you have no panic button when things go wrong.
+- **Panicking and emptying your Wakemaker boost.** Wakemaker has a 5-second cooldown between dashes. If you spam all three dashes at once, you have no escape for 5 seconds. Dash once, change direction, dash again.
+
 
 ---
 

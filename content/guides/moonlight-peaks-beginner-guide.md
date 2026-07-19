@@ -139,4 +139,14 @@ Most players ignore Nokturna because "it is just a minigame." This is a mistake.
 
 **Starter deck recommendation**: 3x Bat Shield (defense), 3x Crimson Heal (healing), 2x Wolf Strike (attack). This deck beats every early NPC.
 
+---
+
+### Common Beginner Mistakes
+
+- **Planting daytime crops.** You are a vampire. Sunlight kills daytime crops. Plant Nightshade, Moonbell, and Gloomroot. If a seed description mentions "full sun," it is not for you.
+- **Ignoring the coffin curfew.** If you are outside past 4:00 AM, you take damage. Not "it gets hard." You lose health until you die. Every new player dies to the sunrise at least once.
+- **Skipping Bat Form.** You cannot fly without it. At least 5 NPCs and 2 shops are only accessible via rooftops and upper floors. Unlock it by completing the prologue, then talk to Lysander in the bell tower.
+- **Trying to romance everyone at once.** You can date multiple NPCs but gifting the same type of item to two different romance candidates on the same day triggers jealousy dialogue and temporary relationship penalties. Focus on 1-2 per season.
+- **Ignoring the main story for too long.** The Seven Families questline gates entire areas, shops, and NPCs. If you farm for 20 hours without touching the story, you lock yourself out of half the content.
+
 ## Related Guides

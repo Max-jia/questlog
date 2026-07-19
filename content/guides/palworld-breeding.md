@@ -88,6 +88,22 @@ Normal and Hard world settings now incubate eggs in roughly half the time compar
 
 ---
 
+## Frequently Asked Questions
+
+**Q: How do I pass a specific passive skill to a baby Pal?**
+A: The baby inherits passives from both parents randomly. To guarantee a passive, both parents must have it. If only one parent has "Artisan," the baby has roughly a 40% chance to inherit it. If both have it, it is nearly guaranteed. Breed the parents until both carry the target passive, then breed them together.
+
+**Q: Does the order of parents matter?**
+A: No. Male first or female first produces the same result. The egg always hatches the species of the mother, but passives can come from either parent.
+
+**Q: Can two different Pal species breed?**
+A: Yes. The offspring species is determined by a hidden "breeding value" for each combination. For example, Relaxaurus + Sparkit = Anubis. This is how you get high-tier Pals without finding them in the wild.
+
+**Q: Why is my egg not hatching?**
+A: Each egg needs specific temperature conditions. Frozen eggs need a heat source (campfire, heater). Scorching eggs need a cooler. The incubator displays "too cold" or "too hot" — adjust with the nearest heat/cool source. Outdoor temperature also matters; do not incubate frozen eggs in the desert.
+
+---
+
 ## Related Guides
 - [Mutation guide](/games/palworld/palworld-mutations)
 - [Awakening guide](/games/palworld/palworld-awakening)

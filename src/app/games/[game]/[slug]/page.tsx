@@ -4,6 +4,7 @@ import { getGuide, getGuidesByGame } from "@/lib/content";
 import ReactMarkdown from "react-markdown";
 import { KeybindCard, GameModeCards, MapLayout, SkinCard, TipBox, ChameleonIcon } from "@/components/Visuals";
 import ShareButtons from "@/components/ShareButtons";
+import TableOfContents from "@/components/TableOfContents";
 
 /** Parse Q&A from FAQ content for Schema.org structured data */
 function parseFAQ(content: string): { question: string; answer: string }[] {
@@ -156,31 +157,78 @@ export default async function GuidePage({ params }: { params: Promise<{ game: st
   const allGuides = getGuidesByGame(game).filter((g) => g.slug !== slug).slice(0, 3);
   const wordCount = content.split(/\s+/).length;
   const readingTime = Math.max(1, Math.ceil(wordCount / 200));
-  const isFAQ = meta.category === "FAQ";
-  const faqItems = isFAQ ? parseFAQ(content) : [];
+  const faqItems = parseFAQ(content);
+  const siteUrl = "https://questlog.cc";
+  const canonicalUrl = `${siteUrl}/games/${game}/${slug}`;
+  const datePublished = meta.date;
 
   return (
-    <article className="mx-auto max-w-4xl px-4 sm:px-6 py-10 lg:py-14">
-      {/* FAQ Schema.org structured data */}
-      {isFAQ && faqItems.length > 0 && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
+    <div className="flex justify-center">
+    <article className="flex-1 max-w-4xl px-4 sm:px-6 py-10 lg:py-14 min-w-0">
+      {/* ===== Structured Data (Schema.org) ===== */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify([
+            /* Article schema — all guides */
+            {
               "@context": "https://schema.org",
-              "@type": "FAQPage",
-              mainEntity: faqItems.map((item) => ({
-                "@type": "Question",
-                name: item.question,
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: item.answer,
+              "@type": "Article",
+              headline: meta.title,
+              description: meta.excerpt,
+              datePublished,
+              dateModified: meta.date,
+              author: { "@type": "Organization", name: "QuestLog", url: siteUrl },
+              publisher: { "@type": "Organization", name: "QuestLog", url: siteUrl },
+              mainEntityOfPage: { "@type": "WebPage", "@id": canonicalUrl },
+              ...(meta.tags && meta.tags.length > 0
+                ? { keywords: meta.tags.join(", ") }
+                : {}),
+            },
+            /* BreadcrumbList schema */
+            {
+              "@context": "https://schema.org",
+              "@type": "BreadcrumbList",
+              itemListElement: [
+                {
+                  "@type": "ListItem",
+                  position: 1,
+                  name: "Home",
+                  item: siteUrl,
                 },
-              })),
-            }),
-          }}
-        />
-      )}
+                {
+                  "@type": "ListItem",
+                  position: 2,
+                  name: meta.gameName,
+                  item: `${siteUrl}/games/${meta.game}`,
+                },
+                {
+                  "@type": "ListItem",
+                  position: 3,
+                  name: meta.title,
+                },
+              ],
+            },
+            /* FAQPage schema — any article with Q&A sections */
+            ...(faqItems.length > 0
+              ? [
+                  {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    mainEntity: faqItems.map((item) => ({
+                      "@type": "Question",
+                      name: item.question,
+                      acceptedAnswer: {
+                        "@type": "Answer",
+                        text: item.answer,
+                      },
+                    })),
+                  },
+                ]
+              : []),
+          ]),
+        }}
+      />
 
       {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-sm text-text-muted mb-8 flex-wrap">
@@ -245,7 +293,70 @@ export default async function GuidePage({ params }: { params: Promise<{ game: st
 
       {/* Markdown content */}
       <div className="guide-content">
-        <ReactMarkdown>{content}</ReactMarkdown>
+        <ReactMarkdown
+          components={{
+            /* Add IDs to headings for TOC anchor links */
+            h2: ({ children, ...props }) => {
+              const text = extractText(children);
+              const id = slugify(text);
+              return (
+                <h2 id={id} {...props}>
+                  {children}
+                </h2>
+              );
+            },
+            h3: ({ children, ...props }) => {
+              const text = extractText(children);
+              const id = slugify(text);
+              return (
+                <h3 id={id} {...props}>
+                  {children}
+                </h3>
+              );
+            },
+            /* Style <details> as spoiler blocks */
+            details: ({ children, ...props }) => (
+              <details
+                className="my-5 rounded-xl border border-amber-500/30 bg-amber-500/[0.04] overflow-hidden group"
+                {...props}
+              >
+                {children}
+              </details>
+            ),
+            summary: ({ children, ...props }) => (
+              <summary
+                className="cursor-pointer px-5 py-3 text-sm font-semibold text-amber-400 hover:text-amber-300 transition-colors select-none bg-amber-500/[0.06] border-b border-amber-500/20"
+                {...props}
+              >
+                <span className="inline-flex items-center gap-2">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-4 w-4 flex-shrink-0 group-open:hidden"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
+                    />
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"
+                    />
+                  </svg>
+                  {children}
+                </span>
+              </summary>
+            ),
+          }}
+        >
+          {content}
+        </ReactMarkdown>
       </div>
 
       {/* ===== Credibility Footer ===== */}
@@ -276,9 +387,11 @@ export default async function GuidePage({ params }: { params: Promise<{ game: st
               Game v<strong className="text-text-secondary">{meta.gameVersion}</strong>
             </span>
           )}
-          <span className="text-xs text-text-muted">
-            Updated <strong className="text-text-secondary">{meta.date}</strong>
-          </span>
+          {meta.dateModified && meta.dateModified !== meta.date && (
+            <span className="text-xs text-text-muted">
+              Updated <strong className="text-text-secondary">{meta.dateModified}</strong>
+            </span>
+          )}
         </div>
 
         {/* Sources */}
@@ -340,5 +453,30 @@ export default async function GuidePage({ params }: { params: Promise<{ game: st
         </Link>
       </div>
     </article>
+
+    {/* Sticky table of contents (desktop only) */}
+    <TableOfContents content={content} readingTime={readingTime} />
+    </div>
   );
+}
+
+/** Extract plain text from React children */
+function extractText(children: React.ReactNode): string {
+  if (typeof children === "string") return children;
+  if (typeof children === "number") return String(children);
+  if (Array.isArray(children)) return children.map(extractText).join("");
+  if (children && typeof children === "object" && "props" in children) {
+    return extractText((children as { props: { children?: React.ReactNode } }).props.children);
+  }
+  return "";
+}
+
+/** Slugify a heading string for anchor IDs */
+function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
 }

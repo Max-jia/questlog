@@ -10,6 +10,7 @@ export interface GuideMeta {
   game: string;
   gameName: string;
   date: string;
+  dateModified?: string;
   slug: string;
   category?: string;
   tags?: string[];
@@ -79,8 +80,14 @@ export function getGuide(
 
   if (data.game !== gameSlug) return null;
 
+  /* Detect last modified from filesystem mtime, fallback to date */
+  const stats = fs.statSync(filePath);
+  const mtime = stats.mtime.toISOString().slice(0, 10);
+  const dateModified =
+    mtime !== data.date ? mtime : undefined;
+
   return {
-    meta: { ...data, slug: guideSlug } as GuideMeta,
+    meta: { ...data, slug: guideSlug, dateModified } as GuideMeta,
     content,
   };
 }
