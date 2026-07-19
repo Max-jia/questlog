@@ -179,6 +179,95 @@ export function MecchaIllustration() {
   );
 }
 
+export function MoonlightPeaksIllustration() {
+  return (
+    <svg viewBox="0 0 300 240" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-full h-auto max-w-[280px] opacity-90"
+      style={{ animation: "moonlight-float 7s ease-in-out infinite" }}>
+      <style>{`
+        @keyframes moonlight-float {
+          0%, 100% { transform: translateY(0) rotate(0deg); }
+          33% { transform: translateY(-10px) rotate(1deg); }
+          66% { transform: translateY(-3px) rotate(-1deg); }
+        }
+        @keyframes bat-flap {
+          0%, 100% { transform: scaleY(1) rotate(0deg); }
+          50% { transform: scaleY(0.6) rotate(-5deg); }
+        }
+        @keyframes bat-fly {
+          0% { transform: translate(-20px, 10px); }
+          25% { transform: translate(30px, -15px); }
+          50% { transform: translate(10px, 5px); }
+          75% { transform: translate(25px, -8px); }
+          100% { transform: translate(-20px, 10px); }
+        }
+        @keyframes star-twinkle {
+          0%, 100% { opacity: 0.2; transform: scale(1); }
+          50% { opacity: 0.7; transform: scale(1.8); }
+        }
+        @keyframes moon-glow {
+          0%, 100% { opacity: 0.15; }
+          50% { opacity: 0.3; }
+        }
+        @keyframes mist-drift {
+          0% { transform: translateX(-10px); opacity: 0.15; }
+          100% { transform: translateX(10px); opacity: 0.05; }
+        }
+      `}</style>
+      {/* Night sky gradient */}
+      <defs><radialGradient id="moonGlow"><stop offset="0%" stopColor="#C084FC" stopOpacity="0.2"/><stop offset="100%" stopColor="#C084FC" stopOpacity="0"/></radialGradient></defs>
+      {/* Moon glow */}
+      <circle cx="230" cy="60" r="50" fill="url(#moonGlow)" style={{ animation: "moon-glow 4s ease-in-out infinite" }} />
+      {/* Moon crescent */}
+      <circle cx="230" cy="60" r="22" fill="#E9D5FF" opacity="0.25" />
+      <circle cx="238" cy="55" r="18" fill="#0A0E11" />
+      {/* Stars */}
+      {[
+        [40,30],[80,70],[120,20],[160,55],[55,90],[95,40],[260,100],[180,30],[60,55],[270,45],[140,80],[30,95]
+      ].map(([cx, cy], i) => (
+        <circle key={i} cx={cx} cy={cy} r={1.2 + (i % 3) * 0.4} fill="#E9D5FF"
+          style={{ animation: `star-twinkle ${2 + i * 0.7}s ease-in-out ${i * 0.5}s infinite` }} />
+      ))}
+      {/* Mist layers */}
+      <ellipse cx="150" cy="180" rx="120" ry="8" fill="#C084FC" opacity="0.1" style={{ animation: "mist-drift 5s ease-in-out infinite alternate" }} />
+      <ellipse cx="140" cy="190" rx="100" ry="6" fill="#C084FC" opacity="0.08" style={{ animation: "mist-drift 6s ease-in-out 2s infinite alternate" }} />
+      {/* Bat silhouette */}
+      <g style={{ animation: "bat-fly 8s ease-in-out infinite", transformOrigin: "120px 100px" }}>
+        <g style={{ animation: "bat-flap 0.4s ease-in-out infinite", transformOrigin: "120px 100px" }}>
+          {/* Bat body */}
+          <ellipse cx="120" cy="100" rx="6" ry="10" fill="#1C1520" stroke="#C084FC" strokeWidth="1" opacity="0.7" />
+          {/* Left wing */}
+          <path d="M118 95 Q95 70 72 60 Q88 78 102 95 Z" fill="#1C1520" stroke="#C084FC" strokeWidth="0.8" opacity="0.6" />
+          <path d="M116 98 Q98 82 80 78 Q92 90 104 100 Z" fill="#1C1520" stroke="#C084FC" strokeWidth="0.8" opacity="0.5" />
+          {/* Right wing */}
+          <path d="M122 95 Q145 70 168 60 Q152 78 138 95 Z" fill="#1C1520" stroke="#C084FC" strokeWidth="0.8" opacity="0.6" />
+          <path d="M124 98 Q142 82 160 78 Q148 90 136 100 Z" fill="#1C1520" stroke="#C084FC" strokeWidth="0.8" opacity="0.5" />
+          {/* Ears */}
+          <path d="M116 92 L113 84 L118 90" fill="#1C1520" stroke="#C084FC" strokeWidth="0.6" opacity="0.5" />
+          <path d="M124 92 L127 84 L122 90" fill="#1C1520" stroke="#C084FC" strokeWidth="0.6" opacity="0.5" />
+          {/* Eyes */}
+          <circle cx="118" cy="98" r="1.5" fill="#EC4899" opacity="0.6" />
+          <circle cx="122" cy="98" r="1.5" fill="#EC4899" opacity="0.6" />
+        </g>
+      </g>
+      {/* Gothic castle silhouette (bottom) */}
+      <path d="M20 200 L20 170 L35 170 L35 185 L45 185 L45 165 L55 165 L55 190 L70 190 L70 160 L80 160 L80 190 L95 190 L95 175 L105 175 L105 195 L120 195 L120 168 L130 168 L130 195 L145 195 L145 178 L155 178 L155 192 L170 192 L170 165 L180 165 L180 195 L195 195 L195 180 L205 180 L205 192 L220 192 L220 170 L230 170 L230 190 L245 190 L245 168 L255 168 L255 188 L270 188 L270 175 L280 175 L280 200 Z" fill="#1C1520" stroke="#C084FC" strokeWidth="0.8" opacity="0.25" />
+      {/* Farm crops (small shapes in front) */}
+      {[35, 65, 100, 130, 160, 195, 225, 255].map((x, i) => (
+        <g key={i}>
+          <line x1={x} y1={200} x2={x} y2={190 - (i % 3) * 4} stroke="#C084FC" strokeWidth="1" opacity="0.2" />
+          <circle cx={x} cy={190 - (i % 3) * 4} r={1.5} fill="#EC4899" opacity="0.15" />
+        </g>
+      ))}
+      {/* Floating petals / leaves */}
+      {[80, 150, 200, 250, 100, 170].map((x, i) => (
+        <ellipse key={i} cx={x} cy={140 + i * 5} rx={3} ry={1.5} fill="#C084FC" opacity="0.15"
+          transform={`rotate(${i * 30} ${x} ${140 + i * 5})`}
+          style={{ animation: `mist-drift ${4 + i * 1.5}s ease-in-out ${i * 0.8}s infinite alternate` }} />
+      ))}
+    </svg>
+  );
+}
+
 /** Returns the right illustration for each game */
 export default function HeroIllustration({ game }: { game?: string }) {
   switch (game) {
@@ -187,6 +276,7 @@ export default function HeroIllustration({ game }: { game?: string }) {
     case "palworld": return <PalworldIllustration />;
     case "gta-6": return <GTAIllustration />;
     case "ac-black-flag": return <BlackFlagIllustration />;
+    case "moonlight-peaks": return <MoonlightPeaksIllustration />;
     default: return <QuestLogMark />;
   }
 }
