@@ -27,13 +27,23 @@ export default function SearchDialog({
   const inputRef = useRef<HTMLInputElement>(null);
   const router = useRouter();
 
-  /* Focus input on open */
+  /* Focus input on open + lock body scroll */
   useEffect(() => {
     if (open) {
       setQuery("");
       setResults([]);
-      setTimeout(() => inputRef.current?.focus(), 50);
+      /* Lock body scroll to prevent layout shift from scrollbar disappearing */
+      const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
+      document.body.style.overflow = "hidden";
+      if (scrollbarWidth > 0) {
+        document.body.style.paddingRight = `${scrollbarWidth}px`;
+      }
+      requestAnimationFrame(() => inputRef.current?.focus());
     }
+    return () => {
+      document.body.style.overflow = "";
+      document.body.style.paddingRight = "";
+    };
   }, [open]);
 
   /* Debounced search */
@@ -97,7 +107,7 @@ export default function SearchDialog({
   };
 
   return (
-    <div className="fixed inset-0 z-[100]">
+    <div className="fixed inset-0 z-[100] ql-animate-in">
       {/* Backdrop */}
       <div
         className="absolute inset-0 bg-black/60 backdrop-blur-sm"
@@ -107,7 +117,7 @@ export default function SearchDialog({
       {/* Dialog */}
       <div className="absolute top-[15vh] left-1/2 -translate-x-1/2 w-full max-w-xl mx-auto px-4">
         <div
-          className="bg-bg-card border border-border rounded-2xl shadow-2xl overflow-hidden"
+          className="bg-bg-card border border-border rounded-2xl shadow-2xl overflow-hidden ql-scale-in"
           onClick={(e) => e.stopPropagation()}
         >
           {/* Input */}
