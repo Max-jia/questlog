@@ -25,6 +25,7 @@ sources:
     url: "https://www.nintendo.com/en-ca/store/products/moonlight-peaks-switch/"
 ---
 
+![Moonlight Peaks magic and potions](/images/moonlight-peaks/screenshots/hero-magic-potions.jpg)
 The magic system in Moonlight Peaks has two branches: spells (equipped and cast with a mana bar) and potions (crafted and consumed). You unlock both through the Witch Coven questline. Here is every recipe, every spell, and which ones are actually worth your ingredients.
 
 ---

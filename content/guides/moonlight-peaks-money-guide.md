@@ -23,6 +23,7 @@ sources:
     url: "https://www.cloudedleopardent.com/game/moonlightpeaks/en/"
 ---
 
+![Moonlight Peaks money guide](/images/moonlight-peaks/screenshots/hero-money-guide.jpg)
 Money in Moonlight Peaks comes from four sources: farming, livestock, the Nokturna card game, and mining for gems. Here is how much each earns, the optimal strategy for each, and how to stack them for maximum gold.
 
 ---

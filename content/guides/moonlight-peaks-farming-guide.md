@@ -25,6 +25,7 @@ sources:
     url: "https://www.siliconera.com/vampire-cozy-life-sim-moonlight-peaks-release-date-set/"
 ---
 
+![Moonlight Peaks farming guide](/images/moonlight-peaks/screenshots/hero-farming-guide.jpg)
 Farming in Moonlight Peaks happens exclusively at night, uses enchanted tools for automation, and includes magical crops and livestock that behave nothing like their Stardew Valley counterparts. This guide covers every crop, every animal, and the optimal farm layout.
 
 ---

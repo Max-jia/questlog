@@ -24,6 +24,7 @@ sources:
     url: "https://www.siliconera.com/vampire-cozy-life-sim-moonlight-peaks-release-date-set/"
 ---
 
+![Moonlight Peaks beginner guide](/images/moonlight-peaks/screenshots/hero-beginner-guide.jpg)
 Moonlight Peaks is not Stardew Valley with fangs; the night-only schedule, vampire abilities, and supernatural NPCs create a completely different rhythm. Here are the 10 things you need to know before your first sunrise.
 
 ---

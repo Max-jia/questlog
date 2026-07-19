@@ -23,6 +23,7 @@ sources:
     url: "https://www.cloudedleopardent.com/game/moonlightpeaks/en/"
 ---
 
+![Moonlight Peaks romance guide](/images/moonlight-peaks/screenshots/hero-romance-guide.jpg)
 Moonlight Peaks has about two dozen romanceable NPCs spanning werewolves, witches, mermaids, vampires, and humans. Each has unique gift preferences, a birthday, and heart events that unlock at specific heart levels. Here is every confirmed romance candidate with their gift preferences.
 
 ---
