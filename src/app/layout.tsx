@@ -81,12 +81,12 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "WebSite",
               name: "QuestLog",
-              url: "https://questlog.cc",
+              url: "https://questlog.site",
               potentialAction: {
                 "@type": "SearchAction",
                 target: {
                   "@type": "EntryPoint",
-                  urlTemplate: "https://questlog.cc/search?q={search_term_string}",
+                  urlTemplate: "https://questlog.site/search?q={search_term_string}",
                 },
                 "query-input": "required name=search_term_string",
               },

@@ -158,7 +158,7 @@ export default async function GuidePage({ params }: { params: Promise<{ game: st
   const wordCount = content.split(/\s+/).length;
   const readingTime = Math.max(1, Math.ceil(wordCount / 200));
   const faqItems = parseFAQ(content);
-  const siteUrl = "https://questlog.cc";
+  const siteUrl = "https://questlog.site";
   const canonicalUrl = `${siteUrl}/games/${game}/${slug}`;
   const datePublished = meta.date;
 
